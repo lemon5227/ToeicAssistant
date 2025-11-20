@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "101",
+    "question": "Our new social organizer’s personal favorites do not include jazz or classical\nmusic, but she loves listening to techno, world music, ------- rock.",
+    "options": [
+      "so",
+      "but",
+      "yet",
+      "and"
+    ],
+    "answer": null
+  },
+  {
+    "id": "102",
+    "question": "It is strongly advised that you check that you have all your essential documents\nin a briefcase ------- you set out on an international trip.",
+    "options": [
+      "upon",
+      "before",
+      "beside\n876",
+      "next to"
+    ],
+    "answer": null
+  },
+  {
+    "id": "103",
+    "question": "The most ------- piece in the collection was acquired by our founder and\nprincipal patron during an archaeological expedition he undertook in 1935.",
+    "options": [
+      "value",
+      "valuing",
+      "values",
+      "valuable"
+    ],
+    "answer": null
+  },
+  {
+    "id": "104",
+    "question": "At this year’s orientation session, the general manager ------- took the time to\npersonally welcome all new recruits in her usual, affable manner.",
+    "options": [
+      "she",
+      "her",
+      "hers",
+      "herself"
+    ],
+    "answer": null
+  },
+  {
+    "id": "105",
+    "question": "Our latest customer ------- survey reveals some problems in the after-sales\nservice area, especially the lack of a telephone hotline.",
+    "options": [
+      "satisfying",
+      "satisfied",
+      "satisfaction",
+      "satisfactory"
+    ],
+    "answer": null
+  },
+  {
+    "id": "106",
+    "question": "Our on-going, ------- development seminars allow staff members to develop\ntheir skills in various directions.",
+    "options": [
+      "profession",
+      "professionally",
+      "professional",
+      "professionalism\n877"
+    ],
+    "answer": null
+  },
+  {
+    "id": "107",
+    "question": "If you wish to register for State University’s new Academic News Update ----\n---, please log-in, click on the“register” box, and then list your preferences.",
+    "options": [
+      "service",
+      "servicing",
+      "serviced",
+      "serviceable"
+    ],
+    "answer": null
+  },
+  {
+    "id": "108",
+    "question": "The music faculty offers free weekly seminars designed to encourage young\nmusicians to begin ------- their own masterpieces.",
+    "options": [
+      "composer",
+      "composes",
+      "composed",
+      "composing"
+    ],
+    "answer": null
+  },
+  {
+    "id": "109",
+    "question": "At the latest meeting of the Business Advisory Council, the newly elected\npresident ------- that the council extend its activities to the field of social justice.",
+    "options": [
+      "propose",
+      "proposal",
+      "proposing",
+      "proposed"
+    ],
+    "answer": null
+  },
+  {
+    "id": "110",
+    "question": "To celebrate our tenth year in the stationery supply business, we’d like to offer\na special bonus discount ------- our most loyal customers.",
+    "options": [
+      "to",
+      "by",
+      "as",
+      "at"
+    ],
+    "answer": null
+  },
+  {
+    "id": "111",
+    "question": "------- recent adjustments in income tax rates, workers will find themselves\n878\n\npleasantly surprised by an increase in the size of their paychecks.",
+    "options": [
+      "Due to",
+      "While",
+      "In fact",
+      "Whether"
+    ],
+    "answer": null
+  },
+  {
+    "id": "112",
+    "question": "Much of investors’ long-held esteem in the company ------- during the share-\nmarket boom when executives were involved in accounting irregularities.",
+    "options": [
+      "losing",
+      "loses",
+      "was lost",
+      "is lost"
+    ],
+    "answer": null
+  },
+  {
+    "id": "113",
+    "question": "The Springborg Hotel chain’s attention to detail and business-friendly pricing\nstructure make our hotels ------- to any others in the mid-priced hotel bracket.",
+    "options": [
+      "better",
+      "improved",
+      "superior",
+      "advanced"
+    ],
+    "answer": null
+  },
+  {
+    "id": "114",
+    "question": "Professor Barkley is not ------- an expert in classical economics but also a\nworld-renowned specialist in international banking laws.",
+    "options": [
+      "over",
+      "only",
+      "less",
+      "alone"
+    ],
+    "answer": null
+  },
+  {
+    "id": "115",
+    "question": "Under the new law, consumers are entitled to ------- if products malfunction or\nfail to perform as promised.\n879",
+    "options": [
+      "compensate",
+      "compensated",
+      "compensating",
+      "compensation"
+    ],
+    "answer": null
+  },
+  {
+    "id": "116",
+    "question": "During the one-month trial period, customers are under no ------- to sign any\ncontracts.",
+    "options": [
+      "pledge",
+      "promise",
+      "obligation",
+      "engagement"
+    ],
+    "answer": null
+  },
+  {
+    "id": "117",
+    "question": "Educational expenses are tax-deductible ------- the taxpayer can show that\nthese expenses enhanced his or her professional skills or expertise.",
+    "options": [
+      "only if",
+      "as if",
+      "as many as",
+      "as much as"
+    ],
+    "answer": null
+  },
+  {
+    "id": "118",
+    "question": "If you cannot make up your mind ------- destination to choose for your summer\nholidays, why not talk with our experienced travel consultants?",
+    "options": [
+      "whom",
+      "which",
+      "on",
+      "about"
+    ],
+    "answer": null
+  },
+  {
+    "id": "119",
+    "question": "The Public Transport Commission’s commitment to running our city’s trains\nand buses as ------- as possible has reduced costs to the taxpayer by 5%.",
+    "options": [
+      "efficient\n880",
+      "efficiency",
+      "efficiently",
+      "efficiencies"
+    ],
+    "answer": null
+  },
+  {
+    "id": "120",
+    "question": "Unfortunately, any benefits gained by lowering prices never ------- if they are\nachieved by a reduction in quality.",
+    "options": [
+      "last",
+      "pass",
+      "spend",
+      "retain"
+    ],
+    "answer": null
+  },
+  {
+    "id": "121",
+    "question": "------- serious disadvantage of the existing plant is the lack of adequate\nventilation; workers frequently complain of nausea and headaches.",
+    "options": [
+      "Any",
+      "Other",
+      "Another",
+      "One another"
+    ],
+    "answer": null
+  },
+  {
+    "id": "122",
+    "question": "Encounter Environmental Tours offers trips to some of the most beautiful and\nisolated wildernesses in the world ------- all the comforts of five-star\naccommodations.",
+    "options": [
+      "both",
+      "plus",
+      "though",
+      "together"
+    ],
+    "answer": null
+  },
+  {
+    "id": "123",
+    "question": "A recent survey showed that the increase in the number of random tax audits\non businesses has been ------- unpopular.",
+    "options": [
+      "predict\n881",
+      "prediction",
+      "to predict",
+      "predictably"
+    ],
+    "answer": null
+  },
+  {
+    "id": "124",
+    "question": "The company is pleased to announce that we have invited several members of\nour experienced ------- and casual staff to become permanent employees.",
+    "options": [
+      "minor",
+      "lengthy",
+      "temporary",
+      "duplicate"
+    ],
+    "answer": null
+  },
+  {
+    "id": "125",
+    "question": "The company admitted that it had been entirely at fault and announced that all\nprofessional fees that it had collected were to be fully -------.",
+    "options": [
+      "refunds",
+      "refunding",
+      "refunded",
+      "is refunded"
+    ],
+    "answer": null
+  },
+  {
+    "id": "126",
+    "question": "Media organizations can be called before a tribunal if they fail to operate -----\n-- the guidelines laid out by federal legislation.",
+    "options": [
+      "within",
+      "among",
+      "between",
+      "from"
+    ],
+    "answer": null
+  },
+  {
+    "id": "127",
+    "question": "These days managers and designers are expected to work ------- to a greater\nextent than in the past.",
+    "options": [
+      "collaboratively",
+      "collaborative\n882",
+      "collaboration",
+      "collaborate"
+    ],
+    "answer": null
+  },
+  {
+    "id": "128",
+    "question": "The unemployment figures ------- last June, no doubt due to the surprise\nclosure of several leading Australian manufacturers.",
+    "options": [
+      "enlarged",
+      "reached",
+      "peaked",
+      "magnified"
+    ],
+    "answer": null
+  },
+  {
+    "id": "129",
+    "question": "The business council stated its opinion that the new penalties for tax evasion\nare out of ------- with the seriousness of the crime.",
+    "options": [
+      "size",
+      "proportion",
+      "equivalence",
+      "combination"
+    ],
+    "answer": null
+  },
+  {
+    "id": "130",
+    "question": "In the interests of consumer safety, the senior management unanimously -------\nto recall all versions of the Alphington and Executive sedans.",
+    "options": [
+      "settled",
+      "picked",
+      "decided",
+      "established\nPart 6\nDirections: In this part, you will be asked to read four English texts. Each\ntext is missing a word, phrase, or sentence. Select the answer choice that\ncorrectly completes the text and mark the corresponding letter",
+      ",",
+      ",",
+      ", or",
+      "on the answer sheet.\n883"
+    ],
+    "answer": null
+  },
+  {
+    "id": "131",
+    "question": "",
+    "options": [
+      "after",
+      "before",
+      "during",
+      "through"
+    ],
+    "answer": null,
+    "passage": "Questions 131-134 refer to the following notice.\nThe High Park Harvest Festival\nA trio of colorful fall events gets underway in October with a horse and\nwagon ride (131) -------- High Park from Grenadier Café to Colborne Lodge.\nAll ages. Oct. 1. $2. Storytelling, face painting, nature-themed crafts, and a\nmarketplace full of autumn treats take (132) -------- residence at the Children’s\nGarden.\nAges three and up. Oct. 1. Free. When the sun sets, brave the Haunted High\nPark tour, a moonlit stroll set to the eerie tales of old Chicago. Pre-registration is\nrequired.\nAges eight and up. Oct. 27 and 28. Adults $10, ages eight and up $5. The\nplayground in the northwest corner of the park becomes pumpkin carving central,\nwhen creations are set adrift on the water (133) -------- the annual High Park\nPumpkin Float. (134) -------- ."
+  },
+  {
+    "id": "132",
+    "question": "",
+    "options": [
+      "off",
+      "on",
+      "up",
+      "care"
+    ],
+    "answer": null,
+    "passage": "Questions 131-134 refer to the following notice.\nThe High Park Harvest Festival\nA trio of colorful fall events gets underway in October with a horse and\nwagon ride (131) -------- High Park from Grenadier Café to Colborne Lodge.\nAll ages. Oct. 1. $2. Storytelling, face painting, nature-themed crafts, and a\nmarketplace full of autumn treats take (132) -------- residence at the Children’s\nGarden.\nAges three and up. Oct. 1. Free. When the sun sets, brave the Haunted High\nPark tour, a moonlit stroll set to the eerie tales of old Chicago. Pre-registration is\nrequired.\nAges eight and up. Oct. 27 and 28. Adults $10, ages eight and up $5. The\nplayground in the northwest corner of the park becomes pumpkin carving central,\nwhen creations are set adrift on the water (133) -------- the annual High Park\nPumpkin Float. (134) -------- ."
+  },
+  {
+    "id": "133",
+    "question": "",
+    "options": [
+      "until",
+      "while\n884",
+      "during",
+      "between"
+    ],
+    "answer": null,
+    "passage": "Questions 131-134 refer to the following notice.\nThe High Park Harvest Festival\nA trio of colorful fall events gets underway in October with a horse and\nwagon ride (131) -------- High Park from Grenadier Café to Colborne Lodge.\nAll ages. Oct. 1. $2. Storytelling, face painting, nature-themed crafts, and a\nmarketplace full of autumn treats take (132) -------- residence at the Children’s\nGarden.\nAges three and up. Oct. 1. Free. When the sun sets, brave the Haunted High\nPark tour, a moonlit stroll set to the eerie tales of old Chicago. Pre-registration is\nrequired.\nAges eight and up. Oct. 27 and 28. Adults $10, ages eight and up $5. The\nplayground in the northwest corner of the park becomes pumpkin carving central,\nwhen creations are set adrift on the water (133) -------- the annual High Park\nPumpkin Float. (134) -------- ."
+  },
+  {
+    "id": "134",
+    "question": "",
+    "options": [
+      "Tickets for adults on Oct. 27 and 28 have been sold out.",
+      "Warm up afterward with some hot cider and storytelling.",
+      "There are two free, colorful fall events on Oct. 1 for locals.",
+      "On Oct. 27, people can enjoy the Hunted High Park tour."
+    ],
+    "answer": null,
+    "passage": "Questions 131-134 refer to the following notice.\nThe High Park Harvest Festival\nA trio of colorful fall events gets underway in October with a horse and\nwagon ride (131) -------- High Park from Grenadier Café to Colborne Lodge.\nAll ages. Oct. 1. $2. Storytelling, face painting, nature-themed crafts, and a\nmarketplace full of autumn treats take (132) -------- residence at the Children’s\nGarden.\nAges three and up. Oct. 1. Free. When the sun sets, brave the Haunted High\nPark tour, a moonlit stroll set to the eerie tales of old Chicago. Pre-registration is\nrequired.\nAges eight and up. Oct. 27 and 28. Adults $10, ages eight and up $5. The\nplayground in the northwest corner of the park becomes pumpkin carving central,\nwhen creations are set adrift on the water (133) -------- the annual High Park\nPumpkin Float. (134) -------- ."
+  },
+  {
+    "id": "135",
+    "question": "",
+    "options": [
+      "with",
+      "by",
+      "for",
+      "along"
+    ],
+    "answer": null,
+    "passage": "Questions 135-138 refer to the following letter.\nMr. Sean Ronald\n1385 Midland Ave.\nSydney\nAustralia\nDear Mr. Ronald,\nOn September 3, you asked me to make hotel reservations for your guests.\nAs per your instruction, 2 rooms (double-bed requested) have been booked at the\nMarco Polo Hong Kong Hotel (135) -------- details as shown:\nGuest Names: Mr. John Simpson & Mr. Mark Fritzler\nCheck-in Date: Sept. 22, 2018\nCheck-out Date: Sept. 25, 2018\nHotel Address: 3 Canton Road, Harbour City, Tsim Sha\nTsui, Kowloon\nHotel Telephone: (852) 2113 0088\nRoom Rate: HK$1,250 net per room per night\nTotal Room Rate: HK$1,250 x 3 nights x 2 rooms =\nHK$7,500\n885\n\n(136) -------- . Simply proceed to counters A16 or B16 (Parklane Counter)\nat the Arrival Hall and pay HK$130 per person for the shuttle bus fare. The\nshuttle bus will take you to the hotel.\nApex/HKG will (137) -------- the room rate for the guests first. Thus, the\nguests are not required to pay the room rate when checking out. Apex/HKG will\n(138) -------- them later. However, if room service such as the mini-bar is used,\nthe guests will need to settle them when checking out.\nSincerely,\nCory White"
+  },
+  {
+    "id": "136",
+    "question": "",
+    "options": [
+      "There is a hotel shuttle bus that can take the guests to the hotel.",
+      "You have booked two rooms at the Marco Polo Hong Kong Hotel.",
+      "Guests will not need to pay for room services such as the mini-bar.",
+      "The room rate must be paid by guests when they check out."
+    ],
+    "answer": null,
+    "passage": "Questions 135-138 refer to the following letter.\nMr. Sean Ronald\n1385 Midland Ave.\nSydney\nAustralia\nDear Mr. Ronald,\nOn September 3, you asked me to make hotel reservations for your guests.\nAs per your instruction, 2 rooms (double-bed requested) have been booked at the\nMarco Polo Hong Kong Hotel (135) -------- details as shown:\nGuest Names: Mr. John Simpson & Mr. Mark Fritzler\nCheck-in Date: Sept. 22, 2018\nCheck-out Date: Sept. 25, 2018\nHotel Address: 3 Canton Road, Harbour City, Tsim Sha\nTsui, Kowloon\nHotel Telephone: (852) 2113 0088\nRoom Rate: HK$1,250 net per room per night\nTotal Room Rate: HK$1,250 x 3 nights x 2 rooms =\nHK$7,500\n885\n\n(136) -------- . Simply proceed to counters A16 or B16 (Parklane Counter)\nat the Arrival Hall and pay HK$130 per person for the shuttle bus fare. The\nshuttle bus will take you to the hotel.\nApex/HKG will (137) -------- the room rate for the guests first. Thus, the\nguests are not required to pay the room rate when checking out. Apex/HKG will\n(138) -------- them later. However, if room service such as the mini-bar is used,\nthe guests will need to settle them when checking out.\nSincerely,\nCory White"
+  },
+  {
+    "id": "137",
+    "question": "",
+    "options": [
+      "decide",
+      "select",
+      "settle",
+      "detour"
+    ],
+    "answer": null,
+    "passage": "Questions 135-138 refer to the following letter.\nMr. Sean Ronald\n1385 Midland Ave.\nSydney\nAustralia\nDear Mr. Ronald,\nOn September 3, you asked me to make hotel reservations for your guests.\nAs per your instruction, 2 rooms (double-bed requested) have been booked at the\nMarco Polo Hong Kong Hotel (135) -------- details as shown:\nGuest Names: Mr. John Simpson & Mr. Mark Fritzler\nCheck-in Date: Sept. 22, 2018\nCheck-out Date: Sept. 25, 2018\nHotel Address: 3 Canton Road, Harbour City, Tsim Sha\nTsui, Kowloon\nHotel Telephone: (852) 2113 0088\nRoom Rate: HK$1,250 net per room per night\nTotal Room Rate: HK$1,250 x 3 nights x 2 rooms =\nHK$7,500\n885\n\n(136) -------- . Simply proceed to counters A16 or B16 (Parklane Counter)\nat the Arrival Hall and pay HK$130 per person for the shuttle bus fare. The\nshuttle bus will take you to the hotel.\nApex/HKG will (137) -------- the room rate for the guests first. Thus, the\nguests are not required to pay the room rate when checking out. Apex/HKG will\n(138) -------- them later. However, if room service such as the mini-bar is used,\nthe guests will need to settle them when checking out.\nSincerely,\nCory White"
+  },
+  {
+    "id": "138",
+    "question": "",
+    "options": [
+      "accuse",
+      "loan",
+      "credit\n886",
+      "charge"
+    ],
+    "answer": null,
+    "passage": "Questions 135-138 refer to the following letter.\nMr. Sean Ronald\n1385 Midland Ave.\nSydney\nAustralia\nDear Mr. Ronald,\nOn September 3, you asked me to make hotel reservations for your guests.\nAs per your instruction, 2 rooms (double-bed requested) have been booked at the\nMarco Polo Hong Kong Hotel (135) -------- details as shown:\nGuest Names: Mr. John Simpson & Mr. Mark Fritzler\nCheck-in Date: Sept. 22, 2018\nCheck-out Date: Sept. 25, 2018\nHotel Address: 3 Canton Road, Harbour City, Tsim Sha\nTsui, Kowloon\nHotel Telephone: (852) 2113 0088\nRoom Rate: HK$1,250 net per room per night\nTotal Room Rate: HK$1,250 x 3 nights x 2 rooms =\nHK$7,500\n885\n\n(136) -------- . Simply proceed to counters A16 or B16 (Parklane Counter)\nat the Arrival Hall and pay HK$130 per person for the shuttle bus fare. The\nshuttle bus will take you to the hotel.\nApex/HKG will (137) -------- the room rate for the guests first. Thus, the\nguests are not required to pay the room rate when checking out. Apex/HKG will\n(138) -------- them later. However, if room service such as the mini-bar is used,\nthe guests will need to settle them when checking out.\nSincerely,\nCory White"
+  },
+  {
+    "id": "139",
+    "question": "",
+    "options": [
+      "right",
+      "rightly",
+      "rightful",
+      "rightfully"
+    ],
+    "answer": null,
+    "passage": "Questions 139-142 refer to the following advertisement.\nOverview\nThe Grand Hotel, which is situated at Fort Worth International Airport in\nDallas, has a covered, climate-controlled skywalk that connects the hotel directly\nto Terminal 3 and to an Automated People Mover going to Terminal 1.\nOur check-in kiosks, recently installed in the lobby, allow our guests to\ncheck in for flights and receive their boarding passes (139) -------- from the\nhotel. Guests can also check their baggage here and not have to worry about\nlining up at the airport. The monitors set up next to the kiosks display flight\ndeparture and arrival times to ensure that you’re (140) -------- on time.\n(141) -------- . Our warm and friendly staff will go out of their way to make\nyou feel right at home.\nRelax and unwind from the stresses of (142) -------- in one of our recently\nrenovated guest rooms, complete with a jacuzzi in each room.\nSo the next time you’re in Dallas, experience how comfortable and\nconvenient travel can be. When you check into the Grand hotel, you don’t just\nstay, you belong."
+  },
+  {
+    "id": "140",
+    "question": "",
+    "options": [
+      "often",
+      "finally",
+      "always",
+      "almost\n887"
+    ],
+    "answer": null,
+    "passage": "Questions 139-142 refer to the following advertisement.\nOverview\nThe Grand Hotel, which is situated at Fort Worth International Airport in\nDallas, has a covered, climate-controlled skywalk that connects the hotel directly\nto Terminal 3 and to an Automated People Mover going to Terminal 1.\nOur check-in kiosks, recently installed in the lobby, allow our guests to\ncheck in for flights and receive their boarding passes (139) -------- from the\nhotel. Guests can also check their baggage here and not have to worry about\nlining up at the airport. The monitors set up next to the kiosks display flight\ndeparture and arrival times to ensure that you’re (140) -------- on time.\n(141) -------- . Our warm and friendly staff will go out of their way to make\nyou feel right at home.\nRelax and unwind from the stresses of (142) -------- in one of our recently\nrenovated guest rooms, complete with a jacuzzi in each room.\nSo the next time you’re in Dallas, experience how comfortable and\nconvenient travel can be. When you check into the Grand hotel, you don’t just\nstay, you belong."
+  },
+  {
+    "id": "141",
+    "question": "",
+    "options": [
+      "Guests can enjoy free internet service in the Grand Hotel.",
+      "The Grand Hotel installed check-in kiosks in the lobby about three years\nago.",
+      "The Grand Hotel is not far from a local supermarket.",
+      "At the Grand Hotel, you will feel right at home the moment you set foot in\nour hotel."
+    ],
+    "answer": null,
+    "passage": "Questions 139-142 refer to the following advertisement.\nOverview\nThe Grand Hotel, which is situated at Fort Worth International Airport in\nDallas, has a covered, climate-controlled skywalk that connects the hotel directly\nto Terminal 3 and to an Automated People Mover going to Terminal 1.\nOur check-in kiosks, recently installed in the lobby, allow our guests to\ncheck in for flights and receive their boarding passes (139) -------- from the\nhotel. Guests can also check their baggage here and not have to worry about\nlining up at the airport. The monitors set up next to the kiosks display flight\ndeparture and arrival times to ensure that you’re (140) -------- on time.\n(141) -------- . Our warm and friendly staff will go out of their way to make\nyou feel right at home.\nRelax and unwind from the stresses of (142) -------- in one of our recently\nrenovated guest rooms, complete with a jacuzzi in each room.\nSo the next time you’re in Dallas, experience how comfortable and\nconvenient travel can be. When you check into the Grand hotel, you don’t just\nstay, you belong."
+  },
+  {
+    "id": "142",
+    "question": "",
+    "options": [
+      "visit",
+      "tour",
+      "travel",
+      "arrival\nQuestions 143-146 refer to the following e-mail.\n888"
+    ],
+    "answer": null,
+    "passage": "Questions 139-142 refer to the following advertisement.\nOverview\nThe Grand Hotel, which is situated at Fort Worth International Airport in\nDallas, has a covered, climate-controlled skywalk that connects the hotel directly\nto Terminal 3 and to an Automated People Mover going to Terminal 1.\nOur check-in kiosks, recently installed in the lobby, allow our guests to\ncheck in for flights and receive their boarding passes (139) -------- from the\nhotel. Guests can also check their baggage here and not have to worry about\nlining up at the airport. The monitors set up next to the kiosks display flight\ndeparture and arrival times to ensure that you’re (140) -------- on time.\n(141) -------- . Our warm and friendly staff will go out of their way to make\nyou feel right at home.\nRelax and unwind from the stresses of (142) -------- in one of our recently\nrenovated guest rooms, complete with a jacuzzi in each room.\nSo the next time you’re in Dallas, experience how comfortable and\nconvenient travel can be. When you check into the Grand hotel, you don’t just\nstay, you belong."
+  },
+  {
+    "id": "143",
+    "question": "",
+    "options": [
+      "job",
+      "chance",
+      "limit",
+      "pursuit"
+    ],
+    "answer": null
+  },
+  {
+    "id": "144",
+    "question": "",
+    "options": [
+      "The task may not be that easy to fulfill.",
+      "I hope that a profit sharing of 60/40 will be okay with you.",
+      "We are looking for an arrival on the day after shipment.",
+      "The shipment’s content contains books and magazines.\n889"
+    ],
+    "answer": null
+  },
+  {
+    "id": "145",
+    "question": "",
+    "options": [
+      "how",
+      "that",
+      "what",
+      "whether"
+    ],
+    "answer": null
+  },
+  {
+    "id": "146",
+    "question": "",
+    "options": [
+      "defended",
+      "refused",
+      "incurred",
+      "conveyed\nPart 7\nDirections: In this part, you will be asked to read several texts, such as\nadvertisements, articles, instant messages, or examples of business\ncorrespondence. Each text is followed by several questions. Select the best\nanswer and mark the corresponding letter",
+      ",",
+      ",",
+      ", or",
+      "on your answer\nsheet."
+    ],
+    "answer": null
+  },
+  {
+    "id": "147",
+    "question": "Where most likely is Ms. Sims?",
+    "options": [
+      "On a train",
+      "On a bus",
+      "Near a train station",
+      "At a subway station"
+    ],
+    "answer": null,
+    "passage": "Questions 147-148 refer to the following text message chain.\nAlice Sims [1:04 P.M.]\nGood afternoon, Chris. I arrived at the train station but don’t know where\nyour company is located. Which bus should I take?\nChris Ernst [1:05 P.M.]\nHello, Alice. Actually, I recommend taking a taxi here.\nAlice Sims [1:06 P.M.]\nThere are more than thirty people waiting in line, and there are no taxis in\nthe queue.\n890\n\nChris Ernst [1:08 P.M.]\nIn that case, get on bus number 67 heading west. It’ll take you an hour to get\nhere though.\nAlice Sims [1:09 P.M.]\nIn that case, I’ll get off after a couple of stops and find a taxi.\nChris Ernst [1:10 P.M.]\nThat should work. You’ll get here much faster then."
+  },
+  {
+    "id": "148",
+    "question": "At 1:05 P.M., why does Mr. Ernst write,“I recommend taking a taxi here”?",
+    "options": [
+      "To point out the cheapest way to travel",
+      "To indicate his office is not near public transportation",
+      "To encourage Ms. Sims not to be late for a meeting",
+      "To suggest that Ms. Sims should not take the bus"
+    ],
+    "answer": null,
+    "passage": "Questions 147-148 refer to the following text message chain.\nAlice Sims [1:04 P.M.]\nGood afternoon, Chris. I arrived at the train station but don’t know where\nyour company is located. Which bus should I take?\nChris Ernst [1:05 P.M.]\nHello, Alice. Actually, I recommend taking a taxi here.\nAlice Sims [1:06 P.M.]\nThere are more than thirty people waiting in line, and there are no taxis in\nthe queue.\n890\n\nChris Ernst [1:08 P.M.]\nIn that case, get on bus number 67 heading west. It’ll take you an hour to get\nhere though.\nAlice Sims [1:09 P.M.]\nIn that case, I’ll get off after a couple of stops and find a taxi.\nChris Ernst [1:10 P.M.]\nThat should work. You’ll get here much faster then."
+  },
+  {
+    "id": "149",
+    "question": "Who is the intended audience of this notice?",
+    "options": [
+      "Bank employees",
+      "Customers",
+      "Drivers",
+      "Security guards"
+    ],
+    "answer": null,
+    "passage": "Questions 149-152 refer to the following notice.\nChristmas and Boxing Day Arrangements\nAs Christmas and Boxing Day fall on a Thursday and Friday this year, all\nperiodical payments falling on those two days will be paid early on Wednesday.\nStaff will be processing authorizations and transferring funds until midnight\n(Australian Western Standard Time) on the 24th of December. Regular banking\n891\n\nservices will resume on the following Monday, the 29th of December.\nThere will be no change in the operations of our Automatic Teller Machines\nor Electronic Funds Transfers. Our financial advisory services centers will,\nhowever, be closed on Christmas and Boxing Day. Internet transactions may be\nscheduled but will not be processed until Monday, the 29th of December. Phone\nbanking services will not be available on the 25th, 26th, 27th, or 28th. We\napologize for any inconvenience.\nWe wish all of our customers a very happy and safe Christmas!"
+  },
+  {
+    "id": "150",
+    "question": "What is the purpose of the notice?",
+    "options": [
+      "To announce the holiday schedule",
+      "To notify customers of a holiday sale",
+      "To apologize for a mistake",
+      "To advertise a new type of service"
+    ],
+    "answer": null,
+    "passage": "Questions 149-152 refer to the following notice.\nChristmas and Boxing Day Arrangements\nAs Christmas and Boxing Day fall on a Thursday and Friday this year, all\nperiodical payments falling on those two days will be paid early on Wednesday.\nStaff will be processing authorizations and transferring funds until midnight\n(Australian Western Standard Time) on the 24th of December. Regular banking\n891\n\nservices will resume on the following Monday, the 29th of December.\nThere will be no change in the operations of our Automatic Teller Machines\nor Electronic Funds Transfers. Our financial advisory services centers will,\nhowever, be closed on Christmas and Boxing Day. Internet transactions may be\nscheduled but will not be processed until Monday, the 29th of December. Phone\nbanking services will not be available on the 25th, 26th, 27th, or 28th. We\napologize for any inconvenience.\nWe wish all of our customers a very happy and safe Christmas!"
+  },
+  {
+    "id": "151",
+    "question": "Which of the following services can be performed on the 25th?",
+    "options": [
+      "Paying utility bills at the teller’s window",
+      "Receiving financial advice from the institution",
+      "Transferring money by telephone",
+      "Taking money out of a cash dispenser"
+    ],
+    "answer": null,
+    "passage": "Questions 149-152 refer to the following notice.\nChristmas and Boxing Day Arrangements\nAs Christmas and Boxing Day fall on a Thursday and Friday this year, all\nperiodical payments falling on those two days will be paid early on Wednesday.\nStaff will be processing authorizations and transferring funds until midnight\n(Australian Western Standard Time) on the 24th of December. Regular banking\n891\n\nservices will resume on the following Monday, the 29th of December.\nThere will be no change in the operations of our Automatic Teller Machines\nor Electronic Funds Transfers. Our financial advisory services centers will,\nhowever, be closed on Christmas and Boxing Day. Internet transactions may be\nscheduled but will not be processed until Monday, the 29th of December. Phone\nbanking services will not be available on the 25th, 26th, 27th, or 28th. We\napologize for any inconvenience.\nWe wish all of our customers a very happy and safe Christmas!"
+  },
+  {
+    "id": "152",
+    "question": "What will happen to regular payments that fall on the 26th this year?\n892",
+    "options": [
+      "The payments will have to be mailed out.",
+      "They won’t be taken care of until the 29th.",
+      "The transactions will occur on that day.",
+      "They will go out a few days early."
+    ],
+    "answer": null,
+    "passage": "Questions 149-152 refer to the following notice.\nChristmas and Boxing Day Arrangements\nAs Christmas and Boxing Day fall on a Thursday and Friday this year, all\nperiodical payments falling on those two days will be paid early on Wednesday.\nStaff will be processing authorizations and transferring funds until midnight\n(Australian Western Standard Time) on the 24th of December. Regular banking\n891\n\nservices will resume on the following Monday, the 29th of December.\nThere will be no change in the operations of our Automatic Teller Machines\nor Electronic Funds Transfers. Our financial advisory services centers will,\nhowever, be closed on Christmas and Boxing Day. Internet transactions may be\nscheduled but will not be processed until Monday, the 29th of December. Phone\nbanking services will not be available on the 25th, 26th, 27th, or 28th. We\napologize for any inconvenience.\nWe wish all of our customers a very happy and safe Christmas!"
+  },
+  {
+    "id": "153",
+    "question": "Which of the following is NOT true about the results of the questionnaire?",
+    "options": [
+      "Mr. Williams felt that the restaurant was understaffed.",
+      "Mr. Williams liked the food he had today.",
+      "Mr. Williams felt that the price was very unreasonable.",
+      "Mr. Williams thought the menu selection needs were limited."
+    ],
+    "answer": null,
+    "passage": "Questions 153-154 refer to the following form.\nSophie’s Place\nQuestionnaire\nDear Guest,\nYour continuous support and patronage is our greatest source of comfort.\nYour heartfelt comments are our compelling drive to provide better service for\nyou. Please kindly complete this questionnaire to let us know your thoughts. Thank\nyou very much.\n_____________________________________________________________________\nName: John Williams\nTelephone: 755-2563\nDate of Visit: Nov. 28, 2018\nTime of Visit: 6:30 p.m.\n893\n\nFurther Comments:\nWe had to wait over an hour for our food to arrive. The food was very\ntasty, but I think the place needs more people to wait on customers."
+  },
+  {
+    "id": "154",
+    "question": "What can be implied about Mr. Williams?",
+    "options": [
+      "He had dinner at the restaurant.",
+      "He came with several guests.",
+      "He is a regular customer.",
+      "He is a very picky person."
+    ],
+    "answer": null,
+    "passage": "Questions 153-154 refer to the following form.\nSophie’s Place\nQuestionnaire\nDear Guest,\nYour continuous support and patronage is our greatest source of comfort.\nYour heartfelt comments are our compelling drive to provide better service for\nyou. Please kindly complete this questionnaire to let us know your thoughts. Thank\nyou very much.\n_____________________________________________________________________\nName: John Williams\nTelephone: 755-2563\nDate of Visit: Nov. 28, 2018\nTime of Visit: 6:30 p.m.\n893\n\nFurther Comments:\nWe had to wait over an hour for our food to arrive. The food was very\ntasty, but I think the place needs more people to wait on customers."
+  },
+  {
+    "id": "155",
+    "question": "What is the main purpose of this notice?",
+    "options": [
+      "To announce the passing away of Mr. Michael Gordon",
+      "To find a missing person",
+      "To remember a person who did good deeds",
+      "To inform people of a due date to make claims against a person"
+    ],
+    "answer": null,
+    "passage": "Questions 155-158 refer to the following notice.\nNOTICE TO CREDITORS\nre: the estate of Michael Gordon, formerly of 7 Golden Circus, Victoria,\nBritish Columbia, deceased on the 19th of November.\nNotice is hereby given that any further creditors and other claimants against\nthe said estate should contact the offices of Sankin and Sankin, Solicitors, Suite 9,\n894\n\n432 Wilberforce Road, Victoria, V8W 3R3, the executors of the will of Michael\nGordon, no later than December 22. After that date, we, the executors, will\ndistribute the estate among the parties entitled to it, taking into consideration only\nclaims received by the due date."
+  },
+  {
+    "id": "156",
+    "question": "In which part of the newspaper would this notice be printed?",
+    "options": [
+      "In the editorial section",
+      "In the obituary section",
+      "In the business section",
+      "In the want ad section"
+    ],
+    "answer": null,
+    "passage": "Questions 155-158 refer to the following notice.\nNOTICE TO CREDITORS\nre: the estate of Michael Gordon, formerly of 7 Golden Circus, Victoria,\nBritish Columbia, deceased on the 19th of November.\nNotice is hereby given that any further creditors and other claimants against\nthe said estate should contact the offices of Sankin and Sankin, Solicitors, Suite 9,\n894\n\n432 Wilberforce Road, Victoria, V8W 3R3, the executors of the will of Michael\nGordon, no later than December 22. After that date, we, the executors, will\ndistribute the estate among the parties entitled to it, taking into consideration only\nclaims received by the due date."
+  },
+  {
+    "id": "157",
+    "question": "Who most likely took out this notice?",
+    "options": [
+      "Mr. Gordon’s family",
+      "Michael",
+      "A law firm",
+      "A bank"
+    ],
+    "answer": null,
+    "passage": "Questions 155-158 refer to the following notice.\nNOTICE TO CREDITORS\nre: the estate of Michael Gordon, formerly of 7 Golden Circus, Victoria,\nBritish Columbia, deceased on the 19th of November.\nNotice is hereby given that any further creditors and other claimants against\nthe said estate should contact the offices of Sankin and Sankin, Solicitors, Suite 9,\n894\n\n432 Wilberforce Road, Victoria, V8W 3R3, the executors of the will of Michael\nGordon, no later than December 22. After that date, we, the executors, will\ndistribute the estate among the parties entitled to it, taking into consideration only\nclaims received by the due date."
+  },
+  {
+    "id": "158",
+    "question": "According to the notice, what is going to occur after December 22?",
+    "options": [
+      "A funeral will be held in honor of Mr. Gordon.",
+      "Creditors will get a chance to submit their claims to the debtor.",
+      "Michael’s estate will be distributed among those who made a claim.\n895",
+      "The appointment of the executor of the will is going to take place."
+    ],
+    "answer": null,
+    "passage": "Questions 155-158 refer to the following notice.\nNOTICE TO CREDITORS\nre: the estate of Michael Gordon, formerly of 7 Golden Circus, Victoria,\nBritish Columbia, deceased on the 19th of November.\nNotice is hereby given that any further creditors and other claimants against\nthe said estate should contact the offices of Sankin and Sankin, Solicitors, Suite 9,\n894\n\n432 Wilberforce Road, Victoria, V8W 3R3, the executors of the will of Michael\nGordon, no later than December 22. After that date, we, the executors, will\ndistribute the estate among the parties entitled to it, taking into consideration only\nclaims received by the due date."
+  },
+  {
+    "id": "159",
+    "question": "What is NOT stated in the policy?\n896",
+    "options": [
+      "Goods must be brought back in their original form.",
+      "The original receipt must accompany the returned item.",
+      "A time limit is placed on items being returned.",
+      "A full refund will be provided for all items if returned within 24 hours."
+    ],
+    "answer": null,
+    "passage": "Questions 159-161 refer to the following policy.\nJoy-Market Returns Policy\nWith a few exceptions, anything purchased from a Joy-Market store may be\nexchanged or returned for a full refund of the purchase price within 30 days\nprovided\n1) that the goods are unused,\n2) that the goods are placed in their original package, and\n3) that proof of purchase is provided.\nIMPORTANT: please note\nFood purchased from our fresh food counters must be returned no later than\n24 hours after the time of purchase.\nSome items must be returned unopened. These items are toys; music CDs\nand DVDs; computer software and hardware; videos; glassware; kitchenware;\nundergarments; and packaged hardware items.\nCustomers, or those returning Joy Market items received as gifts, should\nprovide photo identification at the time of application.\nCustomers returning goods valued at less than $100 will be issued an\nexchange certificate or money order on the spot.\nFor returns of goods valued at $100 or more, a check will be mailed to the\npurchaser within 3 working days of the return.\nThe amount of refunds or exchange certificates will be the same as the price\npaid for the item returned.\nJoy-Market aims to satisfy its customers with high-quality items sold in good\ncondition."
+  },
+  {
+    "id": "160",
+    "question": "In which of the following situations would a person have to show photo\nidentification?",
+    "options": [
+      "When returning items that are valued over $100 before taxes",
+      "If the merchandise was originally bought by someone other than the person\nreturning it",
+      "In situations where the boxes have been opened and used",
+      "If a credit card was used when making the purchase"
+    ],
+    "answer": null,
+    "passage": "Questions 159-161 refer to the following policy.\nJoy-Market Returns Policy\nWith a few exceptions, anything purchased from a Joy-Market store may be\nexchanged or returned for a full refund of the purchase price within 30 days\nprovided\n1) that the goods are unused,\n2) that the goods are placed in their original package, and\n3) that proof of purchase is provided.\nIMPORTANT: please note\nFood purchased from our fresh food counters must be returned no later than\n24 hours after the time of purchase.\nSome items must be returned unopened. These items are toys; music CDs\nand DVDs; computer software and hardware; videos; glassware; kitchenware;\nundergarments; and packaged hardware items.\nCustomers, or those returning Joy Market items received as gifts, should\nprovide photo identification at the time of application.\nCustomers returning goods valued at less than $100 will be issued an\nexchange certificate or money order on the spot.\nFor returns of goods valued at $100 or more, a check will be mailed to the\npurchaser within 3 working days of the return.\nThe amount of refunds or exchange certificates will be the same as the price\npaid for the item returned.\nJoy-Market aims to satisfy its customers with high-quality items sold in good\ncondition."
+  },
+  {
+    "id": "161",
+    "question": "According to the policy, how long will it take to get a refund for a purchase\nmade under $100?",
+    "options": [
+      "It depends on the product purchased.",
+      "A refund will be provided right away.",
+      "At least 3 business days",
+      "24 hours if receipt is provided\nQuestions 162-164 refer to the following e-mail.\nFrom: Rudi Kok Kee\nSent: Wednesday, May 30, 2018\nTo: Linda Chong\nCc: Samantha Long\nSubject: Long Holliday in Indonesia\n897\n\nDear colleagues,\nKindly be informed that Indonesia will be celebrating a long holiday from\nJune 11-20, 2018, for Hari Raya Iedul Fitri. There will be no pick-ups and\ndeliveries, but clearance will still run as normal.\nIn addition, for inbound shipments that are directed to cities outside Jakarta,\nthe last transshipment by local agents will be on June 8. Any shipment we receive\nafter that day will be on hold in our office and be sent out after the long holiday\non June 21.\nFurthermore, for shipments headed to smaller towns, there will be a further\ndelay because the holiday festivities will be ongoing until the 24th in many rural\nareas. This situation will return to normal on the 25th of June.\nThank you for your kind attention.\nRegards,\nRudi\nDSL / JKT\nCustomer Service Department"
+    ],
+    "answer": null,
+    "passage": "Questions 159-161 refer to the following policy.\nJoy-Market Returns Policy\nWith a few exceptions, anything purchased from a Joy-Market store may be\nexchanged or returned for a full refund of the purchase price within 30 days\nprovided\n1) that the goods are unused,\n2) that the goods are placed in their original package, and\n3) that proof of purchase is provided.\nIMPORTANT: please note\nFood purchased from our fresh food counters must be returned no later than\n24 hours after the time of purchase.\nSome items must be returned unopened. These items are toys; music CDs\nand DVDs; computer software and hardware; videos; glassware; kitchenware;\nundergarments; and packaged hardware items.\nCustomers, or those returning Joy Market items received as gifts, should\nprovide photo identification at the time of application.\nCustomers returning goods valued at less than $100 will be issued an\nexchange certificate or money order on the spot.\nFor returns of goods valued at $100 or more, a check will be mailed to the\npurchaser within 3 working days of the return.\nThe amount of refunds or exchange certificates will be the same as the price\npaid for the item returned.\nJoy-Market aims to satisfy its customers with high-quality items sold in good\ncondition."
+  },
+  {
+    "id": "162",
+    "question": "Why was this e-mail written?",
+    "options": [
+      "To request a shipment",
+      "To notify someone of an upcoming schedule",
+      "To send an invitation for a celebration",
+      "To inquire about a shipment"
+    ],
+    "answer": null
+  },
+  {
+    "id": "163",
+    "question": "What will happen to an incoming shipment heading to a small town on June\n21?",
+    "options": [
+      "It will be returned to the sender.",
+      "It will be held until the 30th.",
+      "It will reach its destination after the 25th of June.\n898",
+      "It will be delivered the next day."
+    ],
+    "answer": null
+  },
+  {
+    "id": "164",
+    "question": "When was this e-mail sent?",
+    "options": [
+      "May 30th",
+      "June 20th",
+      "June 30th",
+      "June 4th"
+    ],
+    "answer": null
+  },
+  {
+    "id": "165",
+    "question": "Who is Mr. Fritz Faschier?",
+    "options": [
+      "A reporter for a local newspaper",
+      "The president of Gaz International",
+      "A spokesperson for Yevgeni Star",
+      "A Russian authority"
+    ],
+    "answer": null,
+    "passage": "Questions 165-167 refer to the following article.\nGaz International Sells Its Siberian Oil Operations to Local Company\nZURICH – Yevgeni Star, a mid-sized Russian oil company, has bought the\nSiberian oil and gas operations of Zurich-based Gaz International. While no\nofficial figures have been released by either firm, the deal is believed to worth in\nthe vicinity of $145 million.\nUntil recently, Gaz International had been seeking to expand its exploration\nand refining operations, but it has reportedly been frustrated by local regulatory\nbodies. —[1]—\nYevgeni Star, which has some cross-share holdings with large industrial\ncorporations in related and unrelated fields, notably in the energy and\nshipbuilding sectors, will become one of Russian’s leading players in the vital\nstrategic area of energy supplies. —[2]—\nExplaining the reasons for the sale, Gaz International CEO Fritz Faschier\ntold reporters yesterday,“Our board of directors believes that this is the ideal time\nto consolidate our operations by concentrating on less-risky investments while at\nthe same time boosting our interests in research and development. I mean, in\nparticular, research into alternative fuels and energy sources. I have no doubt that\nthis deal is in the interests of both parties.”\nIt is known that the deal includes significant technology transfers. —[3]— A\nteam of Gaz International engineers and administrators will train Yevgeni\nengineers in the operation of exploration and extraction technology developed by\nthe international giant.\nYevgeni Star operators were also keen to acquire Gaz International’s license\n899\n\nto explore and develop northern oil fields until 2025. The current production of\n10,000 barrels a day is expected to at least double over the next 5 years.\nDue to the complex nature of legal arrangements surrounding the transfer of\nlicenses and technological information, the deal is not expected to be sewn up\nbefore January of next year. —[4]— Approval for the license transfer must be\nnegotiated with Russian authorities while several major Swiss banks will vet the\nfinancial arrangements and the details of technology transfer."
+  },
+  {
+    "id": "166",
+    "question": "According to the article, when will the deal be finalized?",
+    "options": [
+      "In 2025",
+      "In five years",
+      "Within the following weeks",
+      "By early next year"
+    ],
+    "answer": null,
+    "passage": "Questions 165-167 refer to the following article.\nGaz International Sells Its Siberian Oil Operations to Local Company\nZURICH – Yevgeni Star, a mid-sized Russian oil company, has bought the\nSiberian oil and gas operations of Zurich-based Gaz International. While no\nofficial figures have been released by either firm, the deal is believed to worth in\nthe vicinity of $145 million.\nUntil recently, Gaz International had been seeking to expand its exploration\nand refining operations, but it has reportedly been frustrated by local regulatory\nbodies. —[1]—\nYevgeni Star, which has some cross-share holdings with large industrial\ncorporations in related and unrelated fields, notably in the energy and\nshipbuilding sectors, will become one of Russian’s leading players in the vital\nstrategic area of energy supplies. —[2]—\nExplaining the reasons for the sale, Gaz International CEO Fritz Faschier\ntold reporters yesterday,“Our board of directors believes that this is the ideal time\nto consolidate our operations by concentrating on less-risky investments while at\nthe same time boosting our interests in research and development. I mean, in\nparticular, research into alternative fuels and energy sources. I have no doubt that\nthis deal is in the interests of both parties.”\nIt is known that the deal includes significant technology transfers. —[3]— A\nteam of Gaz International engineers and administrators will train Yevgeni\nengineers in the operation of exploration and extraction technology developed by\nthe international giant.\nYevgeni Star operators were also keen to acquire Gaz International’s license\n899\n\nto explore and develop northern oil fields until 2025. The current production of\n10,000 barrels a day is expected to at least double over the next 5 years.\nDue to the complex nature of legal arrangements surrounding the transfer of\nlicenses and technological information, the deal is not expected to be sewn up\nbefore January of next year. —[4]— Approval for the license transfer must be\nnegotiated with Russian authorities while several major Swiss banks will vet the\nfinancial arrangements and the details of technology transfer."
+  },
+  {
+    "id": "167",
+    "question": "In which of the positions marked [1], [2], [3], and [4] does the following\nsentence best belong?\n“Gaz International shares rose by 1% as news of the sale filtered into the\nmedia.”",
+    "options": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]"
+    ],
+    "answer": null,
+    "passage": "Questions 165-167 refer to the following article.\nGaz International Sells Its Siberian Oil Operations to Local Company\nZURICH – Yevgeni Star, a mid-sized Russian oil company, has bought the\nSiberian oil and gas operations of Zurich-based Gaz International. While no\nofficial figures have been released by either firm, the deal is believed to worth in\nthe vicinity of $145 million.\nUntil recently, Gaz International had been seeking to expand its exploration\nand refining operations, but it has reportedly been frustrated by local regulatory\nbodies. —[1]—\nYevgeni Star, which has some cross-share holdings with large industrial\ncorporations in related and unrelated fields, notably in the energy and\nshipbuilding sectors, will become one of Russian’s leading players in the vital\nstrategic area of energy supplies. —[2]—\nExplaining the reasons for the sale, Gaz International CEO Fritz Faschier\ntold reporters yesterday,“Our board of directors believes that this is the ideal time\nto consolidate our operations by concentrating on less-risky investments while at\nthe same time boosting our interests in research and development. I mean, in\nparticular, research into alternative fuels and energy sources. I have no doubt that\nthis deal is in the interests of both parties.”\nIt is known that the deal includes significant technology transfers. —[3]— A\nteam of Gaz International engineers and administrators will train Yevgeni\nengineers in the operation of exploration and extraction technology developed by\nthe international giant.\nYevgeni Star operators were also keen to acquire Gaz International’s license\n899\n\nto explore and develop northern oil fields until 2025. The current production of\n10,000 barrels a day is expected to at least double over the next 5 years.\nDue to the complex nature of legal arrangements surrounding the transfer of\nlicenses and technological information, the deal is not expected to be sewn up\nbefore January of next year. —[4]— Approval for the license transfer must be\nnegotiated with Russian authorities while several major Swiss banks will vet the\nfinancial arrangements and the details of technology transfer."
+  },
+  {
+    "id": "168",
+    "question": "Where is Ms. Wilson?",
+    "options": [
+      "In a vehicle\n901",
+      "At a building",
+      "At an airport",
+      "In a parking lot"
+    ],
+    "answer": null,
+    "passage": "Questions 168-171 refer to the following online chat discussion.\n900\n\nAmy Wilson [11:05 A.M.]\nHi, Jacob. My plane landed, and I’m waiting at the baggage claim area now.\nJacob Vance [11:08 A.M.]\nI’m glad to hear you made it to town. Are you planning to take a taxi here?\nAmy Wilson [11:09 A.M.]\nActually, I rented a car. I can park in the lot on the eastern side of the\nbuilding, right?\nJacob Vance [11:10 A.M.]\nThat’s only for employees. You’ll get towed if you park there. And the\nvisitors’ parking lot is being resurfaced. Hold on a second, please.\nJacob Vance [11:13 A.M.]\nHello, Ms. Davis. This is Jacob Vance in Sales. Would you mind telling Ms.\nWilson where to park since the visitors’ lot is temporarily off limits?\nSandra Davis [11:15 A.M.]\nHello, Ms. Wilson. When you arrive, call me at (903) 454-1736, and I’ll go\nto the front of the building with a parking pass. Then, you can use the employees’\nparking lot.\nAmy Wilson [11:16 A.M.]\nExcellent. I’ll be there in a couple of hours.\nJacob Vance [11:17 A.M.]\nThanks, Ms. Davis. Amy, let me know when you arrive, and I’ll be waiting\nat the security desk."
+  },
+  {
+    "id": "169",
+    "question": "What does Mr. Vance suggest about the parking lot on the eastern side of the\nbuilding?",
+    "options": [
+      "It has no empty spaces.",
+      "Visitors may not park there.",
+      "Motorists must pay to park there.",
+      "Only cars and motorcycles may be parked there."
+    ],
+    "answer": null,
+    "passage": "Questions 168-171 refer to the following online chat discussion.\n900\n\nAmy Wilson [11:05 A.M.]\nHi, Jacob. My plane landed, and I’m waiting at the baggage claim area now.\nJacob Vance [11:08 A.M.]\nI’m glad to hear you made it to town. Are you planning to take a taxi here?\nAmy Wilson [11:09 A.M.]\nActually, I rented a car. I can park in the lot on the eastern side of the\nbuilding, right?\nJacob Vance [11:10 A.M.]\nThat’s only for employees. You’ll get towed if you park there. And the\nvisitors’ parking lot is being resurfaced. Hold on a second, please.\nJacob Vance [11:13 A.M.]\nHello, Ms. Davis. This is Jacob Vance in Sales. Would you mind telling Ms.\nWilson where to park since the visitors’ lot is temporarily off limits?\nSandra Davis [11:15 A.M.]\nHello, Ms. Wilson. When you arrive, call me at (903) 454-1736, and I’ll go\nto the front of the building with a parking pass. Then, you can use the employees’\nparking lot.\nAmy Wilson [11:16 A.M.]\nExcellent. I’ll be there in a couple of hours.\nJacob Vance [11:17 A.M.]\nThanks, Ms. Davis. Amy, let me know when you arrive, and I’ll be waiting\nat the security desk."
+  },
+  {
+    "id": "170",
+    "question": "At 11:16 A.M., what does Ms. Wilson imply when she writes,“Excellent”?",
+    "options": [
+      "She appreciates Mr. Vance’s suggestion.",
+      "She just located an empty parking spot.",
+      "She will meet Ms. Davis in a moment.",
+      "She is looking forward to the demonstration."
+    ],
+    "answer": null,
+    "passage": "Questions 168-171 refer to the following online chat discussion.\n900\n\nAmy Wilson [11:05 A.M.]\nHi, Jacob. My plane landed, and I’m waiting at the baggage claim area now.\nJacob Vance [11:08 A.M.]\nI’m glad to hear you made it to town. Are you planning to take a taxi here?\nAmy Wilson [11:09 A.M.]\nActually, I rented a car. I can park in the lot on the eastern side of the\nbuilding, right?\nJacob Vance [11:10 A.M.]\nThat’s only for employees. You’ll get towed if you park there. And the\nvisitors’ parking lot is being resurfaced. Hold on a second, please.\nJacob Vance [11:13 A.M.]\nHello, Ms. Davis. This is Jacob Vance in Sales. Would you mind telling Ms.\nWilson where to park since the visitors’ lot is temporarily off limits?\nSandra Davis [11:15 A.M.]\nHello, Ms. Wilson. When you arrive, call me at (903) 454-1736, and I’ll go\nto the front of the building with a parking pass. Then, you can use the employees’\nparking lot.\nAmy Wilson [11:16 A.M.]\nExcellent. I’ll be there in a couple of hours.\nJacob Vance [11:17 A.M.]\nThanks, Ms. Davis. Amy, let me know when you arrive, and I’ll be waiting\nat the security desk."
+  },
+  {
+    "id": "171",
+    "question": "Where most likely will Ms. Wilson park her vehicle?",
+    "options": [
+      "In the visitors’ parking lot",
+      "On the side of the road",
+      "At a nearby parking garage",
+      "In the employees’ parking lot"
+    ],
+    "answer": null,
+    "passage": "Questions 168-171 refer to the following online chat discussion.\n900\n\nAmy Wilson [11:05 A.M.]\nHi, Jacob. My plane landed, and I’m waiting at the baggage claim area now.\nJacob Vance [11:08 A.M.]\nI’m glad to hear you made it to town. Are you planning to take a taxi here?\nAmy Wilson [11:09 A.M.]\nActually, I rented a car. I can park in the lot on the eastern side of the\nbuilding, right?\nJacob Vance [11:10 A.M.]\nThat’s only for employees. You’ll get towed if you park there. And the\nvisitors’ parking lot is being resurfaced. Hold on a second, please.\nJacob Vance [11:13 A.M.]\nHello, Ms. Davis. This is Jacob Vance in Sales. Would you mind telling Ms.\nWilson where to park since the visitors’ lot is temporarily off limits?\nSandra Davis [11:15 A.M.]\nHello, Ms. Wilson. When you arrive, call me at (903) 454-1736, and I’ll go\nto the front of the building with a parking pass. Then, you can use the employees’\nparking lot.\nAmy Wilson [11:16 A.M.]\nExcellent. I’ll be there in a couple of hours.\nJacob Vance [11:17 A.M.]\nThanks, Ms. Davis. Amy, let me know when you arrive, and I’ll be waiting\nat the security desk."
+  },
+  {
+    "id": "172",
+    "question": "Why did Julie write this letter?",
+    "options": [
+      "To place an order for some ink cartridges",
+      "To voice her disappointment regarding the store’s rules",
+      "To find out if the store carries a specific type of cartridge\n903",
+      "To get the printer serviced by a technician"
+    ],
+    "answer": null,
+    "passage": "Questions 172-173 refer to the following letter.\nFly-by-night Travel Agency\nSuite 9 Chicago Life Building\nLake Shore Square\n902\n\nChicago IL. 60637\nApril 3, 2018\nLightning Computer Supplies\n152 Whacker Road\nChicago 60401\nRe: faulty print cartridges\nDear Madam or Sir,\nOn a recent visit to your store, I purchased a box of Onyx Print Cartridges\nfor our 3 printers. —[1]— As you are well aware, fast and high-quality printing\nis essential in any business, big or small, these days. —[2]— You can imagine\nour disappointment when, after installation, we found that the cartridges were\nfaulty, either in the feed mechanism or in the ink itself. When we examined the\npackages, we discovered that all three cartridges had passed their use-by date.\nHowever, when I returned them to your store, I was refused free replacement\ncartridges as the receipt had unfortunately somehow been misplaced. —[3]— Am\nI not to be trusted? The cartridges were clearly expired.\nI have since bought cartridges elsewhere, and I have no intention of returning\nto your store. But I wanted to express my dissatisfaction to you, and I hope that\nyou will examine your policy on returns. —[4]—\nThank you.\nJulie Nixon\nSenior Travel Consultant"
+  },
+  {
+    "id": "173",
+    "question": "In which of the positions marked [1], [2], [3], and [4] does the following\nsentence best belong?\n“This was extremely disappointing to me, as I am a long-term customer of\nyour store.”",
+    "options": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]"
+    ],
+    "answer": null,
+    "passage": "Questions 172-173 refer to the following letter.\nFly-by-night Travel Agency\nSuite 9 Chicago Life Building\nLake Shore Square\n902\n\nChicago IL. 60637\nApril 3, 2018\nLightning Computer Supplies\n152 Whacker Road\nChicago 60401\nRe: faulty print cartridges\nDear Madam or Sir,\nOn a recent visit to your store, I purchased a box of Onyx Print Cartridges\nfor our 3 printers. —[1]— As you are well aware, fast and high-quality printing\nis essential in any business, big or small, these days. —[2]— You can imagine\nour disappointment when, after installation, we found that the cartridges were\nfaulty, either in the feed mechanism or in the ink itself. When we examined the\npackages, we discovered that all three cartridges had passed their use-by date.\nHowever, when I returned them to your store, I was refused free replacement\ncartridges as the receipt had unfortunately somehow been misplaced. —[3]— Am\nI not to be trusted? The cartridges were clearly expired.\nI have since bought cartridges elsewhere, and I have no intention of returning\nto your store. But I wanted to express my dissatisfaction to you, and I hope that\nyou will examine your policy on returns. —[4]—\nThank you.\nJulie Nixon\nSenior Travel Consultant"
+  },
+  {
+    "id": "174",
+    "question": "What is being asked of those who do not want their bedsheets changed to do?",
+    "options": [
+      "Call the management staff\n904",
+      "Talk to the hotel maid",
+      "Leave a do-not-disturb sign on the door",
+      "Place the card on the bed"
+    ],
+    "answer": null,
+    "passage": "Questions 174-175 refer to the following card.\nBe Clean, Be Green\nDear Guests,\nEach year, many of the major waterways in the world get polluted by vast\namounts of detergents used to wash bed linen and towels in hotels.\nIn an effort to help preserve the environment, we’d like to ask all of our\nguests to please leave the towels that you intend to re-use on the towel rack and\nplace those towels you want exchanged in the bathtub.\nMay we also ask that you leave this card on the bed if you do not require\nyour bed linens changed?\nWe’d like to thank you for your cooperation in helping to improve our\nenvironment.\nThe Management"
+  },
+  {
+    "id": "175",
+    "question": "What can be inferred about the hotel?",
+    "options": [
+      "It is trying to do its part to help a good cause.",
+      "It is trying to cut down on its cleaning costs.",
+      "It is short of cleaning staff.",
+      "It only uses environment-friendly products."
+    ],
+    "answer": null,
+    "passage": "Questions 174-175 refer to the following card.\nBe Clean, Be Green\nDear Guests,\nEach year, many of the major waterways in the world get polluted by vast\namounts of detergents used to wash bed linen and towels in hotels.\nIn an effort to help preserve the environment, we’d like to ask all of our\nguests to please leave the towels that you intend to re-use on the towel rack and\nplace those towels you want exchanged in the bathtub.\nMay we also ask that you leave this card on the bed if you do not require\nyour bed linens changed?\nWe’d like to thank you for your cooperation in helping to improve our\nenvironment.\nThe Management"
+  },
+  {
+    "id": "176",
+    "question": "What kind of business is being advertised?",
+    "options": [
+      "An insurance company",
+      "An equipment rental company",
+      "A moving company",
+      "A web design company"
+    ],
+    "answer": null,
+    "passage": "Questions 176-180 refer to the following advertisement and letter.\nDoor2Door Since 1962\nA name you can trust\nThinking of relocating? Why not contact Door2Door, the west coast’s\nleading specialists in moving, packing, and storage? Since 1962 we’ve been\nhelping families and businesses start new lives without the stress of worrying\nabout the safety of their valued possessions. Our secret? Well, it’s simple —\nplanning and organization, combined with state-of-the-art equipment and packing\nmaterials, and, of course, experienced manpower. We can pack for you, or, if you\nprefer to do it yourself, we can offer you advice and the best shock-absorbing\nprotective packaging materials. Need to ship overseas? We have the contacts and\nthe experience in Europe and parts of some Asian nations. Storage? We have a\nwide range of options! Insurance? No problems. Our insurance is cheap because\nwe don’t take chances with your precious goods.\nCall our advisers now at 888-8888 or 888-9999. Or check out our new\nwebsite www.door2door.com for a comprehensive guide to our services. We are\nlocated at 343 Prince Highway, Caulfield South.\nDoor2Door\n905\n\n343 Prince Highway\nCaulfield South 3005\n23/08/2018\nDear Door2Door,\nI intend to move overseas with my family at the start of next year. Between\nus, we have many valuable personal possessions — musical instruments,\ncomputers, audio systems, etc. — which we intend to take with us.\nThe country where we’ll be living for the next 5 years (I’m taking up an\nacademic position) is France. We know little about that country and even less\nabout how to ship goods overseas. I really need to get some good advice soon.\nHow can I arrange to speak with one of your consultants?\nCould you please call me at 934-1134, or email me at\nrobsted@gomail.com?\nYours sincerely,\nRobert Steddon"
+  },
+  {
+    "id": "177",
+    "question": "Which of the following does NOT describe Door2Door?",
+    "options": [
+      "It uses the best type of equipment.",
+      "It is internationally connected.",
+      "It has experienced workers.",
+      "It is a family-operated business.\n906"
+    ],
+    "answer": null,
+    "passage": "Questions 176-180 refer to the following advertisement and letter.\nDoor2Door Since 1962\nA name you can trust\nThinking of relocating? Why not contact Door2Door, the west coast’s\nleading specialists in moving, packing, and storage? Since 1962 we’ve been\nhelping families and businesses start new lives without the stress of worrying\nabout the safety of their valued possessions. Our secret? Well, it’s simple —\nplanning and organization, combined with state-of-the-art equipment and packing\nmaterials, and, of course, experienced manpower. We can pack for you, or, if you\nprefer to do it yourself, we can offer you advice and the best shock-absorbing\nprotective packaging materials. Need to ship overseas? We have the contacts and\nthe experience in Europe and parts of some Asian nations. Storage? We have a\nwide range of options! Insurance? No problems. Our insurance is cheap because\nwe don’t take chances with your precious goods.\nCall our advisers now at 888-8888 or 888-9999. Or check out our new\nwebsite www.door2door.com for a comprehensive guide to our services. We are\nlocated at 343 Prince Highway, Caulfield South.\nDoor2Door\n905\n\n343 Prince Highway\nCaulfield South 3005\n23/08/2018\nDear Door2Door,\nI intend to move overseas with my family at the start of next year. Between\nus, we have many valuable personal possessions — musical instruments,\ncomputers, audio systems, etc. — which we intend to take with us.\nThe country where we’ll be living for the next 5 years (I’m taking up an\nacademic position) is France. We know little about that country and even less\nabout how to ship goods overseas. I really need to get some good advice soon.\nHow can I arrange to speak with one of your consultants?\nCould you please call me at 934-1134, or email me at\nrobsted@gomail.com?\nYours sincerely,\nRobert Steddon"
+  },
+  {
+    "id": "178",
+    "question": "What is the purpose of the letter?",
+    "options": [
+      "To apply to an overseas company",
+      "To seek information about some musical equipment",
+      "To get a cost assessment of some personal possessions",
+      "To arrange an appointment to get a consultation"
+    ],
+    "answer": null,
+    "passage": "Questions 176-180 refer to the following advertisement and letter.\nDoor2Door Since 1962\nA name you can trust\nThinking of relocating? Why not contact Door2Door, the west coast’s\nleading specialists in moving, packing, and storage? Since 1962 we’ve been\nhelping families and businesses start new lives without the stress of worrying\nabout the safety of their valued possessions. Our secret? Well, it’s simple —\nplanning and organization, combined with state-of-the-art equipment and packing\nmaterials, and, of course, experienced manpower. We can pack for you, or, if you\nprefer to do it yourself, we can offer you advice and the best shock-absorbing\nprotective packaging materials. Need to ship overseas? We have the contacts and\nthe experience in Europe and parts of some Asian nations. Storage? We have a\nwide range of options! Insurance? No problems. Our insurance is cheap because\nwe don’t take chances with your precious goods.\nCall our advisers now at 888-8888 or 888-9999. Or check out our new\nwebsite www.door2door.com for a comprehensive guide to our services. We are\nlocated at 343 Prince Highway, Caulfield South.\nDoor2Door\n905\n\n343 Prince Highway\nCaulfield South 3005\n23/08/2018\nDear Door2Door,\nI intend to move overseas with my family at the start of next year. Between\nus, we have many valuable personal possessions — musical instruments,\ncomputers, audio systems, etc. — which we intend to take with us.\nThe country where we’ll be living for the next 5 years (I’m taking up an\nacademic position) is France. We know little about that country and even less\nabout how to ship goods overseas. I really need to get some good advice soon.\nHow can I arrange to speak with one of your consultants?\nCould you please call me at 934-1134, or email me at\nrobsted@gomail.com?\nYours sincerely,\nRobert Steddon"
+  },
+  {
+    "id": "179",
+    "question": "What is Mr. Steddon scheduled to do early next year?",
+    "options": [
+      "Take French lessons",
+      "Meet with an overseas client",
+      "Work at a consulting firm",
+      "Teach in a foreign country"
+    ],
+    "answer": null,
+    "passage": "Questions 176-180 refer to the following advertisement and letter.\nDoor2Door Since 1962\nA name you can trust\nThinking of relocating? Why not contact Door2Door, the west coast’s\nleading specialists in moving, packing, and storage? Since 1962 we’ve been\nhelping families and businesses start new lives without the stress of worrying\nabout the safety of their valued possessions. Our secret? Well, it’s simple —\nplanning and organization, combined with state-of-the-art equipment and packing\nmaterials, and, of course, experienced manpower. We can pack for you, or, if you\nprefer to do it yourself, we can offer you advice and the best shock-absorbing\nprotective packaging materials. Need to ship overseas? We have the contacts and\nthe experience in Europe and parts of some Asian nations. Storage? We have a\nwide range of options! Insurance? No problems. Our insurance is cheap because\nwe don’t take chances with your precious goods.\nCall our advisers now at 888-8888 or 888-9999. Or check out our new\nwebsite www.door2door.com for a comprehensive guide to our services. We are\nlocated at 343 Prince Highway, Caulfield South.\nDoor2Door\n905\n\n343 Prince Highway\nCaulfield South 3005\n23/08/2018\nDear Door2Door,\nI intend to move overseas with my family at the start of next year. Between\nus, we have many valuable personal possessions — musical instruments,\ncomputers, audio systems, etc. — which we intend to take with us.\nThe country where we’ll be living for the next 5 years (I’m taking up an\nacademic position) is France. We know little about that country and even less\nabout how to ship goods overseas. I really need to get some good advice soon.\nHow can I arrange to speak with one of your consultants?\nCould you please call me at 934-1134, or email me at\nrobsted@gomail.com?\nYours sincerely,\nRobert Steddon"
+  },
+  {
+    "id": "180",
+    "question": "For which of the following reasons will Door2Door be able to help Robert?",
+    "options": [
+      "Door2Door has a business relationship in the country Robert will be\nmoving to.",
+      "Door2Door has a special discounted package that Robert can take\nadvantage of.",
+      "Door2Door specializes in storing valuable goods at a reasonable cost.",
+      "Door2Door has offices all around the country, especially in the city that\nRobert lives."
+    ],
+    "answer": null,
+    "passage": "Questions 176-180 refer to the following advertisement and letter.\nDoor2Door Since 1962\nA name you can trust\nThinking of relocating? Why not contact Door2Door, the west coast’s\nleading specialists in moving, packing, and storage? Since 1962 we’ve been\nhelping families and businesses start new lives without the stress of worrying\nabout the safety of their valued possessions. Our secret? Well, it’s simple —\nplanning and organization, combined with state-of-the-art equipment and packing\nmaterials, and, of course, experienced manpower. We can pack for you, or, if you\nprefer to do it yourself, we can offer you advice and the best shock-absorbing\nprotective packaging materials. Need to ship overseas? We have the contacts and\nthe experience in Europe and parts of some Asian nations. Storage? We have a\nwide range of options! Insurance? No problems. Our insurance is cheap because\nwe don’t take chances with your precious goods.\nCall our advisers now at 888-8888 or 888-9999. Or check out our new\nwebsite www.door2door.com for a comprehensive guide to our services. We are\nlocated at 343 Prince Highway, Caulfield South.\nDoor2Door\n905\n\n343 Prince Highway\nCaulfield South 3005\n23/08/2018\nDear Door2Door,\nI intend to move overseas with my family at the start of next year. Between\nus, we have many valuable personal possessions — musical instruments,\ncomputers, audio systems, etc. — which we intend to take with us.\nThe country where we’ll be living for the next 5 years (I’m taking up an\nacademic position) is France. We know little about that country and even less\nabout how to ship goods overseas. I really need to get some good advice soon.\nHow can I arrange to speak with one of your consultants?\nCould you please call me at 934-1134, or email me at\nrobsted@gomail.com?\nYours sincerely,\nRobert Steddon"
+  },
+  {
+    "id": "181",
+    "question": "What is the purpose of the first letter?",
+    "options": [
+      "To point out a mistake on an invoice",
+      "To complain about a late delivery",
+      "To show appreciation for good service",
+      "To inquire about a product on sale"
+    ],
+    "answer": null,
+    "passage": "Questions 181-185 refer to the following letter and its response.\nNew World Supermarkets\n5th Floor Federation Tower\nMelbourne\nSeptember 8, 2018\nDear Sir or Madam,\n907\n\nI received the bill for my August account on September 5, 2018, and was\nvery surprised to find that I had been charged for a box of diapers I didn’t buy. I\nam an old-age pensioner, and my children are all grown up. It’s very unlikely that\nI will be needing diapers any time soon.\nI have to say that I am surprised. I have shopped at New World\nSupermarkets for 30 years, and I’ve generally been very satisfied with your\nstandards of service.\nCould you please check your accounts and sort out the problem? I have a\nfixed income, so a bill for $50 for something I never bought is making me very\nworried. Please let me know as soon as possible.\nYours faithfully,\nMs. Suzanne Jones\nMs. Suzanne Jones\n87 Bluff Rd.\nMelbourne\nRe: New World Account no. 33782A for August\nDear Ms. Jones:\nPlease accept our apologies. You were indeed correct that an error was\nmade in your August account dated and sent out on September 3, 2018. We have\nascertained that this error occurred in several accounts, in which extra charges\nwere added, due to a glitch in the computer program.\nRest assured that we have rectified the error in your account and modified\nour automated accounts system to ensure that no mistakes will be made in the\nfuture.\nAn updated account will be sent with your next statement. However, please\ndo not hesitate to contact me if you prefer a replacement statement immediately or\nif you have any other query.\nYours faithfully,\n908\n\nJulie London\nAccounts Department"
+  },
+  {
+    "id": "182",
+    "question": "What is suggested about Ms. Jones?",
+    "options": [
+      "She has never shopped at the supermarket before.",
+      "She has had problems with her bill before.",
+      "She only has a limited income.",
+      "She will never shop at the store again."
+    ],
+    "answer": null,
+    "passage": "Questions 181-185 refer to the following letter and its response.\nNew World Supermarkets\n5th Floor Federation Tower\nMelbourne\nSeptember 8, 2018\nDear Sir or Madam,\n907\n\nI received the bill for my August account on September 5, 2018, and was\nvery surprised to find that I had been charged for a box of diapers I didn’t buy. I\nam an old-age pensioner, and my children are all grown up. It’s very unlikely that\nI will be needing diapers any time soon.\nI have to say that I am surprised. I have shopped at New World\nSupermarkets for 30 years, and I’ve generally been very satisfied with your\nstandards of service.\nCould you please check your accounts and sort out the problem? I have a\nfixed income, so a bill for $50 for something I never bought is making me very\nworried. Please let me know as soon as possible.\nYours faithfully,\nMs. Suzanne Jones\nMs. Suzanne Jones\n87 Bluff Rd.\nMelbourne\nRe: New World Account no. 33782A for August\nDear Ms. Jones:\nPlease accept our apologies. You were indeed correct that an error was\nmade in your August account dated and sent out on September 3, 2018. We have\nascertained that this error occurred in several accounts, in which extra charges\nwere added, due to a glitch in the computer program.\nRest assured that we have rectified the error in your account and modified\nour automated accounts system to ensure that no mistakes will be made in the\nfuture.\nAn updated account will be sent with your next statement. However, please\ndo not hesitate to contact me if you prefer a replacement statement immediately or\nif you have any other query.\nYours faithfully,\n908\n\nJulie London\nAccounts Department"
+  },
+  {
+    "id": "183",
+    "question": "What caused the problem to occur?",
+    "options": [
+      "An accounting error by one of the staff members",
+      "A malfunction in the computer program",
+      "A delivery mix-up at the warehouse",
+      "A shortage of staff in the Accounting Department"
+    ],
+    "answer": null,
+    "passage": "Questions 181-185 refer to the following letter and its response.\nNew World Supermarkets\n5th Floor Federation Tower\nMelbourne\nSeptember 8, 2018\nDear Sir or Madam,\n907\n\nI received the bill for my August account on September 5, 2018, and was\nvery surprised to find that I had been charged for a box of diapers I didn’t buy. I\nam an old-age pensioner, and my children are all grown up. It’s very unlikely that\nI will be needing diapers any time soon.\nI have to say that I am surprised. I have shopped at New World\nSupermarkets for 30 years, and I’ve generally been very satisfied with your\nstandards of service.\nCould you please check your accounts and sort out the problem? I have a\nfixed income, so a bill for $50 for something I never bought is making me very\nworried. Please let me know as soon as possible.\nYours faithfully,\nMs. Suzanne Jones\nMs. Suzanne Jones\n87 Bluff Rd.\nMelbourne\nRe: New World Account no. 33782A for August\nDear Ms. Jones:\nPlease accept our apologies. You were indeed correct that an error was\nmade in your August account dated and sent out on September 3, 2018. We have\nascertained that this error occurred in several accounts, in which extra charges\nwere added, due to a glitch in the computer program.\nRest assured that we have rectified the error in your account and modified\nour automated accounts system to ensure that no mistakes will be made in the\nfuture.\nAn updated account will be sent with your next statement. However, please\ndo not hesitate to contact me if you prefer a replacement statement immediately or\nif you have any other query.\nYours faithfully,\n908\n\nJulie London\nAccounts Department"
+  },
+  {
+    "id": "184",
+    "question": "When should Ms. Jones contact Julie London?",
+    "options": [
+      "If the problem persists",
+      "As soon as the next bill arrives",
+      "If she is curious to know the cause of the problem",
+      "If she wants the correct statement right away\n909"
+    ],
+    "answer": null,
+    "passage": "Questions 181-185 refer to the following letter and its response.\nNew World Supermarkets\n5th Floor Federation Tower\nMelbourne\nSeptember 8, 2018\nDear Sir or Madam,\n907\n\nI received the bill for my August account on September 5, 2018, and was\nvery surprised to find that I had been charged for a box of diapers I didn’t buy. I\nam an old-age pensioner, and my children are all grown up. It’s very unlikely that\nI will be needing diapers any time soon.\nI have to say that I am surprised. I have shopped at New World\nSupermarkets for 30 years, and I’ve generally been very satisfied with your\nstandards of service.\nCould you please check your accounts and sort out the problem? I have a\nfixed income, so a bill for $50 for something I never bought is making me very\nworried. Please let me know as soon as possible.\nYours faithfully,\nMs. Suzanne Jones\nMs. Suzanne Jones\n87 Bluff Rd.\nMelbourne\nRe: New World Account no. 33782A for August\nDear Ms. Jones:\nPlease accept our apologies. You were indeed correct that an error was\nmade in your August account dated and sent out on September 3, 2018. We have\nascertained that this error occurred in several accounts, in which extra charges\nwere added, due to a glitch in the computer program.\nRest assured that we have rectified the error in your account and modified\nour automated accounts system to ensure that no mistakes will be made in the\nfuture.\nAn updated account will be sent with your next statement. However, please\ndo not hesitate to contact me if you prefer a replacement statement immediately or\nif you have any other query.\nYours faithfully,\n908\n\nJulie London\nAccounts Department"
+  },
+  {
+    "id": "185",
+    "question": "How many days after the store sent out its bill did Ms. Jones write back?",
+    "options": [
+      "2 days",
+      "3 days",
+      "4 days",
+      "5 days\nQuestions 186-190 refer to the following report, e-mail, and article.\nThis is a preliminary report of the employee survey conducted last month on\nDecember 31. All 150 employees at the firm filled out their surveys. The\nresponses were anonymous and were compiled by Watson Research. The raw\ndata and written comments are still being analyzed. Those results will be\nreleased on February 1.\nMedford Textiles employees provided the following answers:\nTo: Silas Farmer <silasf@medfordtextiles.com>\nFrom: Clarence Davidson <cdavidson@medfordtextiles.com>\nSubject: Survey Results\nDate: February 4\nSilas,\nI had the opportunity to review your suggestions for what changes to make\nbased on the results of the employee survey. You’re suggesting some radical\n910\n\nchanges, so I can’t approve everything at this moment. I wasn’t around to\ncomplete the survey, so I’d like to speak with a few more people who responded\nto it and listen to what they have to say. How about selecting 6 employees at\nrandom and instructing them to visit me in my office tomorrow at 4:00 P.M.?\nPlease advise everyone that they should be open and that nothing they say will be\nheld against them.\nRegards,\nClarence\nhttp://www.medfordtextiles.com/newsletter\nChanges Are Coming to the Firm\nVice President Clarence Davidson announced some sweeping changes at\nMedford Textiles during a speech in the auditorium last night. Nearly every\nemployee at the company was in attendance. Mr. Davidson spoke for a bit,\nencouraged the employees to make comments, and then announced his decisions\nregarding the company’s future.\nMr. Davidson fired Francis Cohen and Leonardo Bellucci, citing their poor\nleadership skills. He also announced a new training program for those individuals\nin executive positions. He further added that the workplace would be renovated\nand that employees would be receiving 6% increases in their wages immediately.\nHe also promised to consult with each employee on an individual basis to\ndetermine how they feel about working at Medford Textiles."
+    ],
+    "answer": null,
+    "passage": "Questions 181-185 refer to the following letter and its response.\nNew World Supermarkets\n5th Floor Federation Tower\nMelbourne\nSeptember 8, 2018\nDear Sir or Madam,\n907\n\nI received the bill for my August account on September 5, 2018, and was\nvery surprised to find that I had been charged for a box of diapers I didn’t buy. I\nam an old-age pensioner, and my children are all grown up. It’s very unlikely that\nI will be needing diapers any time soon.\nI have to say that I am surprised. I have shopped at New World\nSupermarkets for 30 years, and I’ve generally been very satisfied with your\nstandards of service.\nCould you please check your accounts and sort out the problem? I have a\nfixed income, so a bill for $50 for something I never bought is making me very\nworried. Please let me know as soon as possible.\nYours faithfully,\nMs. Suzanne Jones\nMs. Suzanne Jones\n87 Bluff Rd.\nMelbourne\nRe: New World Account no. 33782A for August\nDear Ms. Jones:\nPlease accept our apologies. You were indeed correct that an error was\nmade in your August account dated and sent out on September 3, 2018. We have\nascertained that this error occurred in several accounts, in which extra charges\nwere added, due to a glitch in the computer program.\nRest assured that we have rectified the error in your account and modified\nour automated accounts system to ensure that no mistakes will be made in the\nfuture.\nAn updated account will be sent with your next statement. However, please\ndo not hesitate to contact me if you prefer a replacement statement immediately or\nif you have any other query.\nYours faithfully,\n908\n\nJulie London\nAccounts Department"
+  },
+  {
+    "id": "186",
+    "question": "According to the report, what did Watson Research do?",
+    "options": [
+      "Conducted interviews with employees",
+      "Interviewed job candidates",
+      "Collected some data",
+      "Created survey questions\n911"
+    ],
+    "answer": null
+  },
+  {
+    "id": "187",
+    "question": "What is suggested about Mr. Davidson?",
+    "options": [
+      "He is working closely with Watson Research.",
+      "He disregards the results of the survey.",
+      "He started working at Medford Textiles this year.",
+      "He will be promoted to CEO soon."
+    ],
+    "answer": null
+  },
+  {
+    "id": "188",
+    "question": "What did Mr. Davidson instruct Mr. Farmer to do?",
+    "options": [
+      "Organize a meeting",
+      "Compile some results",
+      "Conduct a survey",
+      "Employ his suggestions"
+    ],
+    "answer": null
+  },
+  {
+    "id": "189",
+    "question": "In the e-mail, the word“open” in line 7 is closest in meaning to __________.",
+    "options": [
+      "extended",
+      "frank",
+      "vacant",
+      "exposed"
+    ],
+    "answer": null
+  },
+  {
+    "id": "190",
+    "question": "Which topic covered in the survey did Mr. Davidson NOT mention to the\nemployees at his speech?",
+    "options": [
+      "Salary",
+      "Office/cubicle",
+      "Manager",
+      "Prospects for advancement\nQuestions 191-195 refer to the following advertisement, invoice, and memo.\nCaraway Coffee\n912\n\nis having a special sale on coffee beans this week only\nWe import the finest coffee beans from around the world\nWe have coffee beans from Hawaii, Indonesia, Ethiopia, Kenya, and 50 other\ncountries\nWe specialize in bulk orders for coffee shops, cafés, restaurants, and\nsupermarkets\nUntil March 10, take advantage of this offer:\n- Buy 5kg of one type of coffee beans and get 1kg for free\n- Buy 8kg of one type of coffee beans and get 2kg for free\n- Buy 10kg of one type of coffee beans and get 3kg for free\n- Buy 15kg of one type of coffee beans and get 6kg for free\nThis offer applies to all the coffee beans we sell\nThe free coffee beans will be the same as those purchased\nFor more information or to place an order, call (908) 253-1726 or\ne-mail us at orders@carawaycoffee.com\nCaraway Coffee\n598 Longshore Drive\nLos Angeles, CA 90243\nCustomer Name: Melrose Coffee Shop (Contact Name: Judith Hearne)\nAddress: 192 Grissom Street, Pasadena, CA 90394\nPhone Number: 232-7336\nOrder Number: 58533\nOrder Date: March 5\n913\n\nDelivery Date: March 6\nThank you for your order. Please call us at (908) 253-1726 to report any\nproblems or to ask any questions.\nTo: All Staff, Melrose Coffee Shop\nFrom: Judith Hearne\nSubject: Coffee Beans\nDate: March 10\nWe received some coffee beans from our supplier three days ago, so please\nremember to recommend them to customers who ask what they should try. Point\nout the new items on the menu and tell the customers that they ought to give the\nbeans a chance. We’re already running low on Jamaican Blue Mountain coffee\nbeans. That item has proved to be very popular. I’m going to order 8kg tomorrow\nso that we can receive some free beans. Let me know if we should order any\nother beans before we close for the day, please."
+    ],
+    "answer": null
+  },
+  {
+    "id": "191",
+    "question": "What is indicated about Caraway Coffee?",
+    "options": [
+      "It only sells items in bulk.",
+      "It has a chain of coffee shops.",
+      "It sends free samples to some customers.\n914",
+      "It sells coffee beans from many places."
+    ],
+    "answer": null
+  },
+  {
+    "id": "192",
+    "question": "Who most likely is Ms. Hearne?",
+    "options": [
+      "A Caraway Coffee employee",
+      "A coffee distributor",
+      "A customer",
+      "A salesperson"
+    ],
+    "answer": null
+  },
+  {
+    "id": "193",
+    "question": "Which coffee beans will the Melrose Coffee Shop receive more than it\nordered?",
+    "options": [
+      "Kona coffee beans",
+      "Opalaca coffee beans",
+      "Jamaican Blue Mountain coffee beans",
+      "Panama Esmerelda coffee beans"
+    ],
+    "answer": null
+  },
+  {
+    "id": "194",
+    "question": "What is one purpose of the memo?",
+    "options": [
+      "To give employees a reminder",
+      "To confirm a request for an order",
+      "To note an increase in prices",
+      "To mention the removal of items from the menu"
+    ],
+    "answer": null
+  },
+  {
+    "id": "195",
+    "question": "Why will the Melrose Coffee Shop NOT get any free coffee beans on its next\norder?",
+    "options": [
+      "It does not belong to a special customer program.",
+      "The sale period will have already ended.",
+      "Customers can only get discounts one time.",
+      "The store is not purchasing enough coffee beans.\nQuestions 196-200 refer to the following article, e-mail, and announcement.\n915\n\nPowell Hospital to Open Soon\nWATERTOWN (April 23) – For years, the residents of Watertown have only\nbeen serviced by a small health clinic. For serious issues and emergencies, the\npeople of this town of 10,000 have been forced to travel to Piedmont, which has\ntwo large hospitals. However, that is going to change in May when the Powell\nHospital opens its doors.\nAdrian Desmond, a longtime resident of Watertown, is the man behind\nPowell Hospital.“I love this town, and I thought long and hard about how to make\nit better. I decided that constructing a hospital would be the best way for me to\naccomplish this.” Local residents agree as they can’t stop thanking Mr. Desmond\nwhenever they see him on the town’s streets.“It’s hard for me to drive more than\nan hour to get to a hospital,” commented local resident Dale Sweeney.“It will be\nnice to be able to walk down the street the next time something ails me.”\nThe opening of the hospital comes at a crucial time since Dr. Edith\nFairmount is considering shutting down the Watertown Health Clinic. Without the\nhospital, that would leave the area with no professional medical services.\nTo: Clarence Harper\nFrom: Mark Portland\nSubject: Position\nDate: April 29\nDear Mr. Harper,\nIt was a pleasure to speak with you yesterday. I was satisfied with the terms\nof your offer and would like to inform you that I’m looking forward to working at\nPowell Hospital on the day it opens. It will be an honor to continue treating the\nresidents of Watertown as I have been doing for the past three years. I will visit\nyour office this coming Friday in the afternoon to sign the necessary paperwork.\nSincerely,\nMark Portland\n916\n\nPowell Hospital Open\nPowell Hospital opened its doors to the public for the first time yesterday,\nMay 5. The hospital has 65 beds, employs 20 full-time doctors, and has an\nemergency room staffed 24 hours a day. The hospital is big enough to tend to the\nmedical needs of a town of approximately 6,000 individuals. Residents can be\ntreated for a variety of illnesses, undergo surgical procedures, and receive\nvaccinations there."
+    ],
+    "answer": null
+  },
+  {
+    "id": "196",
+    "question": "Who is Mr. Desmond?",
+    "options": [
+      "A medical patient",
+      "The owner of the Watertown Health Clinic",
+      "A local doctor",
+      "The founder of a hospital"
+    ],
+    "answer": null
+  },
+  {
+    "id": "197",
+    "question": "What most likely is true about Mr. Sweeney?",
+    "options": [
+      "He intends to continue visiting Piedmont.",
+      "His home is close to Powell Hospital.",
+      "One of his family members works at Powell Hospital.",
+      "He is friends with Mr. Desmond."
+    ],
+    "answer": null
+  },
+  {
+    "id": "198",
+    "question": "Why did Mr. Portland write to Mr. Harper?",
+    "options": [
+      "To ask when to sign some papers",
+      "To request he be offered a job",
+      "To accept an offer of employment",
+      "To ask about the results of a test"
+    ],
+    "answer": null
+  },
+  {
+    "id": "199",
+    "question": "What is most likely true about Mr. Portland?\n917",
+    "options": [
+      "He worked at the Watertown Health Clinic.",
+      "He has lived in Watertown his entire life.",
+      "He works in the Powell Hospital emergency room.",
+      "He specializes in surgical operations."
+    ],
+    "answer": null
+  },
+  {
+    "id": "200",
+    "question": "What is suggested about the residents of Watertown?",
+    "options": [
+      "They donated the land that the hospital is built on.",
+      "Some may still need to visit Piedmont for medical care.",
+      "They will pay low rates at Powell Hospital.",
+      "Some encouraged Dr. Fairmount to continue working.\n918"
+    ],
+    "answer": null
+  }
+]

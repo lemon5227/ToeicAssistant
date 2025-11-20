@@ -1,0 +1,1181 @@
+{
+  "testId": "listening_test_09",
+  "title": "Listening Test 09",
+  "questions": [
+    {
+      "id": "1",
+      "question": "Listen to the audio and choose the best description.",
+      "options": [
+        "He's drinking some water.",
+        "He's checking his reflection in the mirror.",
+        "He's enjoying a meal at the table.",
+        "He's reading a paper in a dining area."
+      ],
+      "script": "（A）He's drinking some water.\n（B）He's checking his reflection in the mirror.\n（C）He's enjoying a meal at the table.\n（D）He's reading a paper in a dining area.\n（A）他正在喝水。\n（B）他正在查看自己在镜中的影像。\n（C）他正在餐桌旁吃饭。\n（D）他正在就餐区读报纸。\n·He is looking over the paper.\n他正在查看报纸。\n·He is studying the newspaper.\n650\n\n他正在研究报纸。\n·He is leafing through the paper.\n他正在浏览报纸。",
+      "answer": "B"
+    },
+    {
+      "id": "2",
+      "question": "Listen to the audio and choose the best description.",
+      "options": [
+        "The woman is picking out an item.",
+        "The woman is cleaning the floor.",
+        "The woman is helping a customer.",
+        "The woman is trying on a jacket."
+      ],
+      "script": "（A）The woman is picking out an item.\n（B）The woman is cleaning the floor.\n（C）The woman is helping a customer.\n（D）The woman is trying on a jacket.\n（A）女士正在挑选商品。\n（B）女士正在扫地。\n（C）女士正在为顾客服务。\n（D）女士正在试穿夹克。\n·The woman is choosing an item.\n女士正在挑选商品。\n·The woman is about to select an item on the rack.\n女士正打算从货架上挑选一件商品。\n·She has reached out to pick out an item from the rack.\n她已经伸出手去从货架上拿商品。",
+      "answer": "A"
+    },
+    {
+      "id": "3",
+      "question": "Listen to the audio and choose the best description.",
+      "options": [
+        "The aircraft is about to land at the airport.",
+        "The people are boarding the plane.",
+        "The cargo is being loaded onto the plane.",
+        "The plane landed a short while ago."
+      ],
+      "script": "（A）The aircraft is about to land at the airport.\n（B）The people are boarding the plane.\n（C）The cargo is being loaded onto the plane.\n（D）The plane landed a short while ago.\n（A）这架飞机正要在机场着陆。\n（B）人们正在登机。\n（C）货物正在被装上飞机。\n（D）飞机刚着陆一小会儿。\n·The woman is stepping down from the plane.\n女士正在走下飞机。\n·An exit ramp extends up to the door of the plane.\n出舱舷梯伸到了飞机门口。\n·The passengers are walking away from the plane.\n乘客们正在离开飞机。",
+      "answer": "D"
+    },
+    {
+      "id": "4",
+      "question": "Listen to the audio and choose the best description.",
+      "options": [
+        "One man is standing at the door. 651",
+        "The men are walking up the stairs.",
+        "One man is filming the other.",
+        "The men are being interviewed."
+      ],
+      "script": "（A）One man is standing at the door.\n651\n\n（B）The men are walking up the stairs.\n（C）One man is filming the other.\n（D）The men are being interviewed.\n（A）一位男士正站在门口。\n（B）男士正在上楼梯。\n（C）一位男士正在给另一位男士拍照。\n（D）男士正在接受采访。\n·One man has crouched down.\n一位男士已经蹲下了。\n·One man is holding a camera on his shoulder.\n一位男士肩上正扛着摄像机。\n·The man being filmed is wearing a safety helmet.\n正被拍摄的男士戴着安全头盔。",
+      "answer": "C"
+    },
+    {
+      "id": "5",
+      "question": "Listen to the audio and choose the best description.",
+      "options": [
+        "The tables have been set up indoors.",
+        "A waiter is serving the customers.",
+        "Some people are seated outside.",
+        "The area is entirely shaded."
+      ],
+      "script": "（A）The tables have been set up indoors.\n（B）A waiter is serving the customers.\n（C）Some people are seated outside.\n（D）The area is entirely shaded.\n（A）餐桌已经在室内摆好了。\n（B）一位服务员正在为顾客服务。\n（C）一些人在室外就座了。\n（D）整块区域都是阴凉地。\n·There are tables and chairs set up outdoors.\n室外摆放着餐桌和椅子。\n·There are buildings on both sides of the street.\n街道两边都有建筑。\n·There are still seats available.\n还有座位空着。",
+      "answer": "D"
+    },
+    {
+      "id": "6",
+      "question": "Listen to the audio and choose the best description.",
+      "options": [
+        "The cars are parked on the road.",
+        "There are vehicles in the driveway.",
+        "The windows are being cleaned.",
+        "A man is getting into the car."
+      ],
+      "script": "（A）The cars are parked on the road.\n（B）There are vehicles in the driveway.\n（C）The windows are being cleaned.\n（D）A man is getting into the car.\n（A）汽车停在路上。\n652\n\n（B）车道上有车辆。\n（C）有人正在擦窗户。\n（D）一位男士正在上车。\n·There are trees growing around the house.\n房子周围种着树。\n·The vehicles are parked next to each other.\n这些车辆并排停放着。\n·The cars are parked facing the same direction.\n这些汽车都朝一个方向停放。\n注：在Part 1中，每道试题都添加了3种可能的正确表达方式，考生可\n以了解对于同样的照片可能出现的不同表达。",
+      "answer": "B"
+    },
+    {
+      "id": "7",
+      "question": "When are you thinking of taking off?",
+      "options": [
+        "As soon as I get this done.",
+        "He took it with him.",
+        "At around 3 last night. 你想什么时候动身呢？"
+      ],
+      "script": "When are you thinking of taking off?\n（A）As soon as I get this done.\n（B）He took it with him.\n（C）At around 3 last night.\n你想什么时候动身呢？\n（A）我一把这个做完（就动身）。\n（B）他把它带在身上。\n（C）昨天夜里3点左右。\nQ When are you going?\nA When I get this work done.\n你什么时候走呢？\n—当我把这项工作做完的时候。",
+      "answer": "A"
+    },
+    {
+      "id": "8",
+      "question": "Where in Canada are you from?",
+      "options": [
+        "I was born in Kingston.",
+        "Early tomorrow morning.",
+        "No, I don't feel like it. 你是加拿大哪个地方的人呢？"
+      ],
+      "script": "Where in Canada are you from?\n（A）I was born in Kingston.\n（B）Early tomorrow morning.\n（C）No, I don't feel like it.\n你是加拿大哪个地方的人呢？\n（A）我出生在金士顿。\n（B）明天一大早。\n（C）不，我不喜欢它。\nQ What part of Canada do you come from?\n653\n\nA I grew up in Kingston.\n你是加拿大哪个地方的人？\n—我在金士顿长大。",
+      "answer": "A"
+    },
+    {
+      "id": "9",
+      "question": "Pardon me, but would it be possible for me to use your phone?",
+      "options": [
+        "Sure, but you have to dial 9 to call out.",
+        "The phone directory is on the lower shelf.",
+        "There is one on the first floor of this building. 不好意思，我可以用你的电话吗？"
+      ],
+      "script": "Pardon me, but would it be possible for me to use your phone?\n（A）Sure, but you have to dial 9 to call out.\n（B）The phone directory is on the lower shelf.\n（C）There is one on the first floor of this building.\n不好意思，我可以用你的电话吗？\n（A）可以，不过你打电话前要先拨9。\n（B）电话姓名簿在下面的架子上。\n（C）这栋楼的一层有一个。\nQ Excuse me, but may I use your phone?\nA Be my guest.\n打扰一下，我可以用你的电话吗？\n—请不要客气。",
+      "answer": "A"
+    },
+    {
+      "id": "10",
+      "question": "How much is it to get into the place?",
+      "options": [
+        "There is a ten-dollar cover charge.",
+        "Sure, we can go there if you'd like.",
+        "How about going this Saturday? 进那里要多少钱？"
+      ],
+      "script": "How much is it to get into the place?\n（A）There is a ten-dollar cover charge.\n（B）Sure, we can go there if you'd like.\n（C）How about going this Saturday?\n进那里要多少钱？\n（A）需要10美元的服务费。\n（B）好的，如果你乐意的话，我们可以去那里。\n（C）这周六去怎么样？\nQ How much is the entrance fee?\nA It's ten dollars.\n入场费是多少？\n—10美元。",
+      "answer": "A"
+    },
+    {
+      "id": "11",
+      "question": "Why don't we flag down a cab?",
+      "options": [
+        "Let's just go for a walk instead.",
+        "It's about an hour from here.",
+        "Because it's a national holiday. 我们为什么不乘出租车？"
+      ],
+      "script": "Why don't we flag down a cab?\n（A）Let's just go for a walk instead.\n（B）It's about an hour from here.\n（C）Because it's a national holiday.\n我们为什么不乘出租车？\n654\n\n（A）我们还是散散步吧。\n（B）从这里过去要一个小时左右。\n（C）因为是全国性的假日。\nQ Why don't we grab a cab?\nA I'd rather walk.\n我们为什么不打车呢？\n—我更想走路。\n注：在Part 2中，为帮助考生提高听懂题目的能力，添加了和试题相同\n或相似的表达方法。",
+      "answer": "A"
+    },
+    {
+      "id": "12",
+      "question": "Are you going to take the bus to Chicago?",
+      "options": [
+        "The boss told me to.",
+        "To pick up someone.",
+        "No, I am going to drive. 你打算乘坐巴士去芝加哥吗？"
+      ],
+      "script": "Are you going to take the bus to Chicago?\n（A）The boss told me to.\n（B）To pick up someone.\n（C）No, I am going to drive.\n你打算乘坐巴士去芝加哥吗？\n（A）老板让我去做。\n（B）去接某人。\n（C）不，我打算开车去。\nQ How are you planning to get to Chicago?\nA I'll be taking my car.\n你打算怎么去芝加哥？\n—我打算自己开车去。",
+      "answer": "C"
+    },
+    {
+      "id": "13",
+      "question": "Who is supposed to show up at the party?",
+      "options": [
+        "Everyone said they'll be there.",
+        "He's holding it at a banquet hall.",
+        "Yes, I had a great time there. 谁应该在派对上露面呢？"
+      ],
+      "script": "Who is supposed to show up at the party?\n（A）Everyone said they'll be there.\n（B）He's holding it at a banquet hall.\n（C）Yes, I had a great time there.\n谁应该在派对上露面呢？\n（A）每个人都说要来。\n（B）他正在宴会厅举行派对。\n（C）是的，我在那里度过了愉快的时光。\nQ Who's planning to come to the party?\nA As far as I know, everyone will be there.\n谁打算来参加这次派对？\n655\n\n—据我所知，每个人都会过去。",
+      "answer": "A"
+    },
+    {
+      "id": "14",
+      "question": "How long are you thinking of going?",
+      "options": [
+        "For about a year or so.",
+        "What's with the long face?",
+        "Yes, I will be going with John. 你想离开多久？"
+      ],
+      "script": "How long are you thinking of going?\n（A）For about a year or so.\n（B）What's with the long face?\n（C）Yes, I will be going with John.\n你想离开多久？\n（A）大约一年。\n（B）为什么愁容满面？\n（C）是的，我将和约翰一起去。\nQ How long are you planning to be away?\nA I'm thinking of spending a year abroad.\n你计划离开多久？\n—我在考虑在国外待一年。",
+      "answer": "A"
+    },
+    {
+      "id": "15",
+      "question": "Would you like to go for lunch together?",
+      "options": [
+        "At the company cafeteria.",
+        "There are four people in our group.",
+        "Thank you, but I am too busy today. 你想一起去吃午饭吗？"
+      ],
+      "script": "Would you like to go for lunch together?\n（A）At the company cafeteria.\n（B）There are four people in our group.\n（C）Thank you, but I am too busy today.\n你想一起去吃午饭吗？\n（A）在公司食堂。\n（B）我们组有四个人。\n（C）谢谢，不过我今天太忙了。\nQ Why don't we have lunch together?\nA Can we do it another time instead?\n我们一起吃午饭怎么样？\n—我们可以改天吗？",
+      "answer": "C"
+    },
+    {
+      "id": "16",
+      "question": "Where do you feel like meeting, here in my office or somewhere outside?",
+      "options": [
+        "Okay, that sounds like a good place to meet.",
+        "How about the little coffee shop on Main Street?",
+        "Yes, I think I can spare the time to see you. 你想在什么地方见面，是我办公室这里，还是外面什么地方？"
+      ],
+      "script": "Where do you feel like meeting, here in my office or somewhere outside?\n（A）Okay, that sounds like a good place to meet.\n（B）How about the little coffee shop on Main Street?\n（C）Yes, I think I can spare the time to see you.\n你想在什么地方见面，是我办公室这里，还是外面什么地方？\n（A）可以，那听起来是个不错的见面地点。\n（B）主街的小咖啡店怎么样？\n656\n\n（C）是的，我想我可以抽时间见见你。\nQ Would you like to meet in my office or at a coffee shop somewhere?\nA The coffee shop on Main Street sounds good.\n你想在我的办公室碰面呢，还是在什么地方的咖啡店呢？\n—主街的咖啡店听起来不错。",
+      "answer": "B"
+    },
+    {
+      "id": "17",
+      "question": "When will you start your new position at the head office?",
+      "options": [
+        "The first of next month.",
+        "At the downtown office.",
+        "I'm heading this one. 你什么时候开始到总公司的新岗位上班呢？"
+      ],
+      "script": "When will you start your new position at the head office?\n（A）The first of next month.\n（B）At the downtown office.\n（C）I'm heading this one.\n你什么时候开始到总公司的新岗位上班呢？\n（A）下个月的1号。\n（B）在位于市中心的办公室。\n（C）我正负责这个。\nQ When is your first day at the main office?\nA I'll start going there from next month.\n你什么时候开始在总公司上班？\n—我下个月开始去那里上班。",
+      "answer": "A"
+    },
+    {
+      "id": "18",
+      "question": "Didn't you think Peter gave a great presentation?",
+      "options": [
+        "Yes, he was very impressive.",
+        "Yes, for three hours.",
+        "I already got the present. 你难道不认为彼得的演讲很棒吗？"
+      ],
+      "script": "Didn't you think Peter gave a great presentation?\n（A）Yes, he was very impressive.\n（B）Yes, for three hours.\n（C）I already got the present.\n你难道不认为彼得的演讲很棒吗？\n（A）是的，他给人留下了很深刻的印象。\n（B）是的，三个小时。\n（C）我已经收到礼物了。\nQ Wasn't Peter's presentation impressive?\nA Yes, it was quite inspiring.\n彼得的演讲难道不令人难忘吗？\n—是的，确实很鼓舞人心。",
+      "answer": "A"
+    },
+    {
+      "id": "19",
+      "question": "Should we try Greek food tonight?",
+      "options": [
+        "Yes, he is from Greece.",
+        "Sure, I'd love to try it. 657",
+        "I didn't go there tonight. 今晚我们尝尝希腊菜怎么样？"
+      ],
+      "script": "Should we try Greek food tonight?\n（A）Yes, he is from Greece.\n（B）Sure, I'd love to try it.\n657\n\n（C）I didn't go there tonight.\n今晚我们尝尝希腊菜怎么样？\n（A）是的，他是从希腊来的。\n（B）好的，我乐意去试试。\n（C）我今晚没有去那里。\nQ How about having Greek food this evening?\nA That sounds very delicious.\n今晚吃希腊餐如何？\n—听起来很好吃。",
+      "answer": "B"
+    },
+    {
+      "id": "20",
+      "question": "What did Mr. Smith say about the new project?",
+      "options": [
+        "He made some great comments.",
+        "The projector is in the meeting room.",
+        "Yes, he mentioned it to me. 史密斯先生对于新项目说了些什么?"
+      ],
+      "script": "What did Mr. Smith say about the new project?\n（A）He made some great comments.\n（B）The projector is in the meeting room.\n（C）Yes, he mentioned it to me.\n史密斯先生对于新项目说了些什么?\n（A）他给予了很高的评价。\n（B）投影仪在会议室。\n（C）是的，他向我提起过。\nQ How did Mr. Smith respond to the project?\nA He seemed very positive about it.\n史密斯先生是如何回应这个项目的？\n—他似乎对它很有信心。",
+      "answer": "A"
+    },
+    {
+      "id": "21",
+      "question": "Would you rather stay here or go for a walk with me?",
+      "options": [
+        "I've been waiting for an hour.",
+        "Let me get my jacket.",
+        "Yes, I think so. 你是想待在这里，还是想和我出去散散步呢？"
+      ],
+      "script": "Would you rather stay here or go for a walk with me?\n（A）I've been waiting for an hour.\n（B）Let me get my jacket.\n（C）Yes, I think so.\n你是想待在这里，还是想和我出去散散步呢？\n（A）我已经等了一个小时了。\n（B）让我去拿夹克。\n（C）是的，我认为是这样。\nQ How would you like to go for a stroll?\nA Sure, let me put on my jacket first.\n你觉得出去遛个弯怎么样？\n658\n\n—好的，让我先穿上夹克。",
+      "answer": "B"
+    },
+    {
+      "id": "22",
+      "question": "Who put the event together?",
+      "options": [
+        "Larry's the one in charge.",
+        "I will put it there later.",
+        "Sorry, I can't go today. 谁组织了这次活动？"
+      ],
+      "script": "Who put the event together?\n（A）Larry's the one in charge.\n（B）I will put it there later.\n（C）Sorry, I can't go today.\n谁组织了这次活动？\n（A）拉里是负责人。\n（B）我一会儿会把它放到那里。\n（C）抱歉，我今天不能去。\nQ Who's responsible for putting together the event?\nA Larry is heading this one.\n谁负责组织这次活动？\n—拉里负责本次活动。",
+      "answer": "A"
+    },
+    {
+      "id": "23",
+      "question": "Should I take my car, or do you think it would be wiser to take the bus?",
+      "options": [
+        "The boss is a wise man.",
+        "Let's just hop in a cab instead.",
+        "It shouldn't take over an hour. 我应该自己开车吗，或者你觉得乘公交车是不是更明智一点？"
+      ],
+      "script": "Should I take my car, or do you think it would be wiser to take the bus?\n（A）The boss is a wise man.\n（B）Let's just hop in a cab instead.\n（C）It shouldn't take over an hour.\n我应该自己开车吗，或者你觉得乘公交车是不是更明智一点？\n（A）老板是个精明人。\n（B）我们还是打车吧。\n（C）不会超过一小时的。\nQ Do you think it'd be better to drive or take the bus?\nA It's probably faster to take a cab.\n你觉得是开车还是坐公交车更好呢？\n—可能打车会快一点。",
+      "answer": "B"
+    },
+    {
+      "id": "24",
+      "question": "Didn't you bring your car to work this morning?",
+      "options": [
+        "No, I took the bus today.",
+        "Yes, I will drive you there.",
+        "She might be working today. 你今天早晨不是开车来上班的吗？"
+      ],
+      "script": "Didn't you bring your car to work this morning?\n（A）No, I took the bus today.\n（B）Yes, I will drive you there.\n（C）She might be working today.\n你今天早晨不是开车来上班的吗？\n（A）不，我今天是坐公交车来的。\n（B）是的，我会开车把你送到那里。\n659\n\n（C）她今天也许在工作。\nQ Did you not drive to work today?\nA No, I left my car at home.\n你今天没有开车来上班吗？\n—没有，我把车放在家里了。",
+      "answer": "A"
+    },
+    {
+      "id": "25",
+      "question": "Can I tell John that you are here?",
+      "options": [
+        "Sure, that would be okay.",
+        "Yes, he is here today.",
+        "No, we are not leaving yet. 我可以告诉约翰你在这里吗？"
+      ],
+      "script": "Can I tell John that you are here?\n（A）Sure, that would be okay.\n（B）Yes, he is here today.\n（C）No, we are not leaving yet.\n我可以告诉约翰你在这里吗？\n（A）好的，没问题。\n（B）是的，他今天在这里。\n（C）不，我们现在还不走。\nQ Should I let John know that you came by?\nA Yes, could you?\n我可以告诉约翰你过来了吗？\n—好的，有劳了。",
+      "answer": "A"
+    },
+    {
+      "id": "26",
+      "question": "Today is a great day to go for a walk by the beach.",
+      "options": [
+        "Yes, it is a beautiful day.",
+        "I didn't know it was raining.",
+        "I went swimming the other day. 今天是去海边散步的好日子。"
+      ],
+      "script": "Today is a great day to go for a walk by the beach.\n（A）Yes, it is a beautiful day.\n（B）I didn't know it was raining.\n（C）I went swimming the other day.\n今天是去海边散步的好日子。\n（A）是的，今天天气很好。\n（B）我不知道在下雨。\n（C）我前几天去游泳了。\nQ This is great weather to just wander around the beach.\nA Yes, I agree with you.\n今天天气不错，适合去海边散步。\n—是的，我同意你的说法。",
+      "answer": "A"
+    },
+    {
+      "id": "27",
+      "question": "Where do you get your car fixed?",
+      "options": [
+        "I park my car in the underground garage.",
+        "From a grocery store near my house. 660",
+        "Why? Are you having car problems? 你的车是在哪里修的？"
+      ],
+      "script": "Where do you get your car fixed?\n（A）I park my car in the underground garage.\n（B）From a grocery store near my house.\n660\n\n（C）Why? Are you having car problems?\n你的车是在哪里修的？\n（A）我把我的车停在地下车库了。\n（B）从我家附近的一家杂货店。\n（C）怎么了？你的车出毛病了吗？\nQ Where do you take your car to get it repaired?\nA What's wrong with it?\n你在哪里修的车？\n—它出了什么毛病？",
+      "answer": "C"
+    },
+    {
+      "id": "28",
+      "question": "Are you making the presentation today, or is Mr. Smith going to do it?",
+      "options": [
+        "He is going to be here any minute now.",
+        "He told me to take care of it today.",
+        "It is supposed to last until three. 今天是你还是史密斯先生要作报告呢？"
+      ],
+      "script": "Are you making the presentation today, or is Mr. Smith going to do it?\n（A）He is going to be here any minute now.\n（B）He told me to take care of it today.\n（C）It is supposed to last until three.\n今天是你还是史密斯先生要作报告呢？\n（A）他现在随时都可能到这里。\n（B）他让我今天负责这次报告。\n（C）它应该会持续到3点。\nQ Are you going to make the speech today, or will Mr. Smith do it?\nA He's away on a business trip.\n今天是你还是史密斯先生要作报告呢？\n—他出差了。",
+      "answer": "B"
+    },
+    {
+      "id": "29",
+      "question": "What is it about the design that you don't like?",
+      "options": [
+        "Yes, I need your signature.",
+        "That's very kind of you.",
+        "The color seems to be a bit off. 您不喜欢这个设计的什么地方？"
+      ],
+      "script": "What is it about the design that you don't like?\n（A）Yes, I need your signature.\n（B）That's very kind of you.\n（C）The color seems to be a bit off.\n您不喜欢这个设计的什么地方？\n（A）是的，我需要您的签名。\n（B）您真是太好了。\n（C）好像有点掉色。\nQ What part of the design do you not like?\nA The color is not right.\n这个设计的哪个部分您不喜欢？\n661\n\n—颜色不合适。",
+      "answer": "C"
+    },
+    {
+      "id": "30",
+      "question": "Does Peter know that Mr. Kim knows why he was late to the meeting?",
+      "options": [
+        "He's been informed.",
+        "I was five minutes late.",
+        "He was stuck in traffic. 彼得知道金先生了解他开会迟到的原因吗？"
+      ],
+      "script": "Does Peter know that Mr. Kim knows why he was late to the meeting?\n（A）He's been informed.\n（B）I was five minutes late.\n（C）He was stuck in traffic.\n彼得知道金先生了解他开会迟到的原因吗？\n（A）他已经被告知了。\n（B）我迟到了五分钟。\n（C）他被堵在路上了。\nQ Is Peter aware of the fact that Mr. Kim knows why he was late to the\nmeeting?\nA Yes, I told him.\n彼得知道金先生了解他开会迟到的原因吗？\n—知道，我告诉他了。",
+      "answer": "A"
+    },
+    {
+      "id": "31",
+      "question": "Did you talk to Cindy this morning or last night?",
+      "options": [
+        "I'm thinking of taking off today.",
+        "She left a message on my machine.",
+        "It may not last that long. 你是今天上午还是昨天晚上和辛迪谈的？"
+      ],
+      "script": "Did you talk to Cindy this morning or last night?\n（A）I'm thinking of taking off today.\n（B）She left a message on my machine.\n（C）It may not last that long.\n你是今天上午还是昨天晚上和辛迪谈的？\n（A）我想今天请假。\n（B）她在我的电话答录机上留言了。\n（C）也许不会持续那么久。\nQ Did you speak to Cindy today or yesterday?\nA She called this morning, but I wasn't here.\n你是今天还是昨天和辛迪谈的？\n—她今天上午打电话了，但我当时不在这儿。\nQuestions 32 through 34 refer to the following conversation.\nM: I can't believe this, but I managed to book a ticket to Singapore.\n（32）I will be on the seven o'clock flight tomorrow morning.\nW: That's great. Does that mean that you will get to see your friend who\nmoved out there a few years back after you are finished meeting with Mr.\nWang? （33）\nM: I am not sure because Mr. Wang will probably want to take me around the\n662\n\nplant site on the day I arrive there. I am hoping that I will be able to see my friend\nthe day after, but he mentioned that he might have to leave town that day. He said he\nwould try to rearrange his trip, but I have not spoken to him for a few days. I will\ncall him tonight to see if he is able to do that.\nW: You should just take your vacation early and spend a week there after\nyou take care of your business. （34）It's not like you get to travel to the Far\nEast all the time, you know.\nM：真是难以置信，我成功地订了一张去新加坡的机票。我将乘坐明天\n早上7点的飞机。\nW：太好了。那是不是意味着你与王先生会面后就会去拜访你几年前搬\n到那儿的朋友？\nM：我还不能确定，因为我到达的当天王先生很可能会带我去看厂址。\n我希望第二天能去拜访我的朋友，但是我的朋友说过他那天也许得离开新加\n坡。他说他会尽量重新安排旅程，但是我已经几天没和他联系了。我今晚给\n他打电话，看看他能否重新安排。\nW：你处理完事情后应该早点儿去度假，在那儿待上一个星期。你知\n道，你不是一直可以去远东旅行的。\nmanage to do 成功做（某事）rearrange 重新安排 Far East 远东 overseas\n国外的 attend to 处理 matter 事情，事务",
+      "answer": "B"
+    },
+    {
+      "id": "32",
+      "question": "What will the man do tomorrow?",
+      "options": [
+        "Help his friend move into a new place.",
+        "Leave on an overseas business trip.",
+        "Take Mr. Wang to the factory site.",
+        "Prepare for his vacation to the Far East. 男士明天将会做什么？"
+      ],
+      "script": "What will the man do tomorrow?\n（A）Help his friend move into a new place.\n（B）Leave on an overseas business trip.\n（C）Take Mr. Wang to the factory site.\n（D）Prepare for his vacation to the Far East.\n男士明天将会做什么？\n（A）帮他的朋友搬到新家。\n（B）出发到国外出差。\n（C）带王先生去工厂。\n（D）为去远东度假做准备。",
+      "answer": "B"
+    },
+    {
+      "id": "33",
+      "question": "What does the woman want to know?",
+      "options": [
+        "Whether the man will have enough time to attend to personal matters.",
+        "If the man is going to make the sale.",
+        "How much the new business is going to cost.",
+        "How long he has known Mr. Wang."
+      ],
+      "script": "What does the woman want to know?\n（A）Whether the man will have enough time to attend to personal\nmatters.\n（B）If the man is going to make the sale.\n（C）How much the new business is going to cost.\n（D）How long he has known Mr. Wang.\n663\n\n女士想知道什么？\n（A）男士是否有足够的时间来处理个人事务。\n（B）男士是否能做成这笔买卖。\n（C）新生意将花费多少钱。\n（D）他认识王先生多久了。",
+      "answer": "A"
+    },
+    {
+      "id": "34",
+      "question": "What does the woman suggest the man do?",
+      "options": [
+        "Go on the trip another time.",
+        "Take his vacation early.",
+        "Talk to Mr. Wang right away.",
+        "Book his ticket early. 女士建议男士做什么？"
+      ],
+      "script": "What does the woman suggest the man do?\n（A）Go on the trip another time.\n（B）Take his vacation early.\n（C）Talk to Mr. Wang right away.\n（D）Book his ticket early.\n女士建议男士做什么？\n（A）改天再去旅行。\n（B）早点儿去度假。\n（C）立刻和王先生谈话。\n（D）早点儿订票。\n·I managed to book a ticket. 我成功地订了一张票。\n扩展表达：I was able to reserve a ticket. 我订到了一张票。I reserved a\nseat on the plane. 我订了一张飞机票。\n·I have not spoken to him for a few days. 我已经几天没和他讲话了。\n扩展表达：I have not seen him for a couple of days. 我已经几天没看到\n他了。\nI have not talked to him for a while. 我有好一会儿没跟他讲话了。\n·take care of your business = look after your matters = tend to your\naffairs 管好你自己的事情\nJohn will go with you to Seattle to help take care of your business. 约翰将与\n你一起去西雅图，帮你照看生意。\nQuestions 35 through 37 refer to the following conversation.\nW: Welcome back to the office, Greg. How was your trip to Milan?\nM: It didn't go quite as well as I had expected. I had been hoping the client\nwould sign a contract, but he wants to negotiate more. （35）\nW: It sounds like you'll be returning there soon.\nM: Yeah, I'm scheduled to meet Mr. Roberts next Thursday. But I've got to\nvisit Frankfurt before I go back to Milan. （36）\n664\n\nW: Good luck. If there's anything I can do to help, all you have to do is ask.\nM: I'll probably take you up on that offer. I've got two other international\ncustomers who need to be visited, but I don't have time. （37）\nW: 欢迎回到办公室，格雷格。你的米兰之行怎么样？\nM: 没有我预期的那么顺利。我本来希望那位客户能签合同，但是他想\n要进一步谈判。\nW: 听起来你很快还会再去米兰。\nW: 是的。我定好了下个星期四和罗伯茨先生会面。但是去米兰之前我\n得先去趟法兰克福。\nW: 祝你好运。如果有什么我能帮忙的，尽管开口。\nM: 我可能需要你的帮助。我还需要拜访另外两位国际客户，但是我没\n有时间。\nclient 客户 sign a contract 签订合同 negotiate 谈判 schedule 安排，预定\ntake sb. up on sth. 接受或采纳某人的... international 国际的",
+      "answer": "B"
+    },
+    {
+      "id": "35",
+      "question": "What is the conversation mainly about?",
+      "options": [
+        "The woman's assignment.",
+        "The branch in Milan.",
+        "The man's client.",
+        "A complete negotiation. 这段对话主要是关于什么的？"
+      ],
+      "script": "What is the conversation mainly about?\n（A）The woman's assignment.\n（B）The branch in Milan.\n（C）The man's client.\n（D）A complete negotiation.\n这段对话主要是关于什么的？\n（A）女士的任务。\n（B）米兰的分店。\n（C）男士的客户。\n（D）一次完整的谈判。",
+      "answer": "C"
+    },
+    {
+      "id": "36",
+      "question": "What will the man do before visiting Milan?",
+      "options": [
+        "Sign a contract.",
+        "Travel to Frankfurt.",
+        "Negotiate with Mr. Roberts.",
+        "Train the woman. 在去米兰前，男士会做什么？"
+      ],
+      "script": "What will the man do before visiting Milan?\n（A）Sign a contract.\n（B）Travel to Frankfurt.\n（C）Negotiate with Mr. Roberts.\n（D）Train the woman.\n在去米兰前，男士会做什么？\n（A）签合同。\n（B）去法兰克福。\n（C）和罗伯茨先生谈判。\n665\n\n（D）培训女士。",
+      "answer": "B"
+    },
+    {
+      "id": "37",
+      "question": "What does the man suggest about the woman?",
+      "options": [
+        "She will take a trip abroad soon.",
+        "She needs more work experience.",
+        "She knows Mr. Roberts personally.",
+        "She lived in Milan in the past. 从男士的话语中可以推断出女士的什么信息？"
+      ],
+      "script": "What does the man suggest about the woman?\n（A）She will take a trip abroad soon.\n（B）She needs more work experience.\n（C）She knows Mr. Roberts personally.\n（D）She lived in Milan in the past.\n从男士的话语中可以推断出女士的什么信息？\n（A）她很快将要去国外出差。\n（B）她需要更多的工作经验。\n（C）她认识罗伯茨先生本人。\n（D）她过去住在米兰。\n·I'm scheduled to meet Mr. Roberts next Thursday. = I plan to meet Mr.\nRoberts next Thursday. 我定好了下个星期四和罗伯茨先生会面。\nThe abandoned building is scheduled to be torn down this afternoon. 这栋废\n弃大楼计划好了今天下午被拆除。\n·I'll probably take you up on that offer. = I'll probably accept your offer.\n我可能需要你的帮助。\nWe will take you up on your invitation. 我们会接受你的邀请。\nQuestions 38 through 40 refer to the following conversation.\nM: When do you think you will be able to wrap up the deal with the retail\nshop owners?（38）I hope it will be soon because we have to start the\nconstruction work as soon as possible.\nW: Well, I had a meeting with them this morning, and things went quite\nsmoothly. If everything goes as planned, I should have all of their signatures by\nthe end of this week. （39）\nM: Well, I hope so. Otherwise, we will not be able to start the construction\nwork on time, and there is a good chance that we will not be able to have the\nbuilding ready for the exposition next January.\nW: Don't worry. I will get the approval this week. And I will make sure the\nconstruction work gets underway by next Monday. （40）\nM：你觉得什么时候可以和零售店的店主们签订协议呢？我希望能快点\n儿，因为我们得尽快开始施工。\nW: 我今天上午和他们开了一个会，事情进展得很顺利。如果一切按计\n划进行，到这个周末我就会拿到他们所有人的签字。\n666\n\nM: 嗯，我希望如此。否则，我们就不能按时开始施工，而且很可能我\n们无法为明年1月份的博览会准备好这栋楼。\nW: 不要担心。这个周末我会拿到批准，而且我保证下星期一之前工程\n就会开始。\nwrap up 最终或成功地解决 retail shop零售店 construction work 施工\nsmoothly顺利地 otherwise 否则 on time 按时 exposition 博览会 approval 同意，\n批准 underway 在进行中 grand opening 隆重开张 let go 解雇；开除",
+      "answer": "A"
+    },
+    {
+      "id": "38",
+      "question": "What does the man want to know?",
+      "options": [
+        "When the exposition is going to start.",
+        "How long the construction will take.",
+        "Where the stores are located.",
+        "How soon the woman will close the deal. 男士想知道什么？"
+      ],
+      "script": "What does the man want to know?\n（A）When the exposition is going to start.\n（B）How long the construction will take.\n（C）Where the stores are located.\n（D）How soon the woman will close the deal.\n男士想知道什么？\n（A）博览会将于什么时候开始。\n（B）工程将花费多长时间。\n（C）商店位于哪里。\n（D）女士多快能签订合同。",
+      "answer": "D"
+    },
+    {
+      "id": "39",
+      "question": "According to the woman, what might happen by the end of this week?",
+      "options": [
+        "The shop will have its grand opening.",
+        "All of the signatures will be collected.",
+        "Some of the workers will be let go.",
+        "The exposition will open to the general public. 根据女士所说，这周末前可能会有什么事情发生？"
+      ],
+      "script": "According to the woman, what might happen by the end of this week?\n（A）The shop will have its grand opening.\n（B）All of the signatures will be collected.\n（C）Some of the workers will be let go.\n（D）The exposition will open to the general public.\n根据女士所说，这周末前可能会有什么事情发生？\n（A）商店将隆重开张。\n（B）将收集完所有的签字。\n（C）一些工人将被解雇。\n（D）博览会将对大众开放。",
+      "answer": "B"
+    },
+    {
+      "id": "40",
+      "question": "According to the woman, when will the construction most likely begin?",
+      "options": [
+        "This week.",
+        "Next week.",
+        "Before the winter.",
+        "Next year. 根据女士所说，工程最有可能何时开工？"
+      ],
+      "script": "According to the woman, when will the construction most likely begin?\n（A）This week.\n（B）Next week.\n（C）Before the winter.\n（D）Next year.\n根据女士所说，工程最有可能何时开工？\n667\n\n（A）这星期。\n（B）下星期。\n（C）在冬季之前。\n（D）明年。\n·wrap up the deal = close the deal = finalize the deal 签订协议\nWe really need to wrap up the deal today. 我们确实需要在今天签订协议。\n·Things went quite smoothly. = Things went without any problems. =\nThings went very well. 事情进展得很顺利。\nI was told that things went quite smoothly last night. 我被告知昨晚事情进展\n得很顺利。\n·if everything goes as planned = if all things go as scheduled 如果一切按\n计划进行\n扩展表达：if the entire thing goes as we had anticipated 如果一切按我们\n预期的进行\nWe could be sitting at a beach this time next week if everything goes as\nplanned. 如果一切按计划进行，下星期的这个时候我们应该会坐在海滩上。\nQuestions 41 through 43 refer to the following conversation.\nW: Jack, I'm sorry to tell you this, but you and I are going to have to work late\nthis evening. The brochures we ordered came in this morning, but there is a\nproblem. Can you believe they forgot to attach our company logo to them?\n（41）\nM: You've got to be kidding me. How many brochures are there?\nW: Well, there are 12 boxes that need to go out first thing tomorrow\nmorning, （43）so you and I are going to have to get them done tonight. （41,\n42）\nM: Are you kidding me? Couldn't we just send them back and have the printing\ncompany do the work?\nW: 杰克，很抱歉地告诉你，今天晚上我们俩得加班了。我们订购的小\n册子今天早上已经到了，但是有一个问题。你能相信吗，他们居然忘记把我\n们公司的新商标贴在小册子上了。\nM: 你在开玩笑吧。一共有多少本小册子？\nW: 嗯，一共有12箱小册子明天一早就需要发出去。所以我们俩今天晚\n上得把它们弄好。\nM: 你在开玩笑吧？难道我们不能直接把它们退回去让印刷公司来做\n吗？\n668\n\nwork late 加班 brochure 小册子 attach贴上 send back 退回 immediate 立即\n的，即刻的 attention 注意 extra 额外的",
+      "answer": "B"
+    },
+    {
+      "id": "41",
+      "question": "What does the woman say to the man?",
+      "options": [
+        "An error needs their immediate attention.",
+        "They have been working too hard lately.",
+        "The design of their new company logo is bad.",
+        "An order they placed has not arrived yet. 女士对男士说什么？"
+      ],
+      "script": "What does the woman say to the man?\n（A）An error needs their immediate attention.\n（B）They have been working too hard lately.\n（C）The design of their new company logo is bad.\n（D）An order they placed has not arrived yet.\n女士对男士说什么？\n（A）有个错误需要他们立刻注意。\n（B）他们最近工作太辛苦了。\n（C）他们公司的新商标设计得很差。\n（D）他们下的一个订单还没有送到。",
+      "answer": "A"
+    },
+    {
+      "id": "42",
+      "question": "How will they solve the problem?",
+      "options": [
+        "By ordering extra boxes.",
+        "By returning the products.",
+        "By doing the work themselves.",
+        "By finding another company. 他们将如何解决这个问题？"
+      ],
+      "script": "How will they solve the problem?\n（A）By ordering extra boxes.\n（B）By returning the products.\n（C）By doing the work themselves.\n（D）By finding another company.\n他们将如何解决这个问题？\n（A）订购额外的箱子。\n（B）退还商品。\n（C）他们自己做这项工作。\n（D）找另一家公司。",
+      "answer": "C"
+    },
+    {
+      "id": "43",
+      "question": "What will happen tomorrow morning?",
+      "options": [
+        "A new shipment will arrive.",
+        "Some goods will be sent out.",
+        "The boxes will be sent back.",
+        "They will find a new printing company. 明天早晨会发生什么事？"
+      ],
+      "script": "What will happen tomorrow morning?\n（A）A new shipment will arrive.\n（B）Some goods will be sent out.\n（C）The boxes will be sent back.\n（D）They will find a new printing company.\n明天早晨会发生什么事？\n（A）一批新的货物将到达。\n（B）一些商品将被发出。\n（C）箱子将被退回。\n（D）他们将找到一家新的印刷公司。\n669\n\n·There are 12 boxes that need to go out first thing tomorrow morning. =\nThere are a dozen boxes that must be sent out first thing tomorrow morning. =\nThere are 12 boxes that have to go out first thing tomorrow morning. 一共有\n12箱小册子明天一早就需要发出去。\n·get them done tonight = finish them this evening = complete them by the\nend of the day今天晚上把它们弄好\nIt is crucial that we get them done tonight. 今天晚上我们要把它们弄好，这\n一点很重要。\n·Couldn't we just send them back? = Can't we just return them? =\nCouldn't we just have them taken back? 难道我们不能直接把它们退回去\n吗？\nQuestions 44 through 46 refer to the following conversation.\nM: I just received a call from Larry from our head office, and he said Mr.\nWang can't give the presentation tomorrow at our company's annual\nconference being held at the Prince Hotel because of a sudden illness in his\nfamily. （44）He asked me to take his place at the conference. （45）Would\nyou happen to know if there is a bus or subway that goes directly from here?\nW: I didn't know that you were going to give a speech there. In fact, Mr. Singh\nand I are going to be in attendance, and we are planning to drive. If you'd like, you\ncan ride along with us. （46）\nM: That sounds wonderful. What time will you be taking off?\nW: We will meet here at 7 since it only takes about an hour to get there. We\nmight even have time for breakfast once we get there.\nM：我刚刚接到总部的拉里打来的电话，他说王先生因为家人突然生\n病，明天不能在我公司于王子宾馆举办的年会上作报告了。王先生让我替他\n在会上作报告。你知道有从这儿直达那里的公交车或地铁吗？\nW：我不知道你要去那里作报告。事实上，辛格先生和我也将出席，我\n们打算开车去。如果你愿意的话，可以坐我们的车一起去。\nM：太棒了。你们什么时候出发？\nW：因为开车到那里一个小时左右，所以我们打算7点在这儿集合。我\n们到了那儿甚至还有时间吃早饭呢。\ngive a presentation 做演讲 annual 每年的 sudden 突然的 take one's place代\n替某人 give a speech 发言，作报告 come down with 得，染上（病）\nunexpected 没有料到的",
+      "answer": "B"
+    },
+    {
+      "id": "44",
+      "question": "Why won't Mr. Wang be able to give the speech?",
+      "options": [
+        "He suddenly came down with an illness. 670",
+        "He does not have a way to get to the hotel.",
+        "He has to attend to a family member.",
+        "He has to make an unexpected trip. 王先生为什么不能去做报告？"
+      ],
+      "script": "Why won't Mr. Wang be able to give the speech?\n（A）He suddenly came down with an illness.\n670\n\n（B）He does not have a way to get to the hotel.\n（C）He has to attend to a family member.\n（D）He has to make an unexpected trip.\n王先生为什么不能去做报告？\n（A）他突然病倒了。\n（B）他没法到宾馆。\n（C）他必须去照顾一位家庭成员。\n（D）他必须参加一次意料之外的旅行。",
+      "answer": "C"
+    },
+    {
+      "id": "45",
+      "question": "What does the man imply when he says, “He asked me to take his place at the\nconference”?",
+      "options": [
+        "He will drive the woman to the conference.",
+        "He will visit Mr. Wang at the hospital.",
+        "He will fill in for Mr. Wang.",
+        "He will make breakfast for the guests. 男士说“王先生让我替他在会上作报告”，他在暗示什么？"
+      ],
+      "script": "What does the man imply when he says, “He asked me to take his place at the\nconference”?\n（A）He will drive the woman to the conference.\n（B）He will visit Mr. Wang at the hospital.\n（C）He will fill in for Mr. Wang.\n（D）He will make breakfast for the guests.\n男士说“王先生让我替他在会上作报告”，他在暗示什么？\n（A）他会开车把女士送到会场。\n（B）他会到医院探望王先生。\n（C）他会代替王先生（作报告）。\n（D）他会为客人们做早餐。",
+      "answer": "C"
+    },
+    {
+      "id": "46",
+      "question": "How will the man get to the conference?",
+      "options": [
+        "By car.",
+        "By train.",
+        "By bus.",
+        "By airplane. 男士将如何到达会场？"
+      ],
+      "script": "How will the man get to the conference?\n（A）By car.\n（B）By train.\n（C）By bus.\n（D）By airplane.\n男士将如何到达会场？\n（A）乘小汽车。\n（B）乘火车。\n（C）乘公交车。\n（D）乘飞机。\n·He asked me to take his place. = He asked me to fill in for him. = He\nasked me to do it instead. 他让我代替他。\nHe asked me to take his place at the meeting because something urgent has\n671\n\ncome up. 因为有紧急的事情发生，他让我代替他参加会议。\n·be going to be in attendance = will be present = be going to be there 将出\n席\nMost of the people I know are going to be in attendance. 我认识的大部分人\n都将出席。\n·You can ride along with us. 你可以坐我们的车一起去。\n扩展表达：You can come with us. = You can tag along with us. 你可以和\n我们一起来。\nIf you don't have a way to get there, you can ride along with us. 如果你没法\n去那里，可以坐我们的车一起去。\nQuestions 47 through 49 refer to the following conversation.\nW: We are short of staff today. Why don't you call up some of the part-time\nworkers and see if they can work today? We are expecting a massive crowd to\nswarm us tonight since a great review got printed in today's local paper.\nM: Is that why we are getting so many calls? I couldn't figure out why the\nphone was ringing off the hook.\nW: I didn't know about it either, but one of the customers told me that he\ncame after reading the review. （48）He also complimented us on the great\nfood we serve here. （47）\nM: That's good to hear. All the renovation work we did here and hiring the\nnew chef we scouted from France are really paying off. （49）\nW：我们今天缺人手。你为什么不打电话通知一些兼职员工，看看他们\n能不能今天来工作？因为今天的地方报纸上有一篇很棒的评论，所以我们预\n计今晚会有大量顾客蜂拥而来。\nM：那就是我们接到这么多电话的原因吗？我想不通为什么电话总是响\n个不停。\nW：我也不知道为什么。但是其中有一位顾客告诉我他是读完这篇评论\n后过来的。他也称赞了我们所提供的美味食物。\nM：听起来不错。我们在这儿做的所有整修以及聘请从法国找来的新厨\n师真是物有所值啊。\nbe short of staff 缺人手 call up 打电话 massive 大量的 swarm 蜂拥 review\n评论 figure out 想明白 ring off the hook 电话响个不停 compliment称赞\nrenovation 整修 scout 寻找 pay off 物有所值，取得成功",
+      "answer": "A"
+    },
+    {
+      "id": "47",
+      "question": "Where do they most likely work?",
+      "options": [
+        "A newspaper company.",
+        "A restaurant. 672",
+        "A phone company.",
+        "A travel agency. 他们最有可能在哪里工作？"
+      ],
+      "script": "Where do they most likely work?\n（A）A newspaper company.\n（B）A restaurant.\n672\n\n（C）A phone company.\n（D）A travel agency.\n他们最有可能在哪里工作？\n（A）报社。\n（B）餐馆。\n（C）电话公司。\n（D）旅行社。",
+      "answer": "B"
+    },
+    {
+      "id": "48",
+      "question": "How did the woman learn about the news?",
+      "options": [
+        "By reading it in a paper.",
+        "From a co-worker.",
+        "One of the customers told her.",
+        "She overheard the chef talking. 女士是怎么知道消息的？"
+      ],
+      "script": "How did the woman learn about the news?\n（A）By reading it in a paper.\n（B）From a co-worker.\n（C）One of the customers told her.\n（D）She overheard the chef talking.\n女士是怎么知道消息的？\n（A）在报纸上读到的。\n（B）从同事那里获知的。\n（C）一位顾客告诉她的。\n（D）她无意中从厨师那里听说的。",
+      "answer": "C"
+    },
+    {
+      "id": "49",
+      "question": "What have they done to improve their business?",
+      "options": [
+        "They took out an ad in the local paper.",
+        "They contacted their existing customers.",
+        "They provided food samples to their guests.",
+        "They hired a new professional cook. 他们做了什么来改善他们的生意？"
+      ],
+      "script": "What have they done to improve their business?\n（A）They took out an ad in the local paper.\n（B）They contacted their existing customers.\n（C）They provided food samples to their guests.\n（D）They hired a new professional cook.\n他们做了什么来改善他们的生意？\n（A）他们在当地报纸上登了广告。\n（B）他们联系了已有的顾客。\n（C）他们向客人们提供了食物样品。\n（D）他们雇了一位新的专业厨师。\n·We are short of staff today. = We don't have enough people today. = We\nare lacking staff today. 我们今天缺人手。\n·We are expecting a massive crowd to swarm us tonight. = We are\nanticipating a lot of people to come tonight. = We are predicting a large\nnumber of people to turn out this evening. 我们预计今晚会有大量顾客蜂拥而\n来。\n673\n\n·I couldn't figure out why the phone was ringing off the hook. = I couldn't\nunderstand why there were so many calls. = I couldn't make out the reason\nwhy the phone was ringing so much. 我想不通为什么电话总是响个不停。\nQuestions 50 through 52 refer to the following conversation.\nM: Will you be making the trip out to Los Angeles next Monday?\nW: I was planning to, but something has come up, （50）so I was\ncontemplating whether or not I should delay my trip to the week after. Why do you\nask?\nM: My brother who moved to France five years ago is coming to LA next\nweek on a business trip, so I was thinking of going out there to see him. （51）\nAnd since I heard you are going, I thought maybe we could drive down together.\nW: That sounds like a good idea. I do have to make a trip there, and it would\nbe nice to have some company. Hmm...tell you what, I will see what I can do to\ntake the trip next week after all. （52）Let me give you a shout with the details\nafter lunch today.\nM：下星期一你要去洛杉矶旅行吗？\nW：原本打算去的，但发生了一些事情，所以我正在考虑是否应该将旅\n行推迟到一周以后。你为什么这么问呢？\nM：我有个五年前移居法国的哥哥下星期出差去洛杉矶，所以我想去那\n儿看望他。因为听说你要去，所以我原想我们可以一起开车去。\nW：这个主意听起来不错。我是得去那儿旅行，而且能有同伴一起去很\n好。嗯...我说，我看看能做些什么以便下个星期能出发。今天午饭后我再和\n你细谈吧。\ncome up发生 contemplate 考虑 drive down 开车过去 company 同伴 tell you\nwhat （用以提出建议）我说 keep ~ company 与...相伴，陪... accompany 陪伴",
+      "answer": "D"
+    },
+    {
+      "id": "50",
+      "question": "Why is the woman thinking of postponing her trip?",
+      "options": [
+        "She is not feeling well.",
+        "Her car is in need of repairs.",
+        "She has something else to attend to.",
+        "Her brother is coming to see her. 为什么女士在考虑推迟她的旅行？"
+      ],
+      "script": "Why is the woman thinking of postponing her trip?\n（A）She is not feeling well.\n（B）Her car is in need of repairs.\n（C）She has something else to attend to.\n（D）Her brother is coming to see her.\n为什么女士在考虑推迟她的旅行？\n（A）她觉得不舒服。\n（B）她的汽车需要修理。\n（C）她需要处理其他事情。\n（D）她哥哥要来看她。\n674",
+      "answer": "C"
+    },
+    {
+      "id": "51",
+      "question": "Why will the man take the trip?",
+      "options": [
+        "To meet his brother.",
+        "To attend an important meeting.",
+        "To keep the woman company.",
+        "To meet his client. 男士为什么要去旅行？"
+      ],
+      "script": "Why will the man take the trip?\n（A）To meet his brother.\n（B）To attend an important meeting.\n（C）To keep the woman company.\n（D）To meet his client.\n男士为什么要去旅行？\n（A）去看望他的哥哥。\n（B）去参加一次重要的会议。\n（C）去陪伴女士。\n（D）去会见他的客户。",
+      "answer": "A"
+    },
+    {
+      "id": "52",
+      "question": "What does the woman say she will let the man know about?",
+      "options": [
+        "If she can go away with the man or not.",
+        "When she will be able to get back from LA.",
+        "How many people she will be going on the trip with.",
+        "Who will be accompanying her on the trip. 女士说她会告诉男士什么？"
+      ],
+      "script": "What does the woman say she will let the man know about?\n（A）If she can go away with the man or not.\n（B）When she will be able to get back from LA.\n（C）How many people she will be going on the trip with.\n（D）Who will be accompanying her on the trip.\n女士说她会告诉男士什么？\n（A）她是否可以和男士一起去。\n（B）她什么时候可以从洛杉矶回来。\n（C）她将和多少人一起去旅行。\n（D）谁将陪伴她一起去旅行。\n·I was planning to do = I was thinking to do = I was meaning to do 我原本\n打算做\nI was planning to drive there. 我原本打算开车到那里。\n·I was contemplating ~ = I was thinking about ~ = I was pondering about ~\n我正在考虑...\nI was contemplating the situation, and I think I have figured out the answer.\n我正在考虑这个情况，并觉得我已经想出答案了。\n·It would be nice to have some company. = It would be nice to have\nsomeone beside me. 能有同伴一起去很好。\n扩展表达：It would be nice to have somebody to talk to. 能有人一起聊聊\n天很好。\nIt would be nice to have some company for a change. 改变一下，有同伴一\n起去很好。\n675\n\nQuestions 53 through 55 refer to the following conversation.\nM: Wilma, are you planning to e-mail me those documents anytime soon?\nThe staff meeting is thirty minutes from now. （54）\nW: I sent them to you more than two hours ago. Didn't you get them?\nM: Apparently not. I just checked my e-mail, and nothing has arrived all\nmorning. （53）\nW: We could be having problems with the company-wide computer server. I'll\ngive someone in the Maintenance Department a call right now.\nM: Okay, but before you do that, how about printing the documents and then\nbringing them to me? （55）I need to look over them at once.\nW: No problem. You'll have them in two minutes.\nM: 威尔玛，你会尽快将那些文件发到我电子邮箱吗？三十分钟后员工\n会议就开始了。\nW: 我两个多小时前就发给你了。你没收到吗？\nM: 显然没有收到。我刚查看了邮箱，整个早上没收到任何邮件。\nW: 我们公司内部的计算机服务器可能出问题了。我马上给维修部的工\n作人员打个电话。\nM: 好的，但是在你打电话前，你先把文件打印了拿给我怎么样？我需\n要马上看一下。\nW: 没问题。两分钟之后给你。\ndocument 文件 staff meeting 员工会议 apparently 显然地 server 服务器\nMaintenance Department 维修部 look over 检查",
+      "answer": "A"
+    },
+    {
+      "id": "53",
+      "question": "What is the man's problem?",
+      "options": [
+        "He cannot log on to his computer.",
+        "An e-mail has not arrived.",
+        "An appointment was just canceled.",
+        "He forgot about a staff meeting. 男士的问题是什么？"
+      ],
+      "script": "What is the man's problem?\n（A）He cannot log on to his computer.\n（B）An e-mail has not arrived.\n（C）An appointment was just canceled.\n（D）He forgot about a staff meeting.\n男士的问题是什么？\n（A）他无法登录他的电脑。\n（B）一封电子邮件尚未收到。\n（C）刚刚取消了一个预约。\n（D）他忘记了员工会议。",
+      "answer": "B"
+    },
+    {
+      "id": "54",
+      "question": "Why does the man need some documents?",
+      "options": [
+        "He has a meeting to attend. 676",
+        "He needs to check them for mistakes.",
+        "He has to mail them to a customer.",
+        "He needs to sign them. 为什么男士需要一些文件？"
+      ],
+      "script": "Why does the man need some documents?\n（A）He has a meeting to attend.\n676\n\n（B）He needs to check them for mistakes.\n（C）He has to mail them to a customer.\n（D）He needs to sign them.\n为什么男士需要一些文件？\n（A）他将要参加一个会议。\n（B）他需要检查文件是否有错。\n（C）他必须把文件邮寄给客户。\n（D）他需要在文件上签字。",
+      "answer": "A"
+    },
+    {
+      "id": "55",
+      "question": "What does the man request the woman to do first?",
+      "options": [
+        "Repair some machinery.",
+        "Contact a technician.",
+        "Print some papers.",
+        "Schedule a meeting. 男士请女士先做什么？"
+      ],
+      "script": "What does the man request the woman to do first?\n（A）Repair some machinery.\n（B）Contact a technician.\n（C）Print some papers.\n（D）Schedule a meeting.\n男士请女士先做什么？\n（A）修理一些机器。\n（B）联系一位技术人员。\n（C）打印一些文件。\n（D）安排一场会议。\n·How about ~ = What about ~ ...怎么样\nHow about going out for a walk? 出去散步怎么样？\n·I need to look over them at once. = I need to examine them at once. 我需\n要马上看一下。\n扩展表达：look through 浏览\nQuestions 56 through 58 refer to the following conversation.\nM: You didn't forget to call the Maintenance Department to take a look at\nour machine, did you? （56）\nW: I made the call to Jack as soon as I got into work at 9 this morning,\n（56）but he said he had many rounds to make today. （57）According to him,\nthe earliest he can come is around 4.\nM: That's a bit late. I have an appointment with Mr. Smith at 5, and it will\ntake me at least an hour to get there. （58）We need someone here to explain\nthe problem to him.\nW: My meeting with my client got canceled. I'll stick around and tell Jack\n677\n\nabout the problem. You go right ahead and meet Mr. Smith.\nM：你没忘记给维修部打电话让他们来检查我们的机器吧？\nW：我今天早上9点钟一上班的时候就给杰克打了电话，但是他说他今\n天要去巡查很多地方。按他的意思，他最早下午4点左右能来。\nM：那有点儿晚了。我和史密斯先生约好5点钟碰面，去那儿路上至少\n要花一个小时。我们需要找人留在这里把问题解释给杰克听。\nW：我和客户的会面取消了。我会待在这儿和杰克谈这个问题。你去见\n史密斯先生吧。\nmaintenance 维护，维修 take a look at ~ 检查 at least 至少 stick around 逗\n留 go right ahead 请便 drop by 顺道拜访 take care of 处理",
+      "answer": "C"
+    },
+    {
+      "id": "56",
+      "question": "Who most likely is Jack?",
+      "options": [
+        "A co-worker.",
+        "A client.",
+        "The mechanic.",
+        "The department head. 杰克最有可能是谁？"
+      ],
+      "script": "Who most likely is Jack?\n（A）A co-worker.\n（B）A client.\n（C）The mechanic.\n（D）The department head.\n杰克最有可能是谁？\n（A）一位同事。\n（B）一位客户。\n（C）机械师。\n（D）部门领导。",
+      "answer": "A"
+    },
+    {
+      "id": "57",
+      "question": "Why will Jack come late?",
+      "options": [
+        "He has many places to visit.",
+        "He has a long way to drive to get there.",
+        "He has to drop by a client's office first.",
+        "He has a personal problem to take care of. 杰克为什么会迟到？"
+      ],
+      "script": "Why will Jack come late?\n（A）He has many places to visit.\n（B）He has a long way to drive to get there.\n（C）He has to drop by a client's office first.\n（D）He has a personal problem to take care of.\n杰克为什么会迟到？\n（A）他得去很多地方。\n（B）他到那里要开很久的车。\n（C）他得先顺道去一位客户的办公室。\n（D）他有件私事需要处理。",
+      "answer": "A"
+    },
+    {
+      "id": "58",
+      "question": "When will the man most likely leave for his appointment?",
+      "options": [
+        "At 1.",
+        "At 4. 678",
+        "At 5.",
+        "At 9. 男士最有可能在什么时候动身赴约？"
+      ],
+      "script": "When will the man most likely leave for his appointment?\n（A）At 1.\n（B）At 4.\n678\n\n（C）At 5.\n（D）At 9.\n男士最有可能在什么时候动身赴约？\n（A）1点。\n（B）4点。\n（C）5点。\n（D）9点。\n·You didn't forget to call ~ = You remembered to call ~ 你没忘记给...打电\n话\nYou didn't forget to call the client about the order, did you? 你没忘记给客户\n打电话说定单的事，对吧？\n·has many rounds to make today 今天要去巡查很多地方\n扩展表达：has many places to go 有许多地方要去has many deliveries to\nmake 有许多货物要投递\nJack is out because he has many rounds to make today. 杰克出去了，因为他\n今天要去巡查很多地方。\n·I'll stick around. = I'll hang around. = I'll wait around. 我会待在这里。\nI'll stick around here until Ms. Taylor shows up. 我会待在这儿直到泰勒女\n士露面。\nQuestions 59 through 61 refer to the following conversation with three\nspeakers.\nM1: Wendy, are you still planning to order some items from the office\nsupply store? （59）\nW: That's correct. Do you need me to add anything to the list? You'd better do\nit by three.\nM1: Okay. I noticed we're out of file folders and could use some ink for\nthe printer, too. I'll e-mail the details to you. （59）\nW: Thanks, Brian. I'll check my inbox before I submit the order form.\nM2: Oh, I could use a few things as well,（59）but I've got to attend a\nmeeting. It's not going to finish until four. （60）\nW: I suppose I can wait until then, Mr. Lopez. Just get me the list as\nquickly as you can. （61）\nM1: 温迪，你还在计划从办公用品店订购一些东西吗？\nW: 是的。你还有什么需要添加到清单上吗？你最好三点之前完成。\n679\n\nM1: 好的。我注意到我们的文件夹用完了，还需要一些打印机的墨水。\n我会把具体信息用邮件发给你。\nW: 谢谢，布瑞恩。在提交订单之前，我会查看我的收件箱。\nM2: 哎呀，我也想要一些东西。但是我得参加一个会议，要到四点才能\n结束。\nW: 我想我可以等到那时候，洛佩兹先生。只要尽快把清单给我就行。\nitem （尤指清单上的）一项，一条 supply store 供应商店 file folder文件\n夹 inbox 收件箱 submit 上交，呈交 attend 出席，到场",
+      "answer": "B"
+    },
+    {
+      "id": "59",
+      "question": "What do the men want the woman to do?",
+      "options": [
+        "Give them some folders.",
+        "Go to a store with them.",
+        "Order some items for them.",
+        "Tell them about the budget. 两位男士想让这位女士做什么？"
+      ],
+      "script": "What do the men want the woman to do?\n（A）Give them some folders.\n（B）Go to a store with them.\n（C）Order some items for them.\n（D）Tell them about the budget.\n两位男士想让这位女士做什么？\n（A）给他们一些文件夹。\n（B）和他们一起去商店。\n（C）帮他们订购一些商品。\n（D）告诉他们预算。",
+      "answer": "C"
+    },
+    {
+      "id": "60",
+      "question": "What will Mr. Lopez do at four?",
+      "options": [
+        "Finish a meeting.",
+        "Visit a website.",
+        "Check his inbox.",
+        "Print some copies. 洛佩兹先生要在四点做什么？"
+      ],
+      "script": "What will Mr. Lopez do at four?\n（A）Finish a meeting.\n（B）Visit a website.\n（C）Check his inbox.\n（D）Print some copies.\n洛佩兹先生要在四点做什么？\n（A）结束会议。\n（B）访问一个网站。\n（C）查看他的收件箱。\n（D）打印一些副本。",
+      "answer": "A"
+    },
+    {
+      "id": "61",
+      "question": "Why does the woman say, “I suppose I can wait until then”?",
+      "options": [
+        "To ask Brian to e-mail her later.",
+        "To express her desire to hurry.",
+        "To mention when she will leave. 680",
+        "To tell Mr. Lopez to send her a list. 这位女士为何说“我想我可以等到那时候”?"
+      ],
+      "script": "Why does the woman say, “I suppose I can wait until then”?\n（A）To ask Brian to e-mail her later.\n（B）To express her desire to hurry.\n（C）To mention when she will leave.\n680\n\n（D）To tell Mr. Lopez to send her a list.\n这位女士为何说“我想我可以等到那时候”?\n（A）让布瑞恩稍后给她发邮件。\n（B）表达她的急切之情。\n（C）提及她离开的时间。\n（D）告诉洛佩兹先生给她发清单。\n·I could use a few things as well = I also want a few things. 我也想要一些\n东西。\nI could use a drink. 我先要瓶饮料。\n·be out of sth. 没了，用完了\nWe're out of milk. 我们的牛奶喝完了。\nQuestions 62 through 64 refer to the following conversation and price list.\nM: Mr. Venters has granted everyone in our department permission to\nattend the trade fair this Friday. （62）\nW: That's wonderful news. I'll be out of town, so I can't make it, （62）but\nI'm sure many people are eager to go.\nM: That's right. I already asked around, and seventeen people indicated\nthey'll be going.（63）I'll be registering everyone later today.\nW: I don't think we've ever had that many people attend a professional event.\nM: More people are focusing on networking these days, and trade fairs\nare some of the best places to do that. （64）\nW: I suppose you're right. In that case, it's a real shame I can't go.\nStratford Trade Fair Registration Price List\nM: 文特斯先生允许我们部门所有人参加本周五的商品交易会。\nW: 这个消息太棒了。我要去趟其他城市，所以我去不了，但是我确信\n很多人都想去。\nM: 对。我已经问了一圈人，17个人表示他们要去。今天晚些时候，我\n会为每个人报名。\nW: 我想我们之前从来没有那么多人参加过一次专业的活动。\n681\n\nM: 如今更多人关注建立人际关系，商品交易会是建立人际关系的最佳\n场所之一。\nW: 我想你是对的。那样的话，我无法去真的是个遗憾。\n斯特拉福德商品交易会报名价格表\ngrant 给予，授予 permission 许可，允许 make it 成功做到 indicate 表\n示，指出 register报名，注册 professional 专业的，职业的 focus on 专注于，\n关注networking 建立人际关系",
+      "answer": "D"
+    },
+    {
+      "id": "62",
+      "question": "What will the woman do on Friday?",
+      "options": [
+        "Give a speech.",
+        "Receive professional training.",
+        "Travel to another city.",
+        "Lead an orientation session. 周五女士要做什么？"
+      ],
+      "script": "What will the woman do on Friday?\n（A）Give a speech.\n（B）Receive professional training.\n（C）Travel to another city.\n（D）Lead an orientation session.\n周五女士要做什么？\n（A）发表演讲。\n（B）接受专业培训。\n（C）去另外一个城市。\n（D）主持岗前培训会。",
+      "answer": "C"
+    },
+    {
+      "id": "63",
+      "question": "Look at the graphic. How much will it cost for each person in the department\nto register?",
+      "options": [
+        "$70.",
+        "$85.",
+        "$95.",
+        "$105. 请看图表，部门每个人的报名费是多少？"
+      ],
+      "script": "Look at the graphic. How much will it cost for each person in the department\nto register?\n（A）$70.\n（B）$85.\n（C）$95.\n（D）$105.\n请看图表，部门每个人的报名费是多少？\n（A）70美元。\n（B）85美元。\n682\n\n（C）95美元。\n（D）105美元。",
+      "answer": "A"
+    },
+    {
+      "id": "64",
+      "question": "Why does the man say many people want to attend the event?",
+      "options": [
+        "To listen to some speeches.",
+        "To have a chance to get out of the office.",
+        "To improve their skills.",
+        "To meet other people in the industry. 根据男士所说，为什么有许多人想要参加这次商品交易会？"
+      ],
+      "script": "Why does the man say many people want to attend the event?\n（A）To listen to some speeches.\n（B）To have a chance to get out of the office.\n（C）To improve their skills.\n（D）To meet other people in the industry.\n根据男士所说，为什么有许多人想要参加这次商品交易会？\n（A）为了听一些演讲。\n（B）为了有机会离开办公室。\n（C）为了提高技能。\n（D）为了见行业中的其他人。\n·it's a shame ~ = it's a pity ~ 很遗憾...\nIt's a shame that you missed the marvelous concert tonight. 你错过了今天晚\n上精彩的音乐会，真的很可惜。\nQuestions 65 through 67 refer to the following conversation and schedule.\nW: Hello. This is Cindy Wells. I've got an appointment with a dentist\ntomorrow at 3:30 p.m., but I'm in lots of pain. Is it possible to see someone\ntoday? （65）\nM: I'm sorry to hear that, Ms. Wells. According to the schedule, we have one\nopen slot today. It's at 1:00 p.m. （66）However, it won't be with your regular\ndentist.\nW: That's fine. I don't believe I can wait until tomorrow.\nM: Okay, I'll go ahead and cancel your Tuesday appointment then.\n（66）Oh, could you please bring your insurance card? （67）\nW: Why do you need it? I thought you already had my records.\nM: We're upgrading the computer system today, so we can't go online until\ntomorrow.\nDental Clinic Schedule\n683\n\nW: 您好。我是辛迪·维尔斯。我预约了明天下午3点半看牙医，但是我\n现在疼得厉害，今天有可能看医生吗？\nM: 听到这个消息，我表示很同情，维尔斯女士。根据日程安排，今天\n我们还有个时间段没有约满，时间是下午1点。不过，出诊的不是您平时的\n牙医。\nW: 可以的。我觉得我等不到明天了。\nM: 好的，我这就把您周二的预约取消。哦，请把您的医保卡带上。\nW: 为什么需要医保卡？我想你们已经有我的医保记录了。\nM: 今天我们的电脑正在升级系统，所以，我们明天才能上网。\n牙医诊所日程安排\nappointment 安排，预约 dentist 牙医 slot （节目或时间表里的）时间段\nregular 常规的，经常的 cancel 取消 insurance 保险 upgrade 升级",
+      "answer": "D"
+    },
+    {
+      "id": "65",
+      "question": "What is the purpose of the woman's call?",
+      "options": [
+        "To schedule a checkup.",
+        "To change an appointment.",
+        "To confirm the time of her appointment.",
+        "To say she will be a bit late. 女士打电话的目的是什么？"
+      ],
+      "script": "What is the purpose of the woman's call?\n（A）To schedule a checkup.\n（B）To change an appointment.\n（C）To confirm the time of her appointment.\n（D）To say she will be a bit late.\n女士打电话的目的是什么？\n（A）预约体检。\n（B）更改预约。\n（C）确认预约时间。\n（D）表示她要晚到一会儿。",
+      "answer": "B"
+    },
+    {
+      "id": "66",
+      "question": "Look at the graphic. Which dentist will the woman see?",
+      "options": [
+        "William Norby.",
+        "Janet Snead.",
+        "Patricia Chang. 684",
+        "Mark Greene. 请看图表，女士将会看哪一位牙医？"
+      ],
+      "script": "Look at the graphic. Which dentist will the woman see?\n（A）William Norby.\n（B）Janet Snead.\n（C）Patricia Chang.\n684\n\n（D）Mark Greene.\n请看图表，女士将会看哪一位牙医？\n（A）威廉姆·诺比。\n（B）珍妮特·斯尼德。\n（C）帕特丽夏·张。\n（D）马克·格林尼。",
+      "answer": "B"
+    },
+    {
+      "id": "67",
+      "question": "What does the man tell the woman to bring?",
+      "options": [
+        "An insurance document.",
+        "Some X-rays.",
+        "A referral from another dentist.",
+        "Her medical records. 男士告诉女士带上什么？"
+      ],
+      "script": "What does the man tell the woman to bring?\n（A）An insurance document.\n（B）Some X-rays.\n（C）A referral from another dentist.\n（D）Her medical records.\n男士告诉女士带上什么？\n（A）医保证件。\n（B）一些X光片。\n（C）另一位牙医的诊断参考。\n（D）她的就诊记录。\n·make an appointment = have an appointment预约\nYou should phone his secretary if you want to make an appointment. 如果你想\n预约，你应当给他的秘书打电话。\nQuestions 68 through 70 refer to the following conversation and invoice.\nM: Deanna, you picked up the order from the grocery store, right?\nW: That's correct. I went in the morning before I showed up for work. Is there\na problem?\nM: Yeah, it looks like we didn't get enough flour. There were only ten\nkilograms in the box. （69）That's not enough to bake all the cakes and\ncookies which our customers ordered today. （68）\nW: Keith told me that was how much we needed. I guess he made a mistake.\nM: Actually, we need double that amount. （69）Would you mind going\nback and purchasing some more? Be sure to get a receipt so I can pay you back.\n（70）\nW: All right. I should return in half an hour.\nInvoice\n685\n\nM: 迪安娜，你从杂货店提取了订购的货物，是吧？\nW: 是的。我早上上班之前去了趟那里，有什么问题吗？\nM: 对，我们的面粉好像不够了。箱子里只剩下10公斤，不够烤制今天\n顾客订购的所有蛋糕和饼干。\nW: 基思跟我说我们就需要那么多。我猜他弄错了。\nM: 其实，我们需要双倍的量。你介意回去一趟，再多买一些吗？记着\n要收据，我好给你报销。\nW: 好的。我半个小时后就回来。\n发票\npick up 取，拿 grocery store 杂货店 show up 露面 bake烤，烘焙 cookie 饼\n干 customer 顾客，客户purchase 购买 receipt 收据",
+      "answer": "A"
+    },
+    {
+      "id": "68",
+      "question": "Where most likely do the speakers work?",
+      "options": [
+        "At a bakery.",
+        "At a grocery store.",
+        "At a café.",
+        "At a restaurant. 说话者们最可能在哪里工作？"
+      ],
+      "script": "Where most likely do the speakers work?\n（A）At a bakery.\n（B）At a grocery store.\n（C）At a café.\n（D）At a restaurant.\n说话者们最可能在哪里工作？\n（A）面包店。\n（B）杂货店。\n（C）咖啡馆。\n（D）餐馆。",
+      "answer": "A"
+    },
+    {
+      "id": "69",
+      "question": "Look at the graphic. Which item does the man request more of?\n686",
+      "options": [
+        "TT505.",
+        "RA122.",
+        "OA905.",
+        "FF598. 对照图表，男士要求多买一些的是哪一种商品？"
+      ],
+      "script": "Look at the graphic. Which item does the man request more of?\n686\n\n（A）TT505.\n（B）RA122.\n（C）OA905.\n（D）FF598.\n对照图表，男士要求多买一些的是哪一种商品？\n（A）TT505。\n（B）RA122。\n（C）OA905。\n（D）FF598。",
+      "answer": "B"
+    },
+    {
+      "id": "70",
+      "question": "What does the man tell the woman to do?",
+      "options": [
+        "Call the grocery store.",
+        "Order something online.",
+        "Ask for a receipt.",
+        "Pay with a credit card. 男士告诉女士要做什么？"
+      ],
+      "script": "What does the man tell the woman to do?\n（A）Call the grocery store.\n（B）Order something online.\n（C）Ask for a receipt.\n（D）Pay with a credit card.\n男士告诉女士要做什么？\n（A）给杂货店打电话。\n（B）在网上订购一些物品。\n（C）要收据。\n（D）用信用卡付款。\n·make a mistake = make an error 犯错，弄错\nIt is hard not to make a mistake in any test. 在任何考试中，不犯错是很难\n的。\nQuestions 71 through 73 refer to the following talk.\nWelcome to Yellow Submarine Apartments. We are going to give you a guided\ntour of this new seaside apartment complex, which incorporates many radical new\narchitectural and lifestyle innovations. Whether you are interested in buying a\nretirement or holiday home, a main residence, or even an investment property,\nwe at the Yellow Submarine Consortium can offer you some stunning\nproperties at excellent prices. （71）Let's move into the foyer. Here and in the\nbasement car park, friendly security staff members ensure your complete\nsecurity twenty-four hours a day. （72）As you can see from the foyer, only the\nfinest quality materials have been used in combination with the superb design.\nAll the apartments, even on the first floor, have views over the ocean.\n（72）Okay, let's take the elevator to our display apartment on the eighth\n687\n\nfloor. （73）\n欢迎来到黄色潜艇公寓。我们将带您参观一下这座新建的海滨公寓楼，\n它融入了许多重大的且新颖的建筑和生活方式上的创新。不管您是想买养老\n房还是度假房, 主要居所还是投资性房产，我们黄色潜艇财团都能为您提供\n一些价格优惠的绝佳房产。让我们进入大厅。在这里以及地下停车场，友好\n的保安们会保证您一天24小时的绝对安全。您从大厅可以看得出来，我们只\n用最优质的材料，并使之与一流的设计相结合。所有的公寓（即使是在一\n楼），都可以看到海景。好的，现在让我们乘电梯去8层的样板公寓。\nguided tour有导游的参观 seaside海滨的 incorporate融入 radical 激进的；\n重大的 architectural建筑的 innovation 创新，革新retirement home 养老房\nholiday home 度假房 property 房产 stunning 极好的 foyer大厅 friendly 友好的\nsecurity安全 ensure确保 combination 结合，联合 superb极好的，一流的\narchitect 建筑师 tenant 租户 round-the-clock 24小时的，全天候的 breathtaking\n惊人的，心旷神怡的 first-rate一流的 unit单元",
+      "answer": "B"
+    },
+    {
+      "id": "71",
+      "question": "Who is the intended audience of this talk?",
+      "options": [
+        "The architects.",
+        "The security staff.",
+        "The apartment tenants.",
+        "Would-be homebuyers. 讲话的目标听众是谁？"
+      ],
+      "script": "Who is the intended audience of this talk?\n（A）The architects.\n（B）The security staff.\n（C）The apartment tenants.\n（D）Would-be homebuyers.\n讲话的目标听众是谁？\n（A）建筑师。\n（B）保安。\n（C）公寓的房客。\n（D）潜在的购房者。",
+      "answer": "D"
+    },
+    {
+      "id": "72",
+      "question": "Which of the following is NOT part of the new apartment complex?",
+      "options": [
+        "Round-the-clock security.",
+        "A breathtaking view of the sea.",
+        "A first-rate design.",
+        "A large balcony in each unit. 下列哪项不是新公寓楼的一部分？"
+      ],
+      "script": "Which of the following is NOT part of the new apartment complex?\n（A）Round-the-clock security.\n（B）A breathtaking view of the sea.\n（C）A first-rate design.\n（D）A large balcony in each unit.\n下列哪项不是新公寓楼的一部分？\n（A）24小时保安。\n（B）令人心旷神怡的海景。\n（C）一流的设计。\n（D）每个单元的大阳台。\n688",
+      "answer": "D"
+    },
+    {
+      "id": "73",
+      "question": "Where will they head next?",
+      "options": [
+        "To the ground-floor lobby.",
+        "To the eighth-floor apartment.",
+        "To the basement garage.",
+        "To the front yard. 他们将前往哪里？"
+      ],
+      "script": "Where will they head next?\n（A）To the ground-floor lobby.\n（B）To the eighth-floor apartment.\n（C）To the basement garage.\n（D）To the front yard.\n他们将前往哪里？\n（A）到底层的大厅。\n（B）到8层的公寓。\n（C）到地下车库。\n（D）到前院。\n·can offer you some stunning properties at excellent prices = can provide\nyou with some excellent properties at amazing prices = can propose some\ngreat properties at very reasonable prices 能为您提供一些价格优惠的绝佳房\n产\nYou are very lucky because we can offer you some stunning properties at\nexcellent prices. 您非常幸运，因为我们能为您提供一些价格优惠的绝佳房\n产。\n·Only the finest quality materials have been used. = Only the best quality\nmaterials have been used. = Only the top quality materials have been used. 只\n有最优质的材料才会被使用。\nYou will be glad to know that only the finest quality materials have been used\nto make the products. 你将会很高兴地得知，只有最优质的材料才会被用来制\n造这些产品。\nQuestions 74 through 76 refer to the following announcement.\nThe CTV annual speech contest is a prestige competition with a tradition\ngoing back twenty-five years. （74）The winner of the first competition, held\nin 1981, was Brian McAdams, （75）now a well-known television journalist and\nanchorman for CTV. We'd like to remind you that the highest standards will be\nexpected of all contestants at all times. However, we'd also like to say that the\nbenefits of participating are enormous even if you don't win. A pre-competition\nround of selections will be held here next Monday—that's June the sixth—\nbeginning at 8:00 p.m. So, please fill in your entry form, and we'll see you back\nhere next Monday. （76）Thanks!\nCTV年度演讲比赛是一个享有盛誉的比赛，有着25年的传统。布赖恩·\n麦克亚当斯是1981年第一届比赛的冠军，他现在是CTV著名的电视记者和新\n闻节目主播。我们想提醒大家，所有的参赛者在任何时候都要表现出最高的\n689\n\n水准。不过，我们也还是想说，即使你在比赛中不能获胜，参加这项比赛的\n收获还是很多的。赛前选拔环节将于下星期一——也就是6月6日在这里举\n行，选拔从晚上8点开始。所以请填写报名表，下星期一在这里见。谢谢！\nprestige 威望，声望 competition比赛，竞赛 tradition 传统 journalist 记者\nanchorman新闻节目（男）主播 contestant 选手 at all times 一直 enormous 巨大\n的 round 环节 entry form报名表 judge 评委 compete in ~ 参加...比赛 in person\n亲自",
+      "answer": "B"
+    },
+    {
+      "id": "74",
+      "question": "How old is the speech contest?",
+      "options": [
+        "One year old.",
+        "Five years old.",
+        "Ten years old.",
+        "Twenty-five years old. 这项演讲比赛有多久的历史了？"
+      ],
+      "script": "How old is the speech contest?\n（A）One year old.\n（B）Five years old.\n（C）Ten years old.\n（D）Twenty-five years old.\n这项演讲比赛有多久的历史了？\n（A）1年。\n（B）5年。\n（C）10年。\n（D）25年。",
+      "answer": "D"
+    },
+    {
+      "id": "75",
+      "question": "What does the speaker imply when he says, “The winner of the first\ncompetition, held in 1981, was Brian McAdams”?",
+      "options": [
+        "Brain's dream is to become a news anchor.",
+        "Brain will be one of the judges at the contest.",
+        "Brain competed in the first ever contest.",
+        "Brain has been the host of the contest since the first show. 讲话者说“布赖恩·麦克亚当斯是1981年第一届比赛的冠军”，他在暗示 什么？"
+      ],
+      "script": "What does the speaker imply when he says, “The winner of the first\ncompetition, held in 1981, was Brian McAdams”?\n（A）Brain's dream is to become a news anchor.\n（B）Brain will be one of the judges at the contest.\n（C）Brain competed in the first ever contest.\n（D）Brain has been the host of the contest since the first show.\n讲话者说“布赖恩·麦克亚当斯是1981年第一届比赛的冠军”，他在暗示\n什么？\n（A）布莱恩的梦想是成为一名新闻节目主持。\n（B）布莱恩将成为比赛的评委之一。\n（C）布莱恩参加了第一届比赛。\n（D）从第一期节目开始，布赖恩就是这项比赛的主持人。",
+      "answer": "C"
+    },
+    {
+      "id": "76",
+      "question": "What should those who wish to participate in the contest do?",
+      "options": [
+        "Come down to the station in person.",
+        "Fill out a document.",
+        "Call the television station. 690",
+        "Log on to the website. 那些想参加比赛的人应该做什么？"
+      ],
+      "script": "What should those who wish to participate in the contest do?\n（A）Come down to the station in person.\n（B）Fill out a document.\n（C）Call the television station.\n690\n\n（D）Log on to the website.\n那些想参加比赛的人应该做什么？\n（A）亲自到电视台来。\n（B）填写一份文件。\n（C）给电视台打电话。\n（D）登录网站。\n·with a tradition going back twenty-five years = with a tradition dating\nback twenty-five years = with a twenty-five year tradition 有着25年的传统\n·a well-known television journalist and anchorman for CTV = a famous\ntelevision journalist and anchorman for CTV = an acclaimed television\njournalist and anchorman for CTV 中视著名的电视记者和新闻节目主播\nQuestions 77 through 79 refer to the following telephone message.\nHi, Mark. I've been trying to contact you by e-mail, but for some reason\nyou have not responded. （77）This is Julie, the secretary of the Choral Society.\nI hope you receive this message in time. We've had to cancel tonight's rehearsal\nat the last minute. （78）If for some reason you don't get this message tonight, I\napologize—there won't be anybody else at the hall this evening. I hope you\nunderstand that our conductor is unable to attend because of some urgent family\nbusiness, （79）and we've decided to postpone the rehearsal until next week. I\ncan't really give you any more details at the moment, but I'll let you know in the next\nfew days. See you soon.\n你好，马克。我一直试着通过电子邮件联系你，但是由于某种原因你还\n没有回复。我是合唱协会的秘书朱莉。我希望你能及时收到这条留言。在最\n后一刻我们不得不取消今天晚上的排练。如果出于某种原因今晚你没收到这\n条信息，我向你道歉——今天晚上大厅里不会有其他人的。我希望你能理\n解，我们的指挥因为一些紧急的家事无法来了。我们已经决定把排练推迟到\n下星期。现在我真的不能提供更多的详情，但是过几天我会让你知道的。再\n见。\nrespond 回复 in time 及时 at the last minute 在最后一刻 conductor 指挥\nurgent 紧急的 postpone 推迟 detail 细节whereabouts 行踪，下落 affair 事情",
+      "answer": "B"
+    },
+    {
+      "id": "77",
+      "question": "How did the woman first try to get in contact with Mark?",
+      "options": [
+        "By phone.",
+        "By e-mail.",
+        "By mail.",
+        "By fax. 女士一开始试图通过什么方式联系马克？"
+      ],
+      "script": "How did the woman first try to get in contact with Mark?\n（A）By phone.\n（B）By e-mail.\n（C）By mail.\n（D）By fax.\n女士一开始试图通过什么方式联系马克？\n691\n\n（A）通过电话。\n（B）通过电子邮件。\n（C）通过信件。\n（D）通过传真。",
+      "answer": "B"
+    },
+    {
+      "id": "78",
+      "question": "What is the message mainly about?",
+      "options": [
+        "The cancellation of their meeting tonight.",
+        "A new addition to their choral group.",
+        "The conductor's wish to meet more regularly.",
+        "The last minute details before the performance. 这则留言主要是关于什么的？"
+      ],
+      "script": "What is the message mainly about?\n（A）The cancellation of their meeting tonight.\n（B）A new addition to their choral group.\n（C）The conductor's wish to meet more regularly.\n（D）The last minute details before the performance.\n这则留言主要是关于什么的？\n（A）取消他们今晚的集会。\n（B）他们合唱团的一个新成员。\n（C）指挥希望他们能更频繁地见面。\n（D）演出前最后的细节。",
+      "answer": "A"
+    },
+    {
+      "id": "79",
+      "question": "What happened to the conductor?",
+      "options": [
+        "No one knows his whereabouts.",
+        "He had to attend to some personal affairs.",
+        "He has been waiting in the hall for a long time.",
+        "He has not attended any of the rehearsals. 指挥遇到什么事情？"
+      ],
+      "script": "What happened to the conductor?\n（A）No one knows his whereabouts.\n（B）He had to attend to some personal affairs.\n（C）He has been waiting in the hall for a long time.\n（D）He has not attended any of the rehearsals.\n指挥遇到什么事情？\n（A）没有人知道他的行踪。\n（B）他必须去处理一些个人事务。\n（C）他在大厅里等了很长时间。\n（D）他从来没有参加过任何排练。\n·For some reason you have not responded. = For an unknown reason you\nhave not provided an answer. = For a certain reason you have not gotten back\nto me. 由于某种原因你还没有回复。\nI have left several messages on your answering machine regarding the order,\nbut for some reason you have not responded yet. 关于订单，我在你的电话答录\n机上留了几次言，但是由于某种原因你还没有回复。\n·at the last minute = at the last second = at the last moment在最后一刻\nI changed my mind at the last minute. 我在最后一刻改变了主意。\n·We've decided to postpone the rehearsal. 我们已经决定推迟排练。\n692\n\n扩展表达：We've decided to hold off the rehearsal for a while. 我们已经\n决定暂时推迟排练。\nWe've decided to put off the rehearsal until another time. 我们已经决定\n把排练推迟到其他时间。\nQuestions 80 through 82 refer to the following speech.\nTonight truly marks a milestone in the history of this association. When it was\ncreated 100 years ago with the intention of encouraging the conservation of\nEnglish culture, （80）who would have thought that it would not only survive but\nalso prosper until the present day? From one club with 36 members meeting in one\nvenue in England, we have grown into a nationwide association of 50 clubs with\nover 600 members. （81）And the annual prize for a special contribution to\nEnglish culture, which has been made possible by the generosity of our local\nbusinessmen, has become one of the nation's most prestigious awards. （82）\n今晚的确是本协会历史上里程碑式的时刻。当100年前为鼓励保护英国\n文化创建本协会时，谁会想到这个协会不仅能存活到今天，而且还一直在蓬\n勃发展？它从最初拥有36名会员、在英格兰某处聚会的俱乐部，发展成为拥\n有超过600名会员、50个俱乐部的全国性协会。由我们本地商人慷慨资助的\n年度英国文化特别贡献奖已经成为国家最有声望的奖项之一。\ntruly 确实地，的确 mark标志 milestone 里程碑 association协会 intention\n目的 encourage鼓励 conservation保护survive活下来 prosper繁荣，昌盛 venue\n集合地 nationwide全国性的 contribution 贡献 generosity 慷慨 prestigious 有声\n望的 preserve 保护 custom （社会）习俗 playtime 娱乐时间",
+      "answer": "B"
+    },
+    {
+      "id": "80",
+      "question": "What was the original purpose in creating this club?",
+      "options": [
+        "To preserve English custom.",
+        "To provide playtime for the rich.",
+        "To encourage people to compete.",
+        "To introduce businessmen to each other. 创建这个俱乐部的最初目的是什么？"
+      ],
+      "script": "What was the original purpose in creating this club?\n（A）To preserve English custom.\n（B）To provide playtime for the rich.\n（C）To encourage people to compete.\n（D）To introduce businessmen to each other.\n创建这个俱乐部的最初目的是什么？\n（A）保护英国的社会习俗。\n（B）为富人提供娱乐。\n（C）鼓励人们相互竞争。\n（D）介绍商人们相互认识。",
+      "answer": "A"
+    },
+    {
+      "id": "81",
+      "question": "How many members does the club now have?",
+      "options": [
+        "36.",
+        "50.",
+        "100. 693",
+        "Over 600. 俱乐部现在有多少名会员？"
+      ],
+      "script": "How many members does the club now have?\n（A）36.\n（B）50.\n（C）100.\n693\n\n（D）Over 600.\n俱乐部现在有多少名会员？\n（A）36名。\n（B）50名。\n（C）100名。\n（D）超过600名。",
+      "answer": "D"
+    },
+    {
+      "id": "82",
+      "question": "Who sponsors the nation's most prestigious awards?",
+      "options": [
+        "Local businessmen.",
+        "The government.",
+        "The club president.",
+        "The members. 赞助这一全国最具声望的奖项的是谁？"
+      ],
+      "script": "Who sponsors the nation's most prestigious awards?\n（A）Local businessmen.\n（B）The government.\n（C）The club president.\n（D）The members.\n赞助这一全国最具声望的奖项的是谁？\n（A）当地的商人。\n（B）政府。\n（C）俱乐部主席。\n（D）会员们。\n·Tonight truly marks a milestone in the history of this association. 今晚的\n确是本协会历史上里程碑式的时刻。\n扩展表达：Tonight is really special in the association's long history. 今晚\n的确是本协会悠久历史上一个特别的时刻。\nThis evening clearly characterizes the achievements we have made in our\nassociation's long history.\n无疑，今晚体现了我们协会在其悠久历史中所取得的成就。\n·with the intention of ~ = with the meaning to ~ = with the purpose of ~ 为\n了...，怀着...的目的\nI came here with the intention of winning your vote today. 我今天来的目的是\n为了赢得你们的选票。\n·Who would have thought that ~? = Who could have guessed that ~? =\nWho could have imagined that ~? 谁能想到...？\nWho would have thought that I would be standing here talking about my\nachievements in front of all of you? 谁能想到我会站在你们所有人面前谈论我\n的成就呢？\nQuestions 83 through 85 refer to the following talk.\n694\n\nWelcome to the Goldfields Tour! We have about a one-hour bus trip\nthrough beautiful rolling hills before we reach the first stop on our tour, （83）\nthe picturesque and historic town of Daylesford. When we reach Daylesford, I\nsuggest that we simply stroll around the old town for around thirty minutes to an\nhour. Daylesford was founded at the time of the first gold rush and is largely\nunchanged（84）since the boom period of the 1880s. Why don't you stop at one\nof the famous bakeries on the main street for some delicious coffee and cakes?\n（85）Return to the bus by 11:00 a.m., and we will proceed with the rest of the\ntour. Thank you.\n欢迎参加金地之旅！旅途的第一站是风景如画、历史悠久的戴尔斯福德\n城，在此之前，我们要坐约一个小时的巴士，沿途可以欣赏连绵起伏的美丽\n丘陵。到了戴尔斯福德，我建议大家围绕这座老城逛30分钟到1小时左右。\n戴尔斯福德建造于第一次淘金热的时候，从19世纪80年代的繁荣时期以来大\n体上就没有什么变化。你们为什么不顺便去主街上一家有名的面包店品尝美\n味的咖啡和蛋糕呢？上午11点之前请回到巴士，我们将继续下面的旅程。谢\n谢。\nrolling连绵起伏的 picturesque风景如画的 stroll 闲逛，溜达 gold rush 淘\n金热 boom 繁荣，景气 proceed继续destination目的地，终点 bottom底部\nresemble 像，类似 seclude 使隔离，使孤立",
+      "answer": "A"
+    },
+    {
+      "id": "83",
+      "question": "When will they arrive at their first destination?",
+      "options": [
+        "In ten minutes.",
+        "In twenty minutes.",
+        "In thirty minutes.",
+        "In about sixty minutes. 他们将于什么时候到达第一个目的地？"
+      ],
+      "script": "When will they arrive at their first destination?\n（A）In ten minutes.\n（B）In twenty minutes.\n（C）In thirty minutes.\n（D）In about sixty minutes.\n他们将于什么时候到达第一个目的地？\n（A）10分钟后。\n（B）20分钟后。\n（C）30分钟后。\n（D）大约1小时后。",
+      "answer": "D"
+    },
+    {
+      "id": "84",
+      "question": "What does the speaker mention about Daylesford?",
+      "options": [
+        "It is at the bottom of a hill.",
+        "It still resembles the gold rush days.",
+        "It has become a large city.",
+        "It is secluded from other cities. 关于戴尔斯福德，讲话人提到了什么？"
+      ],
+      "script": "What does the speaker mention about Daylesford?\n（A）It is at the bottom of a hill.\n（B）It still resembles the gold rush days.\n（C）It has become a large city.\n（D）It is secluded from other cities.\n关于戴尔斯福德，讲话人提到了什么？\n（A）它在一座山的山脚下。\n695\n\n（B）它依然很像淘金热时代的样子。\n（C）它已经变成了一座大城市。\n（D）它与其他城市隔绝。",
+      "answer": "B"
+    },
+    {
+      "id": "85",
+      "question": "What does the speaker mean when he says, “Why don't you stop at one of the\nfamous bakeries”?",
+      "options": [
+        "The listeners should drop by the bakeries.",
+        "The listeners should check out the hills.",
+        "The listeners should buy some cheap gold.",
+        "The listeners should check out the historical building. 讲话者说“你们为什么不顺便去一家有名的面包店呢”，是想表达什么意 思？"
+      ],
+      "script": "What does the speaker mean when he says, “Why don't you stop at one of the\nfamous bakeries”?\n（A）The listeners should drop by the bakeries.\n（B）The listeners should check out the hills.\n（C）The listeners should buy some cheap gold.\n（D）The listeners should check out the historical building.\n讲话者说“你们为什么不顺便去一家有名的面包店呢”，是想表达什么意\n思？\n（A）听众应该顺便去一下面包店。\n（B）听众应该看看这里的丘陵。\n（C）听众应该买一些便宜的金子。\n（D）听众应该看看历史建筑。\n·simply stroll around = casually walk around = freely get around 在周围随\n意逛逛\nYou will have an hour to simply stroll around the museum at your leisure. 空\n闲时你有1个小时的时间在博物馆周围随意逛逛。\n·We will proceed with the rest of the tour. = We will continue on with the\nrest of the tour. = We will go ahead with the rest of the tour. 我们将继续下面\n的旅程。\nQuestions 86 through 88 refer to the following talk.\nExcuse me, ladies and gentlemen. I hope you enjoyed your meal. Personally, I\nfound it to be an absolute feast, and I'd like to thank the organizers for their\nmarvelous work. It's time to move on to the more formal part of the evening,\nwhich comprises the awards for journalist and photojournalist of the year.\n（86）This year has been a particularly dark and dangerous one for\njournalists working in war zones. （87）I can only say how much I admire and\nrespect those courageous writers and photographers who have risked death and\neven torture in order to bring the truth to the world. Would everyone please give a\nbig round of applause for our chief editor? He is going to present our first\naward. （88）\n女士们，先生们，打扰一下。我希望这顿饭菜能合你们的胃口。就我个\n人而言，我觉得这绝对是一次盛宴，我要谢谢筹办方了不起的工作。现在该\n进行今晚较为正式的环节了，包括为年度记者和摄影记者颁奖。今年对于在\n696\n\n战区工作的记者们来说是极其黑暗和危险的一年。我只能说我有多么钦佩和\n尊重那些勇敢的记者和摄影师们，他们为了把真相告诉世人，冒着死亡甚至\n酷刑的危险。大家可以用热烈的掌声欢迎我们的主编吗？他将给颁发我们的\n第一个奖项。\npersonally 就个人而言 absolute 绝对的 feast 盛宴 organizer组织者\nmarvelous 了不起的 formal 正式的 comprise 包含，包括 journalist 记者\nphotojournalist 摄影记者 particularly 格外地 courageous 勇敢的 torture 酷刑，\n折磨",
+      "answer": "C"
+    },
+    {
+      "id": "86",
+      "question": "What is the purpose of the talk?",
+      "options": [
+        "To present awards to the best journalists.",
+        "To thank the organizer for preparing the event.",
+        "To welcome the listeners to a company dinner function.",
+        "To reveal the truth about some war secrets. 这次讲话的目的是什么？"
+      ],
+      "script": "What is the purpose of the talk?\n（A）To present awards to the best journalists.\n（B）To thank the organizer for preparing the event.\n（C）To welcome the listeners to a company dinner function.\n（D）To reveal the truth about some war secrets.\n这次讲话的目的是什么？\n（A）给最优秀的记者颁奖。\n（B）感谢筹办方为这一活动所作的筹备工作。\n（C）欢迎听众参加公司的盛宴。\n（D）揭示一些战争机密的真相。",
+      "answer": "A"
+    },
+    {
+      "id": "87",
+      "question": "Why does the speaker say that this year has been particularly tough?",
+      "options": [
+        "Many of the journalists had to go to war.",
+        "He lost some of his closest colleagues.",
+        "The newspaper company had a hard time.",
+        "The writers could not write freely. 为什么讲话人说今年格外艰难？"
+      ],
+      "script": "Why does the speaker say that this year has been particularly tough?\n（A）Many of the journalists had to go to war.\n（B）He lost some of his closest colleagues.\n（C）The newspaper company had a hard time.\n（D）The writers could not write freely.\n为什么讲话人说今年格外艰难？\n（A）许多记者不得不赶赴战场。\n（B）他失去了一些最亲密的同事。\n（C）报刊公司经历了困难时期。\n（D）作者们不能自由地写作。",
+      "answer": "A"
+    },
+    {
+      "id": "88",
+      "question": "Who is going to make the first presentation?",
+      "options": [
+        "The head editor.",
+        "The speaker.",
+        "The event organizer.",
+        "One of the journalists."
+      ],
+      "script": "Who is going to make the first presentation?\n（A）The head editor.\n（B）The speaker.\n（C）The event organizer.\n（D）One of the journalists.\n697\n\n谁将会颁发第一个奖项？\n（A）主编。\n（B）讲话人。\n（C）活动的筹办方。\n（D）其中的一位记者。\n·Excuse me, ladies and gentlemen. 女士们，先生们，打扰一下。\n扩展表达：May I have your attention, ladies and gentlemen? = Attention,\nladies and gentlemen. 女士们，先生们，请注意。\n·It's time to move on to the more formal part of the evening. = It's time to\nmove on to the official part of the night. 现在该进行今晚更为正式的环节了。\n扩展表达：It's time to get on with the night's events. 现在该进行今晚的\n活动了。\nQuestions 89 through 91 refer to the following telephone message.\nHello, this is Michael Kruger from Kruger's Family Delicatessen. We've just\nreceived a delivery from your company, （89）but on inspection we have\nfound that an entire pallet of tinned anchovies has been damaged. （90）It\nlooks like they fell at some time during transportation. Some of the tins have broken\nand are leaking oil. Many others are dented. We can't possibly accept them at the\nagreed price. We've already spent two hours cleaning up dripping oil. Either we\ncan return them to you and you can deduct the costs from your next invoice, or we'll\naccept them at a substantial discount. Why don't you send a sales representative?\n（91）We need to sort this out as soon as possible. Thanks.\n您好，我是克鲁格家庭熟食店的迈克尔·克鲁格。我们刚刚收到从贵公\n司发来的一批货。但是在检查时我们发现一整托盘的凤尾鱼罐头都已经坏掉\n了。看起来它们在运输的时候掉下来过。一些罐头盒已经摔坏了，正在漏\n油。许多其他的罐头盒凹了下去。我们不能按原来商定的价格接受它们。我\n们已经花了两个小时清洗滴下来的油。要么我们把货物寄回给你们，你们可\n以在下一次的发票上扣除这次的成本，要么给我们多打些折扣以便我们接\n受。你们为什么不派一个销售代表过来呢？我们需要尽快解决这件事情。谢\n谢。\ndelicatessen熟食店 inspection检查 entire 全部的 pallet （装卸、搬运货物\n用的）托盘，货板，集装架 tinned罐头的，听装的 anchovy 凤尾鱼\ntransportation 运输 leak泄漏 dent凹陷 clean up 清理 drip 滴下 deduct扣除\nsubstantial 大量的 sort out解决 steep （价格等）过高的，不合理的\nreplacement 替代品 leakage 泄漏物",
+      "answer": "A"
+    },
+    {
+      "id": "89",
+      "question": "Who is leaving the message?",
+      "options": [
+        "A customer. 698",
+        "A delivery staff member.",
+        "The food inspector.",
+        "A cleaning staff member. 谁在留言？"
+      ],
+      "script": "Who is leaving the message?\n（A）A customer.\n698\n\n（B）A delivery staff member.\n（C）The food inspector.\n（D）A cleaning staff member.\n谁在留言？\n（A）顾客。\n（B）货运工。\n（C）食品检查员。\n（D）清洁工。",
+      "answer": "A"
+    },
+    {
+      "id": "90",
+      "question": "What is the problem?",
+      "options": [
+        "The speaker is running late with the delivery.",
+        "The price of the goods is a bit too steep.",
+        "The sales representative is not available now.",
+        "Some damaged goods have been delivered. 问题是什么？"
+      ],
+      "script": "What is the problem?\n（A）The speaker is running late with the delivery.\n（B）The price of the goods is a bit too steep.\n（C）The sales representative is not available now.\n（D）Some damaged goods have been delivered.\n问题是什么？\n（A）讲话人送货晚点了。\n（B）货物的价格有点过高了。\n（C）销售代表现在不在。\n（D）一些损坏的货物被运了过来。",
+      "answer": "D"
+    },
+    {
+      "id": "91",
+      "question": "What does the caller demand the listener do?",
+      "options": [
+        "Return the product.",
+        "Bring replacements.",
+        "Send someone over.",
+        "Clean up the leakage. 打电话的人让听者做什么？"
+      ],
+      "script": "What does the caller demand the listener do?\n（A）Return the product.\n（B）Bring replacements.\n（C）Send someone over.\n（D）Clean up the leakage.\n打电话的人让听者做什么？\n（A）退回商品。\n（B）拿来替代品。\n（C）派人过来。\n（D）把泄漏物清理掉。\n·We've just received a delivery from your company. = We've just gotten\nthe products delivered from your firm. = We just got the order delivered from\nyour company. 我们刚刚收到从贵公司发来的一批货。\n·but on inspection = but while checking = but when we were looking over\n699\n\n但是（我们）在检查时\nThe products were delivered but on inspection we found some broken items.\n产品被送过来了，但是我们在检查时发现其中一些已经破损。\n·We need to sort this out as soon as possible. = We need to solve this as\nsoon as possible. = We need to find a solution for this as soon as possible. 我们\n需要尽快解决这件事情。\nQuestions 92 through 94 refer to the following talk.\nOur Sales Department has a particularly proud record since the founding of\nthe company in 1946. （92）Starting out just after the Second World War, our\ncompany employed three traveling salesmen and a national sales manager to expand\nour operations aggressively throughout North America. Of course, we couldn't have\ndone that without top quality products to sell. On the other hand, without sales\nand a hungry sales staff, the company would not have been able to survive, let\nalone expand as it has done in the last sixty years. （93）You have been\nchosen from a field of sixty applicants to continue that tradition, （94）and we\nhave faith that through your energy and positive attitude we will be able to continue\nour expansion to markets all over the world.\n从公司1946年成立以来, 我们销售部取得了特别值得骄傲的成绩。我们\n公司在二战结束不久创建的时候, 雇用了三名旅行推销员和一名全国销售经\n理，将我们的经营范围扩张到整个北美洲。当然，没有最优质的产品出售，\n我们也不会取得这样的成绩。但从另外一方面来说，如果没有销售部和积极\n的销售人员，公司根本就不可能生存下来，更不用说在过去60年间所做的扩\n张了。我们从60名应聘者中挑了你们去延续这一传统。我们相信通过你们的\n努力和积极的态度我们一定能将市场扩大到全世界。\nparticularly 特别地 proud骄傲的 traveling旅行的 national 全国的 operation\n经营；营运 aggressively 积极地，有闯劲地 top quality 一流的质量 on the other\nhand 另一方面 survive 生存 applicant 应聘者 tradition传统，惯例 faith 信心，\n信念 positive 积极的 attitude 态度 credit 功劳 founder缔造者，创造人 veteran\n老兵",
+      "answer": "C"
+    },
+    {
+      "id": "92",
+      "question": "For about how long has the company been in business?",
+      "options": [
+        "Over 6 years.",
+        "Over 40 years.",
+        "Over 60 years.",
+        "Over 100 years. 公司已经运营多久了？"
+      ],
+      "script": "For about how long has the company been in business?\n（A）Over 6 years.\n（B）Over 40 years.\n（C）Over 60 years.\n（D）Over 100 years.\n公司已经运营多久了？\n（A）6年多。\n（B）40多年。\n700\n\n（C）60多年。\n（D）100多年。",
+      "answer": "C"
+    },
+    {
+      "id": "93",
+      "question": "Who does the speaker give credit for the company's success?",
+      "options": [
+        "The sales team.",
+        "The company founder.",
+        "The investors.",
+        "The operations manager. 谁最有可能在听这个讲话？"
+      ],
+      "script": "Who does the speaker give credit for the company's success?\n（A）The sales team.\n（B）The company founder.\n（C）The investors.\n（D）The operations manager.\n谁最有可能在听这个讲话？\n（A）退伍军人。\n（B）销售经理。\n（C）工厂工人。\n（D）新雇员。",
+      "answer": "A"
+    },
+    {
+      "id": "94",
+      "question": "Who most likely is listening to the talk?",
+      "options": [
+        "War veterans.",
+        "Sales managers.",
+        "Factory workers.",
+        "New employees. 讲话者把公司的成功归功于谁？"
+      ],
+      "script": "Who most likely is listening to the talk?\n（A）War veterans.\n（B）Sales managers.\n（C）Factory workers.\n（D）New employees.\n讲话者把公司的成功归功于谁？\n（A）销售团队。\n（B）公司的创始人。\n（C）投资人。\n（D）运营经理。\n·on the other hand另一方面\n扩展表达：on the contrary = in opposition 与此相反，反之\nOn the other hand, we could always come back a day earlier. 另一方面，我\n们总是可以早一天回来。\n·We have faith that ~ = We believe that ~ = We trust that ~ 我们相信...\nWe have faith that you will do well at your assigned job. 我们相信你会做好\n分配给你的工作。\nQuestions 95 through 97 refer to the following excerpt from a meeting and bar\ngraph.\nThank you for coming to this meeting, everyone. We need to discuss the sales\n701\n\ndata from the first quarter which was released this morning. （95）Our\nbranches in Europe and Asia did exceptionally well. Every single one of them\nturned a profit in the last three months. （96）As for our American and\nCanadian branches, they were mostly profitable as only a couple places lost money.\nNow, as for our South American branches, we didn't do as well as we had hoped.\nTake a look at this chart here. I'd like to discuss each country individually,\nstarting with the one which lost the greatest amount of money. （97）\nSouth American Branches First Quarter Performance\n感谢大家来出席本次会议。下面，我们需要讨论一下今天早上公布的第\n一季度销售数据。集团在欧洲和亚洲的分公司做得非常出色。过去三个月以\n来，欧洲和亚洲的每一家分公司都处于盈利状态。同时，位于美国和加拿大\n的分公司基本上也处于盈利状态，仅在少数地区公司存在亏损。相比之下，\n我们在南美洲的分公司则表现得有些不尽人意。我们不妨来看一下下列图\n表。我想逐一讨论和这几个国家的情况，先从亏损最严重的开始吧。\n南美国家分公司第一季度销售情况\n702\n\nthe first quarter 第一季度 release 公布 branch 分公司 exceptionally 极其，\n非常 profitable 盈利的 individually 单独地",
+      "answer": "D"
+    },
+    {
+      "id": "95",
+      "question": "What is the speaker mostly talking about?",
+      "options": [
+        "Expansion plans.",
+        "Financial losses.",
+        "A sales report.",
+        "The company's workforce. 说话人主要在说什么？"
+      ],
+      "script": "What is the speaker mostly talking about?\n（A）Expansion plans.\n（B）Financial losses.\n（C）A sales report.\n（D）The company's workforce.\n说话人主要在说什么？\n（A）扩张计划。\n（B）经济损失。\n（C）销售报告。\n（D）公司的全体人员。",
+      "answer": "D"
+    },
+    {
+      "id": "96",
+      "question": "What does the speaker say about the branches in Europe?",
+      "options": [
+        "They were all profitable.",
+        "Some of them lost money.",
+        "Many employees transferred to them.",
+        "A few of them closed. 关于欧洲的分公司，说话者说了什么？"
+      ],
+      "script": "What does the speaker say about the branches in Europe?\n（A）They were all profitable.\n（B）Some of them lost money.\n（C）Many employees transferred to them.\n（D）A few of them closed.\n关于欧洲的分公司，说话者说了什么？\n（A）全部处于盈利状态。\n（B）有些处于亏损状态。\n（C）很多员工调到了那里。\n（D）一些关门了。",
+      "answer": "A"
+    },
+    {
+      "id": "97",
+      "question": "Look at the graphic. Which country will the speaker discuss next?",
+      "options": [
+        "Brazil.",
+        "Argentina.",
+        "Venezuela.",
+        "Ecuador. 请看图表，说话人接下来要讨论哪一个国家？"
+      ],
+      "script": "Look at the graphic. Which country will the speaker discuss next?\n（A）Brazil.\n（B）Argentina.\n（C）Venezuela.\n（D）Ecuador.\n请看图表，说话人接下来要讨论哪一个国家？\n（A）巴西。\n（B）阿根廷。\n（C）委内瑞拉。\n（D）厄瓜多尔。\n703\n\n·take a look at = have a look at = have a glance at = get a load of 看一下\nShe was greatly tempted to take a look at it. 她非常想看一看。\nQuestions 98 through 100 refer to the following telephone message and\nreceipt.\nHello. My name is Richard Armstrong. You may recall that I picked up a few\nbooks at your store this afternoon. I need to report a slight problem with one. When\nI opened the plastic wrapper to read the book, I noticed that several pages in it\nwere torn. （98）Since it cost me $25, （99）I'd really like to have my money\nrefunded or receive a brand-new copy. I'll be visiting the store again tomorrow\nwith the book, （100）but I thought that I ought to call ahead of time so that you'll\nbe expecting me. Thanks a lot. Goodbye.\nThank you for shopping at Peterman's Books\n您好，我叫理查德·阿姆斯特朗。或许您还记得，我今天下午在您的店\n里挑了几本书。其中一本书有点儿小问题。我打开塑料包装想要看书的时\n候，注意到里面有几页破损了。毕竟这本书是我花了25美元买的，所以非常\n希望您能全额退款或者再给我一本全新的书。明天我会把这本书带到店里，\n不过在此之前，我想还是应该先给您打个电话，这样您会知道我要过去。谢\n谢您，明天见。\n感谢您光临彼得曼书店\nrecall 回忆起pick up 买到；捡起 plastic wrapper 塑料包装refund退款\nbrand-new 全新的 ahead of time 提前",
+      "answer": "C"
+    },
+    {
+      "id": "98",
+      "question": "What problem does the speaker mention?",
+      "options": [
+        "He bought the wrong book.",
+        "Some pages are ripped. 704",
+        "A cover is torn.",
+        "There is writing in a book. 说话人提到了什么问题？"
+      ],
+      "script": "What problem does the speaker mention?\n（A）He bought the wrong book.\n（B）Some pages are ripped.\n704\n\n（C）A cover is torn.\n（D）There is writing in a book.\n说话人提到了什么问题？\n（A）他买错书了。\n（B）有些页撕破了。\n（C）封皮有破损。\n（D）书中有字迹。",
+      "answer": "B"
+    },
+    {
+      "id": "99",
+      "question": "Look at the graphic. Which book has a problem?",
+      "options": [
+        "What Do They Call Her?",
+        "The Man from the Zoo.",
+        "A Short History of Greece.",
+        "All about Geology. 对照图表，哪本书有问题？"
+      ],
+      "script": "Look at the graphic. Which book has a problem?\n（A）What Do They Call Her?\n（B）The Man from the Zoo.\n（C）A Short History of Greece.\n（D）All about Geology.\n对照图表，哪本书有问题？\n（A）《他们叫她什么？》。\n（B）《这个男人来自动物园》。\n（C）《希腊简史》。\n（D）《地质学大发现》。",
+      "answer": "C"
+    },
+    {
+      "id": "100",
+      "question": "What does the speaker say he will do tomorrow?",
+      "options": [
+        "Make an order.",
+        "Call again.",
+        "Go to the store.",
+        "Purchase an item. 说话人说他明天会做什么？"
+      ],
+      "script": "What does the speaker say he will do tomorrow?\n（A）Make an order.\n（B）Call again.\n（C）Go to the store.\n（D）Purchase an item.\n说话人说他明天会做什么？\n（A）下订单。\n（B）再打一次电话。\n（C）去书店。\n（D）买一件东西。\n·ahead of time = in advance 提前\nIf there is any change about the time of the meeting, please notify us in\nadvance. 开会时间如有变，请提前告知我们。\n705",
+      "answer": "C"
+    }
+  ]
+}
