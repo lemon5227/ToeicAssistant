@@ -34,18 +34,22 @@ export default function QuizScreen() {
 
         if (isCorrect) {
             setScore(s => s + 1);
+            // Auto advance if correct
+            setTimeout(() => {
+                nextQuestion();
+            }, 1000);
         }
+        // If wrong, stay on screen to show explanation
+    };
 
-        // Auto advance after delay
-        setTimeout(() => {
-            if (currentIndex < questions.length - 1) {
-                setCurrentIndex(i => i + 1);
-                setSelectedOption(null);
-                setIsAnswered(false);
-            } else {
-                setIsFinished(true);
-            }
-        }, 1500);
+    const nextQuestion = () => {
+        if (currentIndex < questions.length - 1) {
+            setCurrentIndex(i => i + 1);
+            setSelectedOption(null);
+            setIsAnswered(false);
+        } else {
+            setIsFinished(true);
+        }
     };
 
     if (questions.length === 0) {
@@ -63,7 +67,7 @@ export default function QuizScreen() {
                     <Text className="text-3xl font-serif font-bold text-ink mb-4">Test Complete</Text>
                     <Text className="text-xl text-ink mb-6">Score: {score} / {questions.length}</Text>
 
-                    <InkButton title="Back to Menu" onPress={() => router.back()} />
+                    <InkButton onPress={() => router.back()}>Back to Menu</InkButton>
                 </PaperCard>
             </SafeAreaView>
         );
@@ -91,23 +95,30 @@ export default function QuizScreen() {
 
                     {isAnswered && (
                         <View className="absolute top-2 right-2 transform rotate-[-15deg]">
-                            <SealText type={isCorrect ? 'success' : 'error'}>
+                            <SealText type={isCorrect ? 'info' : 'title'}>
                                 {isCorrect ? 'CORRECT' : 'WRONG'}
                             </SealText>
                         </View>
                     )}
                 </PaperCard>
 
-                <View className="gap-3">
+                {isAnswered && !isCorrect && currentQuestion.explanation && (
+                    <PaperCard className="mb-6 bg-red-50 border-red-200">
+                        <Text className="text-ink font-bold mb-2">Explanation</Text>
+                        <Text className="text-ink leading-6">{currentQuestion.explanation}</Text>
+                    </PaperCard>
+                )}
+
+                <View className="space-y-3 mb-6">
                     {currentQuestion.options.map((option, index) => {
-                        const letter = String.fromCharCode(65 + index); // A, B, C, D
-                        let variant: 'primary' | 'outline' | 'ghost' = 'outline';
+                        const letter = String.fromCharCode(65 + index);
+                        let variant: 'outline' | 'primary' | 'ghost' | 'correct' | 'wrong' = 'outline';
 
                         if (isAnswered) {
                             if (letter === currentQuestion.answer) {
-                                variant = 'primary'; // Show correct answer
-                            } else if (letter === selectedOption && selectedOption !== currentQuestion.answer) {
-                                variant = 'ghost'; // Show wrong selection
+                                variant = 'correct';
+                            } else if (selectedOption === letter) {
+                                variant = 'wrong';
                             }
                         } else if (selectedOption === letter) {
                             variant = 'primary';
@@ -116,16 +127,23 @@ export default function QuizScreen() {
                         return (
                             <InkButton
                                 key={index}
-                                title={`(${letter}) ${option}`}
                                 variant={variant}
                                 onPress={() => handleOptionPress(letter)}
                                 disabled={isAnswered}
                                 className="items-start pl-4"
                                 textClassName="text-base font-normal"
-                            />
+                            >
+                                {`(${letter}) ${option}`}
+                            </InkButton>
                         );
                     })}
                 </View>
+
+                {isAnswered && !isCorrect && (
+                    <InkButton onPress={nextQuestion} className="mb-8">
+                        Next Question
+                    </InkButton>
+                )}
             </ScrollView>
         </SafeAreaView>
     );

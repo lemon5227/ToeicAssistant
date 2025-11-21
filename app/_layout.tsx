@@ -1,13 +1,18 @@
 import "../global.css";
-import { Slot } from "expo-router";
-import { View } from "react-native";
+import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 
 export default function Layout() {
     return (
-        <View className="flex-1 bg-paper">
+        <>
             <StatusBar style="dark" />
-            <Slot />
-        </View>
+            <Stack 
+                screenOptions={{ 
+                    headerShown: false,
+                    contentStyle: { backgroundColor: '#F7F5F0' }, // bg-paper
+                    gestureEnabled: true,
+                }} 
+            />
+        </>
     );
 }
