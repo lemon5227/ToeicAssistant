@@ -169,6 +169,61 @@ export const PaperCard: React.FC<PaperCardProps> = ({ children, className, ...pr
     );
 };
 
+export const CorrectStamp = () => (
+  <View style={{ 
+    position: 'absolute', 
+    right: 15, 
+    top: 10,
+    width: 36, 
+    height: 36, 
+    justifyContent: 'center', 
+    alignItems: 'center',
+    borderWidth: 3, 
+    borderColor: '#8b0000', 
+    borderRadius: 4,
+    transform: [{ rotate: '-10deg' }],
+    opacity: 0.9,
+    backgroundColor: 'rgba(139, 0, 0, 0.05)' 
+  }}>
+    <Text style={{ 
+      color: '#8b0000', 
+      fontSize: 24, 
+      fontWeight: '900', // Extra Bold
+      lineHeight: 28,
+      // Using a serif font makes the symbol look more like a brush stroke
+      fontFamily: Platform.OS === 'ios' ? 'Times New Roman' : 'serif' 
+    }}>
+      ✓
+    </Text>
+  </View>
+);
+
+export const WrongStamp = () => (
+  <View style={{ 
+    position: 'absolute', 
+    right: 15, 
+    top: 10,
+    width: 36, 
+    height: 36, 
+    justifyContent: 'center', 
+    alignItems: 'center',
+    borderWidth: 3, 
+    borderColor: '#8b0000', 
+    borderRadius: 4,
+    transform: [{ rotate: '5deg' }],
+    opacity: 0.8,
+  }}>
+    <Text style={{ 
+      color: '#8b0000', 
+      fontSize: 20, 
+      fontWeight: '900', 
+      fontFamily: Platform.OS === 'ios' ? 'Times New Roman' : 'serif'
+    }}>
+      ✕
+    </Text>
+  </View>
+);
+
 const styles = StyleSheet.create({
     mountainsContainer: {
         position: 'absolute',
@@ -181,11 +236,13 @@ const styles = StyleSheet.create({
     },
     listCard: {
         backgroundColor: 'rgba(255, 255, 255, 0.7)',
-        borderRadius: 12,
+        borderRadius: 6,
         padding: 16,
         marginBottom: 12,
         borderWidth: 1,
         borderColor: '#dcdcdc',
+        borderLeftWidth: 4,
+        borderLeftColor: '#8b0000',
         flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center',
@@ -193,7 +250,7 @@ const styles = StyleSheet.create({
         shadowOffset: { width: 0, height: 1 },
         shadowOpacity: 0.05,
         shadowRadius: 2,
-        elevation: 2,
+        elevation: 1,
     },
     listCardContent: {
         flex: 1,
@@ -203,19 +260,14 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         color: '#2c2c2c',
         marginBottom: 4,
-        fontFamily: Platform.OS === 'ios' ? 'PingFang SC' : 'serif',
+        fontFamily: Platform.OS === 'ios' ? 'Georgia' : 'serif',
     },
     listCardSubtitle: {
         fontSize: 12,
         color: '#666',
     },
     listCardDecoration: {
-        width: 4,
-        height: 24,
-        backgroundColor: '#8b0000',
-        borderRadius: 2,
-        marginLeft: 16,
-        opacity: 0.6,
+        display: 'none',
     },
     sealTitle: {
         fontSize: 28,
@@ -228,13 +280,12 @@ const styles = StyleSheet.create({
     },
     sealInfo: {
         fontSize: 12,
-        color: '#8b0000',
-        fontWeight: 'bold',
-        borderWidth: 1,
-        borderColor: '#8b0000',
-        paddingHorizontal: 8,
-        paddingVertical: 2,
-        borderRadius: 4,
+        color: '#666',
+        fontWeight: '400',
+        borderBottomWidth: 2,
+        borderBottomColor: '#8b0000',
+        paddingBottom: 4,
+        width: 140,
     },
     sealSuccess: {
         fontSize: 16,
@@ -268,21 +319,21 @@ interface InkButtonProps extends TouchableOpacityProps {
 }
 
 export const InkButton: React.FC<InkButtonProps> = ({ children, variant = 'primary', className, textClassName, ...props }) => {
-    let containerClass = "py-3 px-6 rounded-full items-center justify-center";
-    let textClass = "font-serif text-lg";
+    let containerClass = "py-3 px-6 rounded-lg items-center justify-center";
+    let textClass = "font-serif text-base";
 
     if (variant === 'primary') {
         containerClass += " bg-ink";
         textClass += " text-paper font-bold";
     } else if (variant === 'outline') {
-        containerClass += " border-2 border-ink bg-transparent";
-        textClass += " text-ink font-bold";
+        containerClass += " border border-stone-300 bg-white";
+        textClass += " text-stone-700 font-normal";
     } else if (variant === 'correct') {
-        containerClass += " bg-green-600 border-2 border-green-600";
-        textClass += " text-white font-bold";
+        containerClass += " bg-white border-2 border-green-700";
+        textClass += " text-green-700 font-bold";
     } else if (variant === 'wrong') {
-        containerClass += " bg-red-100 border-2 border-red-500";
-        textClass += " text-red-800 font-bold";
+        containerClass += " bg-white border-2 border-red-700";
+        textClass += " text-red-700 font-bold";
     } else {
         containerClass += " bg-transparent";
         textClass += " text-ink underline";

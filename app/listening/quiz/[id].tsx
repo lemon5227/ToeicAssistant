@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { View, Text, ScrollView, Animated, Dimensions } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { DataLoader } from '../../../services/DataLoader';
-import { GuofengBackground, SealText, GuofengBackButton, InkButton, PaperCard } from '../../../components/ui/GuofengComponents';
+import { GuofengBackground, SealText, GuofengBackButton, InkButton, PaperCard, CorrectStamp, WrongStamp } from '../../../components/ui/GuofengComponents';
 import { AudioPlayer } from '../../../components/ui/AudioPlayer';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -29,14 +29,17 @@ const OptionButton = ({
     
     if (selected) {
         if (showResult) {
-            bgClass = isCorrect ? "bg-jade/20 border-jade" : "bg-cinnabar/20 border-cinnabar";
+            // 选中且显示结果：对则绿，错则红
+            bgClass = isCorrect ? "bg-jade/10 border-jade" : "bg-cinnabar/10 border-cinnabar";
             textClass = isCorrect ? "text-jade font-bold" : "text-cinnabar font-bold";
         } else {
+            // 选中但未提交
             bgClass = "bg-ink border-ink";
             textClass = "text-paper font-bold";
         }
     } else if (showResult && isCorrect) {
-        bgClass = "bg-jade/20 border-jade";
+        // 未选中但正确
+        bgClass = "bg-jade/10 border-jade";
         textClass = "text-jade font-bold";
     }
 
@@ -52,14 +55,14 @@ const OptionButton = ({
             </View>
             <Text className={`flex-1 font-serif text-base leading-6 ${textClass}`}>{text}</Text>
             
-            {showResult && selected && (
-                <View className="absolute right-2 top-2 opacity-80 transform rotate-12">
-                    <View className={`border-2 w-12 h-12 rounded-full items-center justify-center ${isCorrect ? 'border-jade' : 'border-cinnabar'}`}>
-                        <Text className={`font-bold text-xs ${isCorrect ? 'text-jade' : 'text-cinnabar'}`}>
-                            {isCorrect ? '赏' : '误'}
-                        </Text>
-                    </View>
-                </View>
+            {showResult && (selected || isCorrect) && (
+                <>
+                    {isCorrect ? (
+                        <CorrectStamp />
+                    ) : (
+                        selected && <WrongStamp />
+                    )}
+                </>
             )}
         </InkButton>
     );

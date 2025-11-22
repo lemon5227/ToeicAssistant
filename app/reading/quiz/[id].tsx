@@ -2,45 +2,46 @@ import React, { useState, useMemo, useRef, useEffect } from 'react';
 import { View, Text, ScrollView, Animated, Dimensions } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { DataLoader, Question } from '../../../services/DataLoader';
-import { GuofengBackground, SealText, GuofengBackButton, InkButton, PaperCard } from '../../../components/ui/GuofengComponents';
+import UserProgressService from '../../../services/UserProgressService';
+import { GuofengBackground, SealText, GuofengBackButton, InkButton, PaperCard, CorrectStamp, WrongStamp } from '../../../components/ui/GuofengComponents';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 const { width } = Dimensions.get('window');
 
 // --- 选项组件 (复用) ---
-const OptionButton = ({
-    label,
-    text,
-    selected,
-    isCorrect,
-    showResult,
-    onPress
-}: {
-    label: string;
-    text: string;
-    selected: boolean;
-    isCorrect?: boolean;
-    showResult: boolean;
-    onPress: () => void
+const OptionButton = ({ 
+    label, 
+    text, 
+    selected, 
+    isCorrect, 
+    showResult, 
+    onPress 
+}: { 
+    label: string; 
+    text: string; 
+    selected: boolean; 
+    isCorrect?: boolean; 
+    showResult: boolean; 
+    onPress: () => void 
 }) => {
     let bgClass = "bg-white/80 border-stone-300";
     let textClass = "text-ink";
-
+    
     if (selected) {
         if (showResult) {
-            bgClass = isCorrect ? "bg-jade/20 border-jade" : "bg-cinnabar/20 border-cinnabar";
+            bgClass = isCorrect ? "bg-jade/10 border-jade" : "bg-cinnabar/10 border-cinnabar";
             textClass = isCorrect ? "text-jade font-bold" : "text-cinnabar font-bold";
         } else {
             bgClass = "bg-ink border-ink";
             textClass = "text-paper font-bold";
         }
     } else if (showResult && isCorrect) {
-        bgClass = "bg-jade/20 border-jade";
+        bgClass = "bg-jade/10 border-jade";
         textClass = "text-jade font-bold";
     }
 
     return (
-        <InkButton
+        <InkButton 
             onPress={onPress}
             activeOpacity={0.9}
             className={`flex-row items-start justify-start mb-2 px-3 py-3 border rounded-lg ${bgClass}`}
@@ -50,11 +51,19 @@ const OptionButton = ({
                 <Text className={`font-serif text-xs font-bold ${selected ? textClass : 'text-stone-500'}`}>{label}</Text>
             </View>
             <Text className={`flex-1 font-serif text-sm leading-5 ${textClass}`}>{text}</Text>
+
+            {showResult && (selected || isCorrect) && (
+                <>
+                    {isCorrect ? (
+                        <CorrectStamp />
+                    ) : (
+                        selected && <WrongStamp />
+                    )}
+                </>
+            )}
         </InkButton>
     );
-};
-
-export default function ReadingQuiz() {
+};export default function ReadingQuiz() {
     const { id } = useLocalSearchParams();
     const router = useRouter();
 
@@ -140,18 +149,40 @@ export default function ReadingQuiz() {
         setAnswers({ ...answers, [questionId]: option });
     };
 
-    const handleSubmit = () => {
+    const handleSubmit = async () => {
         setShowFeedback(true);
 
         // Calculate score for current group
         let groupScore = 0;
-        currentGroup.questions.forEach(q => {
+        let correctCount = 0;
+        let totalCount = 0;
+
+        for (const q of currentGroup.questions) {
+            totalCount++;
             const selectedIndex = q.options.indexOf(answers[q.id]);
             const selectedLetter = selectedIndex >= 0 ? String.fromCharCode(65 + selectedIndex) : '';
-            if (selectedLetter === q.answer) {
+            const isCorrect = selectedLetter === q.answer;
+
+            if (isCorrect) {
                 groupScore++;
+                correctCount++;
+            } else {
+                // Save wrong question
+                await UserProgressService.saveWrongQuestion({
+                    id: q.id,
+                    testId: id as string,
+                    section: 'reading',
+                    question: q.question,
+                    userAnswer: selectedLetter,
+                    correctAnswer: q.answer || '',
+                    explanation: q.explanation,
+                    timestamp: Date.now(),
+                });
             }
-        });
+
+            // Update stats per question
+            await UserProgressService.updateStats(isCorrect, 'reading');
+        }
 
         setScore(score + groupScore);
     };
