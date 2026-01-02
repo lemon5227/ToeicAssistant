@@ -628,7 +628,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'rgba(255,255,255,0.6)',
     borderRadius: 16,
     borderWidth: 1,
-    borderColor: '#dcdcdc',
+    borderColor: '#E5E5E5', // Clean, subtle border for all platforms
     justifyContent: 'center',
     alignItems: 'center',
     overflow: 'hidden',
@@ -637,9 +637,9 @@ const styles = StyleSheet.create({
       width: 0,
       height: 2,
     },
-    shadowOpacity: 0.1,
+    shadowOpacity: 0.05, // Very subtle shadow
     shadowRadius: 3.84,
-    elevation: 5,
+    // elevation: 3, // Removed to fix ugly border on Android
   },
   cardContent: {
     alignItems: 'center',
@@ -736,7 +736,7 @@ const styles = StyleSheet.create({
   },
   // Stamp - Hollow Yangwen Style
   stampBox: {
-    width: 46,
+    width: 54, // Increased width to prevent wrapping
     height: 46,
     borderWidth: 3,
     borderColor: '#A83232',
@@ -748,8 +748,9 @@ const styles = StyleSheet.create({
   },
   stampText: {
     color: '#A83232',
-    fontWeight: '900',
-    fontSize: 18,
-    fontFamily: Platform.OS === 'ios' ? 'Georgia' : 'serif',
+    fontWeight: 'bold',
+    fontSize: 16,
+    letterSpacing: 1,
+    includeFontPadding: false, // Android specific fix for vertical alignment
   },
 });
