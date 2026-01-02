@@ -2,7 +2,14 @@
 
 ![App Icon](./assets/icon.png)
 
-## 📖 项目简介 (Introduction)
+## � 扫码即刻体验 (Scan to Preview)
+
+<div align="center">
+  <img src="./assets/images/preview-qr.png" width="200" alt="QR Code" />
+  <p>使用 Expo Go 扫描上方二维码 或 <a href="https://expo.dev/preview/update?message=feat%3A+Implement+user+profile+and+mistake+tracking+features+with+a+new+progress+service+and+UI+components.&updateRuntimeVersion=1.0.0&createdAt=2026-01-02T02%3A36%3A00.851Z&slug=exp&projectId=79399f15-d515-45e5-9580-6d7d4d642e0b&group=b1249506-19e6-45fe-8f14-0a9b242d14f6">点击此处查看预览</a></p>
+</div>
+
+## �📖 项目简介 (Introduction)
 
 **墨韵 · 托业** 是一款融合了中国传统水墨美学 (Guofeng Aesthetic) 的托业 (TOEIC) 备考辅助应用。本项目旨在摆脱传统英语学习应用枯燥的界面设计，通过“墨韵”、“印章”、“卷轴”等国风元素，为用户营造沉浸、宁静的学习氛围。
 
@@ -87,7 +94,9 @@ ToeicAssistant/
 
 ## 🎨 界面预览 (Screenshots)
 
-*请在此处添加应用截图*
+<div align="center">
+  <img src="./assets/images/screenshot-home.jpg" width="300" alt="Home Screen" style="border-radius: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 ## 📄 许可证 (License)
 
